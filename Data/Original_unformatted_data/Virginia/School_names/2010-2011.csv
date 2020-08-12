@@ -1,0 +1,1790 @@
+,SCH_NAME,SCHOOL_YR,LEVEL_CODE,DIV_NUM,DIV_NAME,SCH_NUM,GRADE_CODE,FEDERAL_RACE_CODE,GENDER,DISABILITY_FLAG,LEP_FLAG,DISADVANTAGED_FLAG,PRIMARY_DISABILITY_TYPE,DEC1_CNT
+0,A. Henderson Elementary,2010-2011,SCH,75.0,Prince William County ,330.0,01,5.0,M,Y,N,N,DD,10
+1,A.G. Richardson Elementary,2010-2011,SCH,24.0,Culpeper County ,240.0,05,5.0,M,Y,N,Y,SLI,10
+2,A.M. Davis Elementary,2010-2011,SCH,21.0,Chesterfield County ,620.0,01,3.0,M,Y,N,Y,SLI,10
+3,A.P. Hill Elementary,2010-2011,SCH,120.0,Petersburg City ,110.0,02,3.0,M,Y,N,Y,AUT,11
+4,A.S. Rhodes Elementary,2010-2011,SCH,93.0,Warren County ,90.0,,5.0,M,Y,N,N,SLI,11
+5,A.W.E. Bassette Elementary,2010-2011,SCH,112.0,Hampton City ,500.0,01,3.0,M,Y,N,Y,SLD,11
+6,Abbs Valley-Boissevain Elementary,2010-2011,SCH,92.0,Tazewell County ,1020.0,,5.0,F,Y,N,Y,SLI,11
+7,Aberdeen Elementary,2010-2011,SCH,112.0,Hampton City ,160.0,03,3.0,M,Y,N,Y,SLD,13
+8,Abingdon Elementary,2010-2011,SCH,7.0,Arlington County ,350.0,01,3.0,F,Y,N,Y,SLD,11
+9,Abingdon High,2010-2011,SCH,94.0,Washington County ,1030.0,09,5.0,F,Y,N,N,OHI,10
+10,Accawmacke Elementary,2010-2011,SCH,1.0,Accomack County ,701.0,02,3.0,M,Y,N,Y,SLD,10
+11,Achievable Dream Academy,2010-2011,SCH,117.0,Newport News City ,1404.0,01,3.0,M,Y,N,Y,DD,13
+12,Achilles Elementary,2010-2011,SCH,36.0,Gloucester County ,240.0,PS,5.0,M,Y,N,N,SLI,12
+13,Acquinton Elementary,2010-2011,SCH,50.0,King William County ,180.0,03,5.0,M,Y,N,Y,SLD,10
+14,Addison Aerospace Magnet Middle,2010-2011,SCH,124.0,Roanoke City ,280.0,06,3.0,M,Y,N,Y,SLD,10
+15,Admiral Richard E. Byrd Middle,2010-2011,SCH,34.0,Frederick County ,586.0,06,5.0,M,Y,N,N,OHI,12
+16,Agnor-Hurt Elementary,2010-2011,SCH,2.0,Albemarle County ,160.0,01,5.0,M,Y,N,N,SLI,11
+17,Alanton Elementary,2010-2011,SCH,128.0,Virginia Beach City ,590.0,01,3.0,M,Y,N,N,DD,10
+18,Albemarle County Community Public Charter School,2010-2011,SCH,2.0,Albemarle County ,1060.0,06,5.0,M,Y,N,N,,10
+19,Albemarle High,2010-2011,SCH,2.0,Albemarle County ,880.0,09,3.0,M,Y,N,Y,OHI,10
+20,Albert Harris Elementary,2010-2011,SCH,116.0,Martinsville City ,222.0,01,3.0,M,Y,N,Y,SLI,12
+21,Albert Hill Middle,2010-2011,SCH,123.0,Richmond City ,30.0,06,3.0,F,Y,N,N,SLD,10
+22,Alberta Smith Elementary,2010-2011,SCH,21.0,Chesterfield County ,861.0,01,5.0,M,Y,N,N,SLI,13
+23,Aldrin Elementary,2010-2011,SCH,29.0,Fairfax County ,2203.0,01,5.0,M,Y,N,N,DD,11
+24,Alfred S. Forrest Elementary,2010-2011,SCH,112.0,Hampton City ,260.0,01,3.0,M,Y,N,N,SLD,11
+25,Algonkian Elementary,2010-2011,SCH,53.0,Loudoun County ,150.0,01,5.0,M,Y,N,N,AUT,10
+26,Alleghany High,2010-2011,SCH,3.0,Alleghany County ,310.0,09,5.0,F,Y,N,N,OHI,11
+27,Altavista Elementary,2010-2011,SCH,16.0,Campbell County ,560.0,01,5.0,M,Y,N,Y,SLI,10
+28,Altavista High,2010-2011,SCH,16.0,Campbell County ,200.0,06,5.0,M,Y,N,N,SLD,11
+29,Amelia County Elementary,2010-2011,SCH,4.0,Amelia County ,220.0,01,5.0,M,Y,N,Y,SLI,11
+30,Amelia County High,2010-2011,SCH,4.0,Amelia County ,10.0,09,5.0,M,Y,N,N,SLD,10
+31,Amelia County Middle,2010-2011,SCH,4.0,Amelia County ,210.0,05,5.0,M,Y,N,Y,SLD,11
+32,Amelia Street Special Education,2010-2011,SCH,123.0,Richmond City ,750.0,12,3.0,F,Y,N,N,DD,13
+33,Amelon Elementary,2010-2011,SCH,5.0,Amherst County ,780.0,01,5.0,M,Y,N,Y,SLI,10
+34,Amherst County High,2010-2011,SCH,5.0,Amherst County ,750.0,09,3.0,M,Y,N,N,OHI,11
+35,Amherst Elementary,2010-2011,SCH,5.0,Amherst County ,790.0,03,5.0,M,Y,N,N,SLI,10
+36,Amherst Middle,2010-2011,SCH,5.0,Amherst County ,670.0,06,5.0,M,Y,N,Y,SLD,11
+37,Andrew G. Wright Middle,2010-2011,SCH,89.0,Stafford County ,40.0,06,5.0,M,Y,N,N,SLD,10
+38,Andrew Lewis Middle,2010-2011,SCH,139.0,Salem City ,100.0,06,5.0,M,Y,N,N,OHI,15
+39,Annandale High,2010-2011,SCH,29.0,Fairfax County ,660.0,09,2.0,M,Y,Y,N,SLD,13
+40,Annandale Terrace Elementary,2010-2011,SCH,29.0,Fairfax County ,1360.0,01,4.0,M,Y,Y,N,SLD,13
+41,Anne E. Moncure Elementary,2010-2011,SCH,89.0,Stafford County ,260.0,01,5.0,M,Y,N,N,SLI,10
+42,Anthony Burns Elementary,2010-2011,SCH,89.0,Stafford County ,433.0,02,3.0,M,Y,N,N,SLD,11
+43,Anthony P. Mehfoud Elementary,2010-2011,SCH,43.0,Henrico County ,450.0,02,3.0,M,Y,N,N,SLI,10
+44,Antietam Elementary,2010-2011,SCH,75.0,Prince William County ,760.0,02,3.0,M,Y,N,N,DD,10
+45,Appalachia Elementary,2010-2011,SCH,96.0,Wise County ,20.0,,5.0,F,Y,N,Y,SLD,10
+46,Appalachia High,2010-2011,SCH,96.0,Wise County ,710.0,08,5.0,M,Y,N,Y,SLD,10
+47,Apple Pie Ridge Elementary,2010-2011,SCH,34.0,Frederick County ,10.0,04,5.0,F,Y,N,N,SLI,11
+48,Appomattox County High,2010-2011,SCH,6.0,Appomattox County ,260.0,09,5.0,M,Y,N,Y,SLD,14
+49,Appomattox Elementary,2010-2011,SCH,6.0,Appomattox County ,110.0,03,5.0,M,Y,N,Y,SLI,10
+50,Appomattox Middle,2010-2011,SCH,6.0,Appomattox County ,160.0,06,5.0,M,Y,N,N,SLD,10
+51,Appomattox Primary,2010-2011,SCH,6.0,Appomattox County ,250.0,01,5.0,M,Y,N,Y,DD,12
+52,Arcadia High,2010-2011,SCH,1.0,Accomack County ,540.0,09,3.0,F,Y,N,Y,SLD,14
+53,Arcadia Middle ,2010-2011,SCH,1.0,Accomack County ,704.0,06,3.0,M,Y,N,Y,SLD,11
+54,Archer Elementary,2010-2011,SCH,29.0,Fairfax County ,110.0,04,4.0,M,Y,N,N,SLD,10
+55,Arcola Elementary,2010-2011,SCH,53.0,Loudoun County ,610.0,04,5.0,M,Y,N,N,DD,10
+56,Arlington Science Focus School,2010-2011,SCH,7.0,Arlington County ,613.0,KG,3.0,M,Y,N,N,SLI,10
+57,Arlington Traditional,2010-2011,SCH,7.0,Arlington County ,470.0,01,5.0,F,Y,N,N,SLI,12
+58,Armel Elementary,2010-2011,SCH,34.0,Frederick County ,320.0,03,5.0,M,Y,N,N,SLD,10
+59,Armstrong Elementary,2010-2011,SCH,29.0,Fairfax County ,1530.0,03,5.0,F,Y,N,N,SLD,10
+60,Armstrong High ,2010-2011,SCH,123.0,Richmond City ,850.0,09,3.0,F,Y,N,N,EMN,10
+61,Arrowhead Elementary,2010-2011,SCH,128.0,Virginia Beach City ,550.0,04,5.0,M,Y,N,N,DD,12
+62,Arthur Ashe Jr. Elementary ,2010-2011,SCH,43.0,Henrico County ,320.0,04,3.0,F,Y,N,N,SLI,11
+63,Arthur R. Ware Elementary,2010-2011,SCH,126.0,Staunton City ,40.0,01,5.0,M,Y,N,Y,SLI,11
+64,Ashburn Elementary,2010-2011,SCH,53.0,Loudoun County ,170.0,03,5.0,M,Y,N,N,SLI,10
+65,Ashby Lee Elementary,2010-2011,SCH,85.0,Shenandoah County ,820.0,01,5.0,M,Y,N,Y,SLI,11
+66,Ashland Elementary,2010-2011,SCH,75.0,Prince William County ,200.0,01,5.0,M,Y,N,N,SLI,10
+67,Ashlawn Elementary,2010-2011,SCH,7.0,Arlington County ,490.0,05,4.0,M,Y,N,N,SLD,10
+68,Atkins Elementary,2010-2011,SCH,86.0,Smyth County ,290.0,,5.0,M,Y,N,Y,SLI,13
+69,Atlee High,2010-2011,SCH,42.0,Hanover County ,62.0,09,5.0,M,Y,N,N,SLD,12
+70,Auburn Elementary,2010-2011,SCH,60.0,Montgomery County ,902.0,05,5.0,F,Y,N,Y,SLI,10
+71,Auburn High,2010-2011,SCH,60.0,Montgomery County ,650.0,09,5.0,M,Y,N,Y,SLD,15
+72,Auburn Middle,2010-2011,SCH,30.0,Fauquier County ,854.0,06,5.0,M,Y,N,N,SLD,10
+73,Axton Elementary,2010-2011,SCH,44.0,Henry County ,361.0,02,3.0,M,Y,N,Y,SLI,10
+74,Azalea Gardens Middle,2010-2011,SCH,118.0,Norfolk City ,760.0,06,3.0,M,Y,N,Y,SLD,14
+75,B.C. Charles Elementary ,2010-2011,SCH,117.0,Newport News City ,1250.0,03,3.0,M,Y,N,Y,SLD,11
+76,B.M. Williams Primary,2010-2011,SCH,136.0,Chesapeake City ,630.0,01,3.0,M,Y,N,Y,OHI,11
+77,B.T. Washington High ,2010-2011,SCH,118.0,Norfolk City ,880.0,09,3.0,F,Y,N,Y,SLD,34
+78,Back Creek Elementary,2010-2011,SCH,80.0,Roanoke County ,420.0,05,5.0,F,Y,N,N,SLI,12
+79,Bacon District Elementary,2010-2011,SCH,20.0,Charlotte County ,470.0,,3.0,M,Y,N,Y,SLI,11
+80,Bailey Bridge Middle,2010-2011,SCH,21.0,Chesterfield County ,631.0,06,3.0,M,Y,N,N,OHI,17
+81,Bailey's Elementary School for the Arts and Sciences,2010-2011,SCH,29.0,Fairfax County ,550.0,01,4.0,M,Y,Y,Y,SLD,10
+82,Baker-Butler Elementary,2010-2011,SCH,2.0,Albemarle County ,1053.0,03,5.0,M,Y,N,N,SLI,10
+83,Baldwin Elementary,2010-2011,SCH,143.0,Manassas City ,470.0,02,4.0,M,Y,Y,Y,SLI,10
+84,Ball's Bluff Elementary,2010-2011,SCH,53.0,Loudoun County ,220.0,01,3.0,M,Y,N,N,SLI,11
+85,Banneker Elementary,2010-2011,SCH,53.0,Loudoun County ,650.0,,5.0,M,Y,N,N,SLI,14
+86,Barcroft Elementary,2010-2011,SCH,7.0,Arlington County ,150.0,02,4.0,M,Y,Y,Y,DD,10
+87,Barrett Elementary,2010-2011,SCH,7.0,Arlington County ,250.0,01,4.0,F,Y,N,Y,SLD,11
+88,Barron Elementary,2010-2011,SCH,112.0,Hampton City ,330.0,03,3.0,M,Y,N,Y,SLI,10
+89,Bass-Hoover Elementary,2010-2011,SCH,34.0,Frederick County ,20.0,02,5.0,F,Y,N,N,SLI,10
+90,Bassett High,2010-2011,SCH,44.0,Henry County ,10.0,09,5.0,F,Y,N,N,SLD,11
+91,Bath County High,2010-2011,SCH,9.0,Bath County ,140.0,10,5.0,F,Y,N,Y,SLD,10
+92,Battlefield Elementary,2010-2011,SCH,88.0,Spotsylvania County ,10.0,01,3.0,M,Y,N,Y,SLD,10
+93,Battlefield High ,2010-2011,SCH,75.0,Prince William County ,290.0,09,3.0,M,Y,N,N,SLD,12
+94,Battlefield Middle,2010-2011,SCH,88.0,Spotsylvania County ,50.0,06,5.0,M,Y,N,N,SLD,12
+95,Battlefield Park Elementary,2010-2011,SCH,42.0,Hanover County ,360.0,02,5.0,M,Y,N,N,SLI,10
+96,Bay View Elementary,2010-2011,SCH,118.0,Norfolk City ,250.0,02,5.0,M,Y,N,Y,SLI,11
+97,Bayside Elementary,2010-2011,SCH,128.0,Virginia Beach City ,280.0,01,5.0,M,Y,N,N,DD,10
+98,Bayside High,2010-2011,SCH,128.0,Virginia Beach City ,530.0,09,3.0,F,Y,N,N,SLD,11
+99,Bayside Middle,2010-2011,SCH,128.0,Virginia Beach City ,700.0,06,3.0,F,Y,N,Y,SLD,11
+100,Baywood Elementary,2010-2011,SCH,38.0,Grayson County ,440.0,PS,5.0,F,Y,N,N,DD,10
+101,Beaverdam Elementary,2010-2011,SCH,42.0,Hanover County ,20.0,01,5.0,F,Y,N,N,SLI,12
+102,Bedford Elementary,2010-2011,SCH,10.0,Bedford County ,480.0,03,5.0,M,Y,N,Y,SLI,11
+103,Bedford Hills Elementary,2010-2011,SCH,115.0,Lynchburg City ,290.0,01,3.0,M,Y,N,Y,AUT,14
+104,Bedford Middle,2010-2011,SCH,10.0,Bedford County ,490.0,07,5.0,M,Y,N,N,SLD,10
+105,Bedford Primary,2010-2011,SCH,10.0,Bedford County ,1200.0,02,5.0,M,Y,N,Y,SLI,10
+106,Beech Tree Elementary,2010-2011,SCH,29.0,Fairfax County ,1730.0,02,4.0,M,Y,Y,N,DD,11
+107,Bel Air Elementary,2010-2011,SCH,75.0,Prince William County ,670.0,01,3.0,M,Y,N,Y,SLI,10
+108,Belfast Elk Garden Elementary,2010-2011,SCH,83.0,Russell County ,580.0,,5.0,M,Y,N,N,SLI,10
+109,Belfield Elementary,2010-2011,SCH,40.0,Greensville County ,260.0,05,3.0,M,Y,N,Y,SLD,13
+110,Belle Heth Elementary,2010-2011,SCH,122.0,Radford City ,10.0,03,5.0,M,Y,N,N,SLI,13
+111,Belle View Elementary,2010-2011,SCH,29.0,Fairfax County ,560.0,04,4.0,M,Y,N,N,SLD,11
+112,Bellevue Elementary,2010-2011,SCH,123.0,Richmond City ,100.0,03,3.0,F,Y,N,Y,SLD,10
+113,Bellwood Elementary,2010-2011,SCH,21.0,Chesterfield County ,660.0,01,3.0,M,Y,N,Y,SLI,10
+114,Belmont Elementary,2010-2011,SCH,75.0,Prince William County ,600.0,,4.0,F,Y,Y,N,SLI,11
+115,Belmont Ridge Middle,2010-2011,SCH,53.0,Loudoun County ,940.0,06,5.0,F,Y,N,N,SLD,14
+116,Belmont Station Elementary ,2010-2011,SCH,53.0,Loudoun County ,300.0,01,5.0,M,Y,N,N,AUT,10
+117,Belvedere Elementary,2010-2011,SCH,29.0,Fairfax County ,720.0,01,4.0,M,Y,Y,Y,SLD,12
+118,Belview Elementary,2010-2011,SCH,60.0,Montgomery County ,700.0,,5.0,M,Y,N,Y,,15
+119,Benjamin F. Yancey Elementary,2010-2011,SCH,2.0,Albemarle County ,900.0,,5.0,,Y,N,Y,,11
+120,Benjamin Franklin Middle-East,2010-2011,SCH,33.0,Franklin County ,32.0,06,5.0,F,Y,N,Y,SLD,14
+121,Benjamin Franklin Middle-West,2010-2011,SCH,33.0,Franklin County ,31.0,07,3.0,M,Y,N,N,SLD,11
+122,Benjamin Syms Middle,2010-2011,SCH,112.0,Hampton City ,350.0,06,3.0,M,Y,N,Y,SLD,11
+123,Bennett Elementary,2010-2011,SCH,75.0,Prince William County ,840.0,03,5.0,M,Y,N,N,SLI,10
+124,Bensley Elementary,2010-2011,SCH,21.0,Chesterfield County ,430.0,01,3.0,M,Y,N,Y,SLI,10
+125,Berkeley Elementary,2010-2011,SCH,88.0,Spotsylvania County ,340.0,01,5.0,F,Y,N,Y,SLI,11
+126,Berkeley Glenn Elementary,2010-2011,SCH,130.0,Waynesboro City ,650.0,01,5.0,M,Y,N,Y,OHI,10
+127,Berkeley Middle,2010-2011,SCH,131.0,Williamsburg-James City County ,60.0,06,3.0,M,Y,N,N,SLD,11
+128,Bessie Weller Elementary,2010-2011,SCH,126.0,Staunton City ,70.0,01,5.0,M,Y,N,Y,SLI,11
+129,Bethel Elementary,2010-2011,SCH,36.0,Gloucester County ,381.0,02,5.0,M,Y,N,N,SLD,10
+130,Bethel High,2010-2011,SCH,112.0,Hampton City ,430.0,09,3.0,F,Y,N,Y,OHI,11
+131,Bethel Manor Elementary,2010-2011,SCH,98.0,York County ,180.0,01,5.0,M,Y,N,N,SLI,11
+132,Bettie Weaver Elementary,2010-2011,SCH,21.0,Chesterfield County ,510.0,01,5.0,M,Y,N,N,SLI,12
+133,Beulah Elementary,2010-2011,SCH,21.0,Chesterfield County ,130.0,02,3.0,M,Y,N,Y,SLD,11
+134,Beverley Manor Elementary,2010-2011,SCH,8.0,Augusta County ,210.0,,5.0,F,Y,N,Y,SLI,10
+135,Beverley Manor Middle,2010-2011,SCH,8.0,Augusta County ,212.0,06,5.0,M,Y,N,N,SLD,11
+136,Big Island Elementary,2010-2011,SCH,10.0,Bedford County ,30.0,,5.0,M,Y,N,Y,,10
+137,Binford Middle,2010-2011,SCH,123.0,Richmond City ,50.0,06,3.0,F,Y,N,Y,OHI,10
+138,Birdneck Elementary,2010-2011,SCH,128.0,Virginia Beach City ,60.0,01,5.0,M,Y,N,Y,SLD,10
+139,Blacksburg High,2010-2011,SCH,60.0,Montgomery County ,760.0,09,5.0,M,Y,N,N,SLD,14
+140,Blacksburg Middle,2010-2011,SCH,60.0,Montgomery County ,710.0,06,5.0,F,Y,N,N,SLD,10
+141,Blackstone Primary,2010-2011,SCH,67.0,Nottoway County ,340.0,04,3.0,M,Y,N,Y,SLD,10
+142,Blackwell Elementary,2010-2011,SCH,123.0,Richmond City ,170.0,01,3.0,M,Y,N,Y,SLD,11
+143,Blair Middle,2010-2011,SCH,118.0,Norfolk City ,20.0,06,3.0,F,Y,N,Y,SLD,13
+144,Bland Elementary,2010-2011,SCH,11.0,Bland County ,232.0,,5.0,M,Y,N,N,,14
+145,Bland High,2010-2011,SCH,11.0,Bland County ,231.0,,5.0,M,Y,N,N,SLD,13
+146,Blue Ridge Elementary,2010-2011,SCH,70.0,Patrick County ,440.0,,5.0,M,Y,N,Y,SLI,19
+147,Blue Ridge Middle,2010-2011,SCH,53.0,Loudoun County ,790.0,06,5.0,M,Y,N,N,SLD,18
+148,Bluestone  High,2010-2011,SCH,58.0,Mecklenburg County ,980.0,09,3.0,F,Y,N,Y,SLD,11
+149,Bluestone Middle,2010-2011,SCH,58.0,Mecklenburg County ,960.0,06,3.0,M,Y,N,Y,SLD,11
+150,Body Camp Elementary,2010-2011,SCH,10.0,Bedford County ,1160.0,,5.0,M,Y,N,Y,SLI,10
+151,Boiling Spring Elementary,2010-2011,SCH,3.0,Alleghany County ,280.0,,5.0,M,Y,N,Y,,14
+152,Bon Air Elementary,2010-2011,SCH,21.0,Chesterfield County ,20.0,04,5.0,M,Y,N,N,SLI,10
+153,Bonnie Brae Elementary,2010-2011,SCH,29.0,Fairfax County ,2000.0,03,5.0,M,Y,N,N,SLD,10
+154,Bonsack Elementary,2010-2011,SCH,80.0,Roanoke County ,752.0,01,5.0,F,Y,N,N,SLI,10
+155,Booker Elementary,2010-2011,SCH,112.0,Hampton City ,470.0,02,5.0,M,Y,N,N,SLD,12
+156,Booker T. Washington Elementary,2010-2011,SCH,127.0,Suffolk City ,50.0,03,3.0,M,Y,N,Y,SLD,10
+157,Boones Mill Elementary,2010-2011,SCH,33.0,Franklin County ,1370.0,04,5.0,F,Y,N,N,SLD,13
+158,Boonsboro Elementary,2010-2011,SCH,10.0,Bedford County ,160.0,,5.0,M,Y,N,N,,10
+159,Botetourt Elementary,2010-2011,SCH,36.0,Gloucester County ,100.0,02,5.0,M,Y,N,Y,SLI,11
+160,Bowling Green Elementary,2010-2011,SCH,17.0,Caroline County ,620.0,03,5.0,M,Y,N,Y,SLD,14
+161,Bowling Green Primary,2010-2011,SCH,17.0,Caroline County ,610.0,01,3.0,M,Y,N,Y,SLI,10
+162,Boyce Elementary,2010-2011,SCH,22.0,Clarke County ,250.0,04,5.0,M,Y,N,N,SLI,10
+163,Braddock Elementary,2010-2011,SCH,29.0,Fairfax County ,1090.0,01,4.0,M,Y,Y,Y,SLD,12
+164,Brandon Middle,2010-2011,SCH,128.0,Virginia Beach City ,790.0,06,3.0,M,Y,N,N,SLD,10
+165,Breckinridge Elementary,2010-2011,SCH,12.0,Botetourt County ,220.0,,5.0,F,Y,N,N,OHI,16
+166,Breckinridge Middle,2010-2011,SCH,124.0,Roanoke City ,210.0,06,3.0,M,Y,N,Y,SLD,11
+167,Bren Mar Park Elementary,2010-2011,SCH,29.0,Fairfax County ,940.0,01,2.0,M,Y,Y,N,SLD,10
+168,Brentsville District High,2010-2011,SCH,75.0,Prince William County ,530.0,09,4.0,F,Y,N,N,SLD,11
+169,Briar Woods High ,2010-2011,SCH,53.0,Loudoun County ,420.0,09,5.0,M,Y,N,N,OHI,15
+170,Brighton Elementary ,2010-2011,SCH,121.0,Portsmouth City ,1766.0,04,3.0,M,Y,N,Y,SLD,10
+171,Bristow Run Elementary,2010-2011,SCH,75.0,Prince William County ,860.0,01,5.0,M,Y,N,N,SLI,12
+172,Broad Rock Elementary,2010-2011,SCH,123.0,Richmond City ,1100.0,02,3.0,M,Y,N,Y,SLD,10
+173,Broad Run High,2010-2011,SCH,53.0,Loudoun County ,740.0,09,4.0,M,Y,N,N,SLD,10
+174,Broadus Wood Elementary,2010-2011,SCH,2.0,Albemarle County ,100.0,05,5.0,F,Y,N,N,SLD,10
+175,Broadway High,2010-2011,SCH,82.0,Rockingham County ,870.0,09,5.0,M,Y,N,N,SLD,10
+176,Brock Road Elementary,2010-2011,SCH,88.0,Spotsylvania County ,400.0,01,5.0,M,Y,N,N,SLI,11
+177,Brooke Point High,2010-2011,SCH,89.0,Stafford County ,421.0,09,3.0,M,Y,N,Y,SLD,10
+178,Brookfield Elementary,2010-2011,SCH,29.0,Fairfax County ,1790.0,02,4.0,M,Y,Y,N,SLD,10
+179,Brookland Middle,2010-2011,SCH,43.0,Henrico County ,500.0,06,3.0,F,Y,N,Y,SLD,11
+180,Brookneal Elementary,2010-2011,SCH,16.0,Campbell County ,650.0,02,3.0,M,Y,N,Y,SLD,11
+181,Brookville High,2010-2011,SCH,16.0,Campbell County ,720.0,09,5.0,M,Y,N,N,SLD,15
+182,Brookville Middle,2010-2011,SCH,16.0,Campbell County ,20.0,06,5.0,M,Y,N,N,SLD,13
+183,Brookwood Elementary,2010-2011,SCH,128.0,Virginia Beach City ,630.0,01,5.0,M,Y,N,N,SLI,10
+184,Brosville Elementary ,2010-2011,SCH,71.0,Pittsylvania County ,1853.0,,5.0,M,Y,N,N,SLD,11
+185,Brownsville Elementary,2010-2011,SCH,2.0,Albemarle County ,941.0,03,5.0,M,Y,N,N,SLI,11
+186,Brunswick High,2010-2011,SCH,13.0,Brunswick County ,650.0,09,3.0,M,Y,N,Y,ID,11
+187,Bruton High,2010-2011,SCH,98.0,York County ,20.0,09,5.0,M,Y,N,N,OHI,10
+188,Buchanan Elementary,2010-2011,SCH,12.0,Botetourt County ,20.0,03,5.0,M,Y,N,N,OHI,11
+189,Buckhorn Elementary,2010-2011,SCH,58.0,Mecklenburg County ,1010.0,,3.0,F,Y,N,Y,SLI,10
+190,Buckingham County High,2010-2011,SCH,15.0,Buckingham County ,700.0,09,5.0,M,Y,N,Y,ID,10
+191,Buckingham County Middle,2010-2011,SCH,15.0,Buckingham County ,721.0,06,5.0,M,Y,N,Y,SLD,12
+192,Buckingham Primary,2010-2011,SCH,15.0,Buckingham County ,10.0,,,M,Y,N,Y,,11
+193,Buckland Mills Elementary,2010-2011,SCH,75.0,Prince William County ,950.0,01,5.0,M,Y,N,N,SLI,12
+194,Bucknell Elementary,2010-2011,SCH,29.0,Fairfax County ,700.0,04,3.0,M,Y,N,Y,SLD,15
+195,Buffalo Gap High,2010-2011,SCH,8.0,Augusta County ,660.0,09,5.0,M,Y,N,Y,SLD,11
+196,Buffalo Trail Elementary,2010-2011,SCH,53.0,Loudoun County ,450.0,PS,5.0,M,Y,N,N,SLI,10
+197,Buford Middle,2010-2011,SCH,104.0,Charlottesville City ,100.0,07,3.0,M,Y,N,Y,OHI,16
+198,Bull Run Elementary,2010-2011,SCH,29.0,Fairfax County ,2225.0,01,5.0,M,Y,N,N,DD,12
+199,Bull Run Middle,2010-2011,SCH,75.0,Prince William County ,920.0,06,5.0,M,Y,N,N,SLD,17
+200,Burkeville Elementary,2010-2011,SCH,67.0,Nottoway County ,310.0,PS,,F,Y,N,Y,DD,10
+201,Burlington Elementary,2010-2011,SCH,80.0,Roanoke County ,180.0,01,5.0,M,Y,N,Y,SLI,12
+202,Burnley-Moran Elementary,2010-2011,SCH,104.0,Charlottesville City ,70.0,PS,3.0,F,Y,N,Y,SLD,10
+203,Burnt Chimney Elementary,2010-2011,SCH,33.0,Franklin County ,1320.0,02,5.0,F,Y,N,N,SLI,12
+204,Bush Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,680.0,04,3.0,M,Y,N,N,DD,11
+205,Butts Road Intermediate,2010-2011,SCH,136.0,Chesapeake City ,860.0,03,5.0,F,Y,N,N,SLD,10
+206,Butts Road Primary,2010-2011,SCH,136.0,Chesapeake City ,770.0,01,5.0,F,Y,N,N,AUT,12
+207,Byrd Elementary,2010-2011,SCH,37.0,Goochland County ,120.0,04,3.0,M,Y,N,Y,SLD,11
+208,C. Alton Lindsay Middle,2010-2011,SCH,112.0,Hampton City ,450.0,06,3.0,M,Y,N,Y,SLD,18
+209,C. Hunter Ritchie Elementary,2010-2011,SCH,30.0,Fauquier County ,460.0,01,5.0,F,Y,N,N,DD,10
+210,C.A. Sinclair Elementary,2010-2011,SCH,75.0,Prince William County ,620.0,01,4.0,M,Y,Y,Y,SLI,10
+211,C.C. Wells Elementary,2010-2011,SCH,21.0,Chesterfield County ,50.0,01,5.0,M,Y,N,N,SLI,10
+212,C.D. Hylton High,2010-2011,SCH,75.0,Prince William County ,710.0,09,3.0,M,Y,N,N,SLD,13
+213,C.E. Curtis Elementary,2010-2011,SCH,21.0,Chesterfield County ,492.0,01,5.0,M,Y,N,N,SLI,11
+214,C.M. Bradley Elementary,2010-2011,SCH,30.0,Fauquier County ,730.0,,5.0,F,Y,N,N,SLD,12
+215,Callaghan Elementary,2010-2011,SCH,3.0,Alleghany County ,110.0,PS,5.0,F,Y,N,Y,SLI,10
+216,Callaway Elementary,2010-2011,SCH,33.0,Franklin County ,350.0,03,5.0,F,Y,N,Y,SLI,10
+217,Camelot Elementary,2010-2011,SCH,29.0,Fairfax County ,1940.0,02,5.0,F,Y,N,N,DD,11
+218,Cameron Elementary,2010-2011,SCH,29.0,Fairfax County ,620.0,01,4.0,M,Y,Y,Y,SLD,10
+219,Camp Allen Elementary,2010-2011,SCH,118.0,Norfolk City ,40.0,01,3.0,M,Y,N,Y,OHI,11
+220,Campbell Court Elementary,2010-2011,SCH,44.0,Henry County ,590.0,01,5.0,M,Y,N,Y,SLD,11
+221,Campbell Elementary,2010-2011,SCH,7.0,Arlington County ,615.0,02,4.0,M,Y,Y,Y,SLI,11
+222,Campostella Elementary,2010-2011,SCH,118.0,Norfolk City ,770.0,01,3.0,M,Y,N,Y,SLD,10
+223,Canterbury Woods Elementary,2010-2011,SCH,29.0,Fairfax County ,1590.0,05,5.0,F,Y,N,N,SLI,13
+224,Capron Elementary,2010-2011,SCH,87.0,Southampton County ,710.0,,3.0,M,Y,N,Y,SLI,10
+225,Captain John Smith Elementary,2010-2011,SCH,112.0,Hampton City ,460.0,03,3.0,M,Y,N,Y,SLD,10
+226,Cardinal Forest Elementary,2010-2011,SCH,29.0,Fairfax County ,1690.0,01,2.0,M,Y,N,N,DD,11
+227,Carlin Springs Elementary,2010-2011,SCH,7.0,Arlington County ,90.0,01,4.0,M,Y,Y,Y,SLI,10
+228,Caroline High,2010-2011,SCH,17.0,Caroline County ,460.0,09,3.0,M,Y,N,Y,SLD,17
+229,Caroline Middle,2010-2011,SCH,17.0,Caroline County ,450.0,06,3.0,M,Y,N,Y,SLD,12
+230,Carroll County High,2010-2011,SCH,18.0,Carroll County ,1230.0,10,5.0,M,Y,N,Y,SLD,17
+231,Carroll County Intermediate,2010-2011,SCH,18.0,Carroll County ,360.0,08,5.0,F,Y,N,Y,SLD,11
+232,Carrollton Elementary,2010-2011,SCH,46.0,Isle of Wight County ,421.0,01,5.0,M,Y,N,N,DD,13
+233,Carrsville Elementary,2010-2011,SCH,46.0,Isle of Wight County ,280.0,,5.0,M,Y,N,N,SLI,16
+234,Carson Middle,2010-2011,SCH,29.0,Fairfax County ,2222.0,07,2.0,M,Y,Y,N,SLD,11
+235,Carter G. Woodson Middle,2010-2011,SCH,114.0,Hopewell City ,110.0,06,3.0,M,Y,N,Y,SLD,22
+236,Carver Elementary,2010-2011,SCH,117.0,Newport News City ,1170.0,01,3.0,M,Y,N,N,SLD,15
+237,Carver Elementary ,2010-2011,SCH,44.0,Henry County ,480.0,01,5.0,M,Y,N,Y,SLI,11
+238,Carver Middle,2010-2011,SCH,21.0,Chesterfield County ,420.0,06,3.0,M,Y,N,Y,SLD,10
+239,Cashell Donahoe Elementary,2010-2011,SCH,43.0,Henrico County ,120.0,02,3.0,M,Y,N,N,SLD,12
+240,Cassell Elementary,2010-2011,SCH,8.0,Augusta County ,30.0,,5.0,M,Y,N,N,SLI,12
+241,Castlewood Elementary,2010-2011,SCH,83.0,Russell County ,792.0,05,5.0,F,Y,N,Y,SLD,10
+242,Castlewood High,2010-2011,SCH,83.0,Russell County ,791.0,08,5.0,M,Y,N,Y,SLD,10
+243,Catoctin Elementary,2010-2011,SCH,53.0,Loudoun County ,710.0,02,5.0,M,Y,N,Y,SLD,11
+244,Cave Spring Elementary,2010-2011,SCH,80.0,Roanoke County ,560.0,03,5.0,M,Y,N,N,OHI,13
+245,Cave Spring High,2010-2011,SCH,80.0,Roanoke County ,470.0,09,5.0,M,Y,N,N,OHI,17
+246,Cave Spring Middle,2010-2011,SCH,80.0,Roanoke County ,620.0,06,5.0,F,Y,N,N,SLD,10
+247,Cedar Bluff Elementary,2010-2011,SCH,92.0,Tazewell County ,830.0,03,5.0,M,Y,N,Y,SLI,14
+248,Cedar Forest Elementary,2010-2011,SCH,88.0,Spotsylvania County ,511.0,02,5.0,M,Y,N,Y,DD,11
+249,Cedar Lane Elementary,2010-2011,SCH,53.0,Loudoun County ,840.0,02,5.0,M,Y,N,N,SLI,10
+250,Cedar Lee Middle,2010-2011,SCH,30.0,Fauquier County ,520.0,06,5.0,M,Y,N,N,SLD,13
+251,Cedar Mountain High,2010-2011,SCH,900.0,Department of Correctional Education,67.0,12,3.0,M,Y,N,Y,,10
+252,Cedar Point Elementary,2010-2011,SCH,75.0,Prince William County ,900.0,01,5.0,M,Y,N,N,SLI,10
+253,Cedar Road Elementary,2010-2011,SCH,136.0,Chesapeake City ,900.0,01,5.0,M,Y,N,N,SLI,11
+254,Center for Applied Technology & Career Exploration ,2010-2011,SCH,33.0,Franklin County ,1481.0,08,5.0,F,Y,N,Y,OHI,14
+255,Centerville Elementary,2010-2011,SCH,128.0,Virginia Beach City ,40.0,01,5.0,M,Y,N,N,DD,10
+256,Central Academy Middle,2010-2011,SCH,12.0,Botetourt County ,420.0,06,5.0,M,Y,N,N,OHI,14
+257,Central Elementary,2010-2011,SCH,5.0,Amherst County ,770.0,03,3.0,F,Y,N,Y,SLI,10
+258,Central High,2010-2011,SCH,49.0,King and Queen County ,280.0,10,3.0,M,Y,N,Y,SLD,10
+259,Central Middle,2010-2011,SCH,20.0,Charlotte County ,210.0,06,3.0,M,Y,N,Y,SLD,10
+260,Centre Ridge Elementary,2010-2011,SCH,29.0,Fairfax County ,2090.0,02,2.0,M,Y,N,N,DD,10
+261,Centreville Elementary,2010-2011,SCH,29.0,Fairfax County ,2205.0,01,5.0,F,Y,N,N,SLD,10
+262,Centreville High,2010-2011,SCH,29.0,Fairfax County ,200.0,09,3.0,F,Y,N,N,SLD,13
+263,Cesar Tarrant Elementary,2010-2011,SCH,112.0,Hampton City ,510.0,02,3.0,M,Y,N,N,SLD,10
+264,Chamberlayne Elementary,2010-2011,SCH,43.0,Henrico County ,590.0,03,3.0,M,Y,N,N,DD,10
+265,Chancellor Elementary,2010-2011,SCH,88.0,Spotsylvania County ,40.0,,5.0,F,Y,N,N,SLI,10
+266,Chancellor High,2010-2011,SCH,88.0,Spotsylvania County ,381.0,09,3.0,M,Y,N,Y,SLD,15
+267,Chancellor Middle,2010-2011,SCH,88.0,Spotsylvania County ,382.0,06,5.0,M,Y,N,N,SLD,10
+268,Chantilly High,2010-2011,SCH,29.0,Fairfax County ,131.0,09,3.0,M,Y,Y,N,SLD,10
+269,Charles Barrett Elementary,2010-2011,SCH,101.0,Alexandria City ,120.0,,3.0,M,Y,N,N,SLD,11
+270,Charles City County Elementary,2010-2011,SCH,19.0,Charles City County ,80.0,01,3.0,M,Y,N,N,SLI,10
+271,Charles City County High,2010-2011,SCH,19.0,Charles City County ,100.0,09,5.0,M,Y,N,N,SLD,11
+272,Charles City County Middle,2010-2011,SCH,19.0,Charles City County ,110.0,07,3.0,M,Y,N,Y,SLD,10
+273,Charles M. Johnson Elementary,2010-2011,SCH,43.0,Henrico County ,530.0,01,3.0,M,Y,N,N,SLI,13
+274,Charlottesville High,2010-2011,SCH,104.0,Charlottesville City ,140.0,09,3.0,M,Y,N,Y,SLD,15
+275,Chase City Elementary,2010-2011,SCH,58.0,Mecklenburg County ,910.0,01,3.0,M,Y,N,Y,SLI,11
+276,Chatham Elementary,2010-2011,SCH,71.0,Pittsylvania County ,640.0,01,5.0,M,Y,N,Y,SLI,12
+277,Chatham High,2010-2011,SCH,71.0,Pittsylvania County ,1720.0,09,3.0,M,Y,N,Y,OHI,10
+278,Chatham Middle,2010-2011,SCH,71.0,Pittsylvania County ,1660.0,06,3.0,M,Y,N,Y,SLD,11
+279,Check Elementary,2010-2011,SCH,31.0,Floyd County ,90.0,07,5.0,F,Y,N,N,SLD,10
+280,Cherry Run Elementary,2010-2011,SCH,29.0,Fairfax County ,480.0,06,5.0,M,Y,N,N,SLI,10
+281,Chesterbrook Elementary,2010-2011,SCH,29.0,Fairfax County ,100.0,04,5.0,M,Y,N,N,OHI,10
+282,Chesterfield Academy Elementary,2010-2011,SCH,118.0,Norfolk City ,220.0,,3.0,M,Y,N,Y,SLI,12
+283,Chickahominy Middle,2010-2011,SCH,42.0,Hanover County ,61.0,06,5.0,F,Y,N,N,OHI,16
+284,Chilhowie Elementary,2010-2011,SCH,86.0,Smyth County ,730.0,01,5.0,M,Y,N,Y,SLI,10
+285,Chilhowie High,2010-2011,SCH,86.0,Smyth County ,460.0,09,5.0,M,Y,N,Y,SLD,10
+286,Chilhowie Middle,2010-2011,SCH,86.0,Smyth County ,851.0,06,5.0,M,Y,N,Y,SLD,14
+287,Chimborazo Elementary,2010-2011,SCH,123.0,Richmond City ,830.0,02,3.0,M,Y,N,Y,OHI,12
+288,Chincoteague Elementary,2010-2011,SCH,1.0,Accomack County ,80.0,04,3.0,M,Y,N,Y,SLI,11
+289,Chincoteague High,2010-2011,SCH,1.0,Accomack County ,580.0,,5.0,M,Y,N,N,SLD,11
+290,Christiansburg Elementary,2010-2011,SCH,60.0,Montgomery County ,740.0,05,5.0,M,Y,N,Y,OHI,10
+291,Christiansburg High,2010-2011,SCH,60.0,Montgomery County ,770.0,09,5.0,M,Y,N,Y,OHI,15
+292,Christiansburg Middle,2010-2011,SCH,60.0,Montgomery County ,671.0,06,5.0,M,Y,N,Y,OHI,12
+293,Christiansburg Primary,2010-2011,SCH,60.0,Montgomery County ,780.0,01,5.0,M,Y,N,Y,SLI,11
+294,Christopher C. Kraft Elementary ,2010-2011,SCH,112.0,Hampton City ,420.0,03,3.0,M,Y,N,N,EMN,10
+295,Christopher Farms Elementary,2010-2011,SCH,128.0,Virginia Beach City ,990.0,02,5.0,F,Y,N,N,SLD,11
+296,Churchill Road Elementary,2010-2011,SCH,29.0,Fairfax County ,1050.0,04,5.0,M,Y,N,N,DD,10
+297,Churchland Academy Elementary,2010-2011,SCH,121.0,Portsmouth City ,321.0,02,3.0,M,Y,N,Y,SLD,11
+298,Churchland Elementary,2010-2011,SCH,121.0,Portsmouth City ,650.0,01,3.0,M,Y,N,Y,SLI,11
+299,Churchland High,2010-2011,SCH,121.0,Portsmouth City ,500.0,09,3.0,F,Y,N,Y,SLD,10
+300,Churchland Middle,2010-2011,SCH,121.0,Portsmouth City ,320.0,07,3.0,F,Y,N,Y,SLD,13
+301,Churchland Preschool Center,2010-2011,SCH,121.0,Portsmouth City ,322.0,PS,3.0,M,Y,N,Y,DD,11
+302,Churchland Primary & Intermediate,2010-2011,SCH,121.0,Portsmouth City ,160.0,02,3.0,M,Y,N,Y,SLD,10
+303,Churchville Elementary,2010-2011,SCH,8.0,Augusta County ,140.0,,5.0,M,Y,N,N,SLI,13
+304,Clara Byrd Baker Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,40.0,01,5.0,M,Y,N,N,SLI,10
+305,Claremont Immersion,2010-2011,SCH,7.0,Arlington County ,622.0,01,4.0,M,Y,Y,Y,SLI,11
+306,Clark Elementary,2010-2011,SCH,104.0,Charlottesville City ,50.0,PS,3.0,M,Y,N,N,SLI,12
+307,Clark Springs Elementary,2010-2011,SCH,123.0,Richmond City ,810.0,02,3.0,M,Y,N,Y,SLI,10
+308,Clarke County High,2010-2011,SCH,22.0,Clarke County ,10.0,09,5.0,M,Y,N,N,SLD,11
+309,Clarksville Elementary,2010-2011,SCH,58.0,Mecklenburg County ,1000.0,PS,3.0,M,Y,N,Y,DD,10
+310,Claude Thompson Elementary,2010-2011,SCH,30.0,Fauquier County ,120.0,,,M,Y,N,,,11
+311,Clays Mill Elementary,2010-2011,SCH,41.0,Halifax County ,1560.0,01,5.0,M,Y,N,Y,DD,10
+312,Clearbrook Elementary,2010-2011,SCH,80.0,Roanoke County ,330.0,04,5.0,F,Y,N,N,SLI,10
+313,Clearview Early Childhood Center,2010-2011,SCH,116.0,Martinsville City ,224.0,PS,,M,Y,N,Y,DD,10
+314,Clearview Elementary,2010-2011,SCH,29.0,Fairfax County ,260.0,03,4.0,M,Y,Y,Y,DD,10
+315,Clermont Elementary,2010-2011,SCH,29.0,Fairfax County ,1870.0,PS,4.0,M,Y,N,N,SLI,10
+316,Cleveland Elementary,2010-2011,SCH,83.0,Russell County ,880.0,,5.0,M,Y,N,Y,SLI,11
+317,Clifton Elementary,2010-2011,SCH,29.0,Fairfax County ,270.0,02,5.0,F,Y,N,N,SLD,10
+318,Clifton Middle,2010-2011,SCH,3.0,Alleghany County ,1040.0,06,5.0,M,Y,N,Y,OHI,11
+319,Clinchco Elementary,2010-2011,SCH,26.0,Dickenson County ,40.0,,5.0,M,Y,N,Y,SLD,19
+320,Clintwood Elementary,2010-2011,SCH,26.0,Dickenson County ,20.0,01,5.0,F,Y,N,Y,SLD,10
+321,Clintwood High,2010-2011,SCH,26.0,Dickenson County ,271.0,09,5.0,M,Y,N,N,SLD,12
+322,Clover Hill Elementary,2010-2011,SCH,21.0,Chesterfield County ,150.0,02,5.0,M,Y,N,N,SLI,14
+323,Clover Hill High,2010-2011,SCH,21.0,Chesterfield County ,740.0,09,3.0,M,Y,N,N,OHI,10
+324,Cloverdale Elementary,2010-2011,SCH,12.0,Botetourt County ,390.0,,5.0,M,Y,N,N,OHI,11
+325,Cluster Springs Early Learning Center,2010-2011,SCH,41.0,Halifax County ,1501.0,PS,5.0,M,Y,N,,DD,10
+326,Cluster Springs Elementary,2010-2011,SCH,41.0,Halifax County ,20.0,01,5.0,M,Y,N,Y,SLI,10
+327,Coates Elementary,2010-2011,SCH,29.0,Fairfax County ,2347.0,02,2.0,M,Y,N,N,SLD,12
+328,Coeburn High,2010-2011,SCH,96.0,Wise County ,652.0,10,5.0,M,Y,N,Y,SLD,11
+329,Coeburn Middle,2010-2011,SCH,96.0,Wise County ,651.0,05,5.0,M,Y,N,Y,SLD,11
+330,Coeburn Primary,2010-2011,SCH,96.0,Wise County ,653.0,01,5.0,M,Y,N,Y,SLI,11
+331,Cold Harbor Elementary,2010-2011,SCH,42.0,Hanover County ,70.0,02,5.0,M,Y,N,N,SLD,11
+332,Coleman Place Elementary,2010-2011,SCH,118.0,Norfolk City ,550.0,01,3.0,M,Y,N,Y,SLD,10
+333,Coles Elementary,2010-2011,SCH,75.0,Prince William County ,660.0,01,4.0,M,Y,Y,Y,SLI,11
+334,College Park Elementary,2010-2011,SCH,128.0,Virginia Beach City ,720.0,02,3.0,F,Y,N,Y,SLI,10
+335,Collinsville Primary,2010-2011,SCH,44.0,Henry County ,662.0,01,5.0,M,Y,N,Y,SLI,11
+336,Colonial Beach Elementary,2010-2011,SCH,202.0,Colonial Beach ,22.0,01,3.0,M,Y,N,Y,SLD,10
+337,Colonial Beach High,2010-2011,SCH,202.0,Colonial Beach ,21.0,,5.0,M,Y,N,Y,SLD,13
+338,Colonial Elementary,2010-2011,SCH,12.0,Botetourt County ,400.0,01,5.0,M,Y,N,N,SLD,10
+339,Colonial Forge High,2010-2011,SCH,89.0,Stafford County ,424.0,09,3.0,M,Y,N,N,SLD,12
+340,Colonial Heights High,2010-2011,SCH,106.0,Colonial Heights City ,40.0,09,5.0,F,Y,N,N,SLD,10
+341,Colonial Heights Middle,2010-2011,SCH,106.0,Colonial Heights City ,20.0,06,5.0,F,Y,N,N,SLD,12
+342,Colonial Trail Elementary,2010-2011,SCH,43.0,Henrico County ,93.0,01,5.0,M,Y,N,N,SLI,10
+343,Columbia District Elementary,2010-2011,SCH,32.0,Fluvanna County ,270.0,,,M,Y,N,N,SLI,13
+344,Columbia Elementary,2010-2011,SCH,29.0,Fairfax County ,1510.0,02,3.0,M,Y,N,N,DD,10
+345,Colvin Run Elementary,2010-2011,SCH,29.0,Fairfax County ,2234.0,01,5.0,M,Y,N,N,SLI,12
+346,Concord Elementary,2010-2011,SCH,16.0,Campbell County ,130.0,05,5.0,M,Y,N,Y,SLD,13
+347,Conway Elementary,2010-2011,SCH,89.0,Stafford County ,431.0,01,5.0,M,Y,N,N,DD,10
+348,Cool Spring Elementary,2010-2011,SCH,42.0,Hanover County ,551.0,01,5.0,M,Y,N,N,SLI,11
+349,Cool Spring Primary,2010-2011,SCH,50.0,King William County ,190.0,01,5.0,M,Y,N,Y,SLI,10
+350,Cooper Middle,2010-2011,SCH,29.0,Fairfax County ,1190.0,07,5.0,M,Y,N,N,SLD,19
+351,Cople Elementary,2010-2011,SCH,95.0,Westmoreland County ,210.0,,3.0,M,Y,N,Y,DD,17
+352,Copper Creek Elementary,2010-2011,SCH,83.0,Russell County ,820.0,KG,5.0,M,Y,N,N,SLI,13
+353,Cora Kelly Magnet Elementary,2010-2011,SCH,101.0,Alexandria City ,160.0,02,3.0,M,Y,N,Y,SLD,11
+354,Corporate Landing Elementary,2010-2011,SCH,128.0,Virginia Beach City ,1041.0,01,5.0,M,Y,N,N,SLI,14
+355,Corporate Landing Middle,2010-2011,SCH,128.0,Virginia Beach City ,980.0,06,3.0,M,Y,N,N,SLD,15
+356,Cosby High,2010-2011,SCH,21.0,Chesterfield County ,840.0,09,3.0,F,Y,N,N,SLD,10
+357,Cougar Elementary,2010-2011,SCH,144.0,Manassas Park City ,522.0,01,4.0,F,Y,Y,Y,SLI,10
+358,Council Elementary/Middle,2010-2011,SCH,14.0,Buchanan County ,90.0,06,5.0,F,Y,N,Y,SLD,10
+359,Council High,2010-2011,SCH,14.0,Buchanan County ,1000.0,,5.0,F,Y,N,Y,SLD,10
+360,Countryside Elementary,2010-2011,SCH,53.0,Loudoun County ,890.0,01,5.0,M,Y,N,N,SLI,10
+361,Courthouse Road Elementary,2010-2011,SCH,88.0,Spotsylvania County ,501.0,01,5.0,M,Y,N,Y,SLI,11
+362,Courtland Elementary,2010-2011,SCH,88.0,Spotsylvania County ,22.0,03,5.0,F,Y,N,N,SLI,12
+363,Courtland High,2010-2011,SCH,88.0,Spotsylvania County ,20.0,09,5.0,M,Y,N,N,SLD,10
+364,Coventry Elementary,2010-2011,SCH,98.0,York County ,90.0,01,5.0,F,Y,N,N,SLI,13
+365,Covington High,2010-2011,SCH,107.0,Covington City ,350.0,08,5.0,M,Y,N,N,OHI,11
+366,Cradock Middle,2010-2011,SCH,121.0,Portsmouth City ,1130.0,07,3.0,F,Y,N,Y,SLD,10
+367,Craig County High,2010-2011,SCH,23.0,Craig County ,11.0,09,5.0,F,Y,N,N,SLD,10
+368,Craigsville Elementary,2010-2011,SCH,8.0,Augusta County ,370.0,,5.0,F,Y,N,Y,SLI,10
+369,Creeds Elementary,2010-2011,SCH,128.0,Virginia Beach City ,230.0,03,5.0,M,Y,N,N,SLD,11
+370,Creekside Elementary,2010-2011,SCH,127.0,Suffolk City ,440.0,01,3.0,M,Y,N,Y,SLD,11
+371,Creighton's Corner Elementary,2010-2011,SCH,53.0,Loudoun County ,540.0,01,2.0,M,Y,N,N,SLI,10
+372,Crestview Elementary,2010-2011,SCH,43.0,Henrico County ,400.0,03,5.0,M,Y,N,Y,DD,10
+373,Crestwood Elementary,2010-2011,SCH,21.0,Chesterfield County ,560.0,02,3.0,M,Y,N,Y,SLI,12
+374,Crestwood Intermediate,2010-2011,SCH,136.0,Chesapeake City ,700.0,03,3.0,M,Y,N,Y,SLI,10
+375,Crestwood Middle,2010-2011,SCH,136.0,Chesapeake City ,560.0,06,3.0,M,Y,N,N,SLD,11
+376,Crewe Primary,2010-2011,SCH,67.0,Nottoway County ,330.0,02,3.0,M,Y,N,Y,SLI,10
+377,Crittenden Middle,2010-2011,SCH,117.0,Newport News City ,1393.0,06,3.0,M,Y,N,Y,SLD,12
+378,Critzer Elementary,2010-2011,SCH,77.0,Pulaski County ,20.0,01,5.0,M,Y,N,Y,SLD,12
+379,Crossfield Elementary,2010-2011,SCH,29.0,Fairfax County ,2020.0,02,5.0,M,Y,N,N,SLD,10
+380,Crossroads Elementary,2010-2011,SCH,118.0,Norfolk City ,560.0,01,3.0,M,Y,N,Y,DD,13
+381,Crozet Elementary,2010-2011,SCH,2.0,Albemarle County ,340.0,,5.0,M,Y,N,N,SLD,12
+382,Crystal Spring Elementary,2010-2011,SCH,124.0,Roanoke City ,20.0,,5.0,F,Y,N,N,SLI,11
+383,Cub Run Elementary,2010-2011,SCH,29.0,Fairfax County ,1600.0,05,4.0,M,Y,N,N,DD,10
+384,Culpeper County High,2010-2011,SCH,24.0,Culpeper County ,480.0,09,5.0,M,Y,N,Y,SLD,11
+385,Culpeper Middle,2010-2011,SCH,24.0,Culpeper County ,20.0,06,5.0,M,Y,N,N,SLD,10
+386,Cumberland Elementary,2010-2011,SCH,25.0,Cumberland County ,140.0,02,5.0,M,Y,N,Y,SLI,10
+387,Cumberland High,2010-2011,SCH,25.0,Cumberland County ,151.0,09,3.0,M,Y,N,Y,SLD,10
+388,Cumberland Middle,2010-2011,SCH,25.0,Cumberland County ,152.0,06,3.0,M,Y,N,Y,OHI,12
+389,Cunningham District Elementary,2010-2011,SCH,32.0,Fluvanna County ,290.0,01,5.0,M,Y,N,Y,SLI,10
+390,Cunningham Park Elementary,2010-2011,SCH,29.0,Fairfax County ,1700.0,02,4.0,M,Y,Y,Y,SLD,10
+391,D.G. Cooley Elementary,2010-2011,SCH,22.0,Clarke County ,290.0,PS,5.0,M,Y,N,N,SLI,10
+392,D.J. Montague Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,80.0,01,3.0,M,Y,N,N,SLI,10
+393,Dac Center,2010-2011,SCH,121.0,Portsmouth City ,220.0,PS,3.0,M,Y,N,Y,DD,19
+394,Dale City Elementary,2010-2011,SCH,75.0,Prince William County ,610.0,01,4.0,M,Y,N,Y,SLI,10
+395,Damascus Middle,2010-2011,SCH,94.0,Washington County ,40.0,07,5.0,M,Y,N,Y,SLD,13
+396,Dan River High,2010-2011,SCH,71.0,Pittsylvania County ,1680.0,09,3.0,M,Y,N,Y,OHI,13
+397,Dan River Middle,2010-2011,SCH,71.0,Pittsylvania County ,1090.0,06,3.0,M,Y,N,Y,OHI,10
+398,Daniel Morgan Middle,2010-2011,SCH,132.0,Winchester City ,70.0,05,3.0,M,Y,N,Y,SLD,11
+399,Daniels Run Elementary,2010-2011,SCH,29.0,Fairfax County ,2229.0,01,5.0,M,Y,N,N,SLD,11
+400,Dare Elementary,2010-2011,SCH,98.0,York County ,160.0,05,5.0,F,Y,N,N,SLI,10
+401,David A. Harrison Elementary,2010-2011,SCH,74.0,Prince George County ,340.0,01,3.0,M,Y,N,Y,SLI,11
+402,Dearington Elementary/Innovation ,2010-2011,SCH,115.0,Lynchburg City ,70.0,,3.0,M,Y,N,Y,,12
+403,Deep Creek Central Elementary,2010-2011,SCH,136.0,Chesapeake City ,660.0,01,5.0,F,Y,N,Y,OHI,10
+404,Deep Creek Elementary,2010-2011,SCH,136.0,Chesapeake City ,210.0,01,5.0,M,Y,N,N,SLI,12
+405,Deep Creek High,2010-2011,SCH,136.0,Chesapeake City ,100.0,09,3.0,F,Y,N,Y,SLD,16
+406,Deep Creek Middle,2010-2011,SCH,136.0,Chesapeake City ,610.0,06,3.0,M,Y,N,Y,SLD,11
+407,Deep Run High,2010-2011,SCH,43.0,Henrico County ,160.0,09,5.0,M,Y,N,N,OHI,11
+408,Deer Park Elementary,2010-2011,SCH,29.0,Fairfax County ,2204.0,01,5.0,M,Y,N,N,SLI,10
+409,Denbigh Early Childhood Center,2010-2011,SCH,117.0,Newport News City ,1402.0,PS,,M,Y,N,,DD,11
+410,Denbigh High,2010-2011,SCH,117.0,Newport News City ,280.0,09,3.0,M,Y,N,N,SLD,15
+411,Diamond Springs Elementary,2010-2011,SCH,128.0,Virginia Beach City ,106.0,01,3.0,M,Y,N,Y,SLI,11
+412,Dillwyn Elementary,2010-2011,SCH,15.0,Buckingham County ,722.0,04,5.0,M,Y,N,Y,,10
+413,Dillwyn Primary,2010-2011,SCH,15.0,Buckingham County ,510.0,02,3.0,M,Y,N,Y,SLI,10
+414,Dinwiddie Elementary,2010-2011,SCH,27.0,Dinwiddie County ,310.0,01,5.0,M,Y,N,Y,SLD,11
+415,Dinwiddie Junior High,2010-2011,SCH,27.0,Dinwiddie County ,510.0,08,3.0,M,Y,N,Y,OHI,11
+416,Dinwiddie Middle,2010-2011,SCH,27.0,Dinwiddie County ,471.0,06,3.0,M,Y,N,Y,SLD,11
+417,Dinwiddie Senior High,2010-2011,SCH,27.0,Dinwiddie County ,500.0,10,3.0,F,Y,N,N,SLD,13
+418,Dogwood Elementary,2010-2011,SCH,29.0,Fairfax County ,220.0,02,4.0,M,Y,Y,Y,SLD,11
+419,Dominion High,2010-2011,SCH,53.0,Loudoun County ,31.0,09,4.0,F,Y,N,N,SLD,11
+420,Dominion Trail Elementary,2010-2011,SCH,53.0,Loudoun County ,470.0,03,5.0,M,Y,N,N,SLI,10
+421,Donald B. Dixon-Lyle R. Smith Middle,2010-2011,SCH,89.0,Stafford County ,432.0,06,5.0,M,Y,N,N,SLD,12
+422,Douglas Macarthur Elementary,2010-2011,SCH,101.0,Alexandria City ,110.0,01,3.0,M,Y,N,N,SLI,11
+423,Douglas S. Freeman High,2010-2011,SCH,43.0,Henrico County ,410.0,09,3.0,M,Y,N,Y,SLD,14
+424,Douglass Park Elementary,2010-2011,SCH,121.0,Portsmouth City ,190.0,01,3.0,M,Y,N,Y,SLD,11
+425,Dranesville Elementary,2010-2011,SCH,29.0,Fairfax County ,2010.0,02,5.0,M,Y,N,N,SLD,11
+426,Dreamkeepers Academy,2010-2011,SCH,118.0,Norfolk City ,810.0,,3.0,F,Y,N,Y,SLD,16
+427,Drew Model Elementary,2010-2011,SCH,7.0,Arlington County ,200.0,,3.0,M,Y,N,Y,SLI,10
+428,Drewry Mason Elementary,2010-2011,SCH,44.0,Henry County ,530.0,,5.0,M,Y,N,Y,SLI,17
+429,Driver Elementary,2010-2011,SCH,127.0,Suffolk City ,80.0,03,3.0,M,Y,N,Y,OHI,11
+430,Dryden Elementary,2010-2011,SCH,52.0,Lee County ,160.0,01,5.0,M,Y,N,Y,SLI,11
+431,Dublin Elementary,2010-2011,SCH,77.0,Pulaski County ,540.0,01,5.0,M,Y,N,Y,SLI,11
+432,Dublin Middle,2010-2011,SCH,77.0,Pulaski County ,530.0,06,5.0,F,Y,N,N,OHI,10
+433,Dudley Elementary,2010-2011,SCH,33.0,Franklin County ,20.0,02,5.0,F,Y,N,N,SLI,10
+434,Dudley Primary,2010-2011,SCH,92.0,Tazewell County ,750.0,01,5.0,M,Y,N,N,SLI,10
+435,Duffield-Pattonsville Primary,2010-2011,SCH,84.0,Scott County ,750.0,02,5.0,M,Y,N,Y,SLI,11
+436,Dumbarton Elementary,2010-2011,SCH,43.0,Henrico County ,700.0,02,3.0,F,Y,N,Y,SLD,12
+437,Dumfries Elementary,2010-2011,SCH,75.0,Prince William County ,280.0,01,3.0,M,Y,N,Y,SLI,10
+438,Dungannon Intermediate,2010-2011,SCH,84.0,Scott County ,42.0,,5.0,M,Y,N,Y,,13
+439,Dupont Elementary,2010-2011,SCH,114.0,Hopewell City ,40.0,02,3.0,M,Y,N,Y,ID,11
+440,E. Wilson Morrison Elementary,2010-2011,SCH,93.0,Warren County ,140.0,04,5.0,F,Y,N,Y,SLI,11
+441,E.B. Stanley Middle,2010-2011,SCH,94.0,Washington County ,1110.0,06,5.0,F,Y,N,Y,OHI,10
+442,E.C. Glass High ,2010-2011,SCH,115.0,Lynchburg City ,260.0,09,3.0,F,Y,N,Y,SLD,11
+443,E.H. Marsteller Middle,2010-2011,SCH,75.0,Prince William County ,490.0,06,4.0,M,Y,Y,Y,SLD,10
+444,E.S.H. Greene Elementary,2010-2011,SCH,123.0,Richmond City ,1440.0,,3.0,M,Y,N,Y,SLD,10
+445,Eagle Ridge Middle,2010-2011,SCH,53.0,Loudoun County ,880.0,06,5.0,M,Y,N,N,OHI,13
+446,Eagle Rock Elementary,2010-2011,SCH,12.0,Botetourt County ,30.0,,5.0,M,Y,N,Y,SLD,16
+447,Eagle View Elementary,2010-2011,SCH,29.0,Fairfax County ,2243.0,01,2.0,M,Y,N,N,DD,10
+448,Early Learning Center,2010-2011,SCH,20.0,Charlotte County ,571.0,PS,,,Y,N,,,10
+449,East Rockingham High,2010-2011,SCH,82.0,Rockingham County ,391.0,09,5.0,F,Y,N,N,SLD,10
+450,East Salem Elementary,2010-2011,SCH,139.0,Salem City ,550.0,04,5.0,M,Y,N,N,SLI,11
+451,Eastern Elementary/Middle ,2010-2011,SCH,35.0,Giles County ,10.0,01,5.0,F,Y,N,Y,SLD,10
+452,Eastern Montgomery Elementary,2010-2011,SCH,60.0,Montgomery County ,30.0,KG,5.0,F,Y,N,Y,SLI,10
+453,Eastern Montgomery High,2010-2011,SCH,60.0,Montgomery County ,904.0,10,5.0,F,Y,N,Y,SLD,10
+454,Eastern View High,2010-2011,SCH,24.0,Culpeper County ,50.0,09,3.0,M,Y,N,Y,SLD,11
+455,Easton Preschool,2010-2011,SCH,118.0,Norfolk City ,740.0,PS,3.0,F,Y,N,Y,DD,14
+456,Echo Lake Elementary,2010-2011,SCH,43.0,Henrico County ,300.0,01,3.0,M,Y,N,N,SLI,11
+457,Ecoff Elementary,2010-2011,SCH,21.0,Chesterfield County ,480.0,01,5.0,M,Y,N,N,SLI,10
+458,Edgemont Primary,2010-2011,SCH,107.0,Covington City ,260.0,KG,5.0,M,Y,N,N,DD,10
+459,Edison High,2010-2011,SCH,29.0,Fairfax County ,1270.0,09,3.0,M,Y,N,N,SLD,10
+460,Edward E. Drew Jr. Middle,2010-2011,SCH,89.0,Stafford County ,10.0,06,5.0,M,Y,N,N,SLD,13
+461,Edward G. Clymore Elementary,2010-2011,SCH,8.0,Augusta County ,842.0,02,5.0,M,Y,N,Y,SLI,10
+462,Edward W. Wyatt Middle,2010-2011,SCH,40.0,Greensville County ,190.0,06,3.0,M,Y,N,Y,SLD,11
+463,Edwin A. Gibson Middle,2010-2011,SCH,108.0,Danville City ,50.0,06,3.0,F,Y,N,Y,SLD,14
+464,Edwin W. Chittum Elementary,2010-2011,SCH,136.0,Chesapeake City ,640.0,01,5.0,M,Y,N,N,SLI,10
+465,Elephant's Fork Elementary,2010-2011,SCH,127.0,Suffolk City ,210.0,04,3.0,M,Y,N,Y,OHI,11
+466,Elizabeth D. Redd Elementary,2010-2011,SCH,123.0,Richmond City ,1400.0,05,3.0,F,Y,N,Y,OHI,11
+467,Elizabeth Davis Middle,2010-2011,SCH,21.0,Chesterfield County ,870.0,06,5.0,F,Y,N,N,OHI,13
+468,Elizabeth Holladay Elementary,2010-2011,SCH,43.0,Henrico County ,680.0,02,3.0,M,Y,N,Y,SLI,11
+469,Elizabeth Scott Elementary,2010-2011,SCH,21.0,Chesterfield County ,850.0,01,5.0,M,Y,N,N,SLI,10
+470,Elizabeth Vaughan Elementary,2010-2011,SCH,75.0,Prince William County ,580.0,03,3.0,M,Y,N,Y,SLI,11
+471,Elk Knob Elementary,2010-2011,SCH,52.0,Lee County ,330.0,01,5.0,F,Y,N,Y,SLI,13
+472,Elkhardt Middle,2010-2011,SCH,123.0,Richmond City ,1080.0,06,3.0,M,Y,N,Y,SLD,13
+473,Elko Middle,2010-2011,SCH,43.0,Henrico County ,92.0,06,3.0,M,Y,N,Y,OHI,17
+474,Elkton Elementary,2010-2011,SCH,82.0,Rockingham County ,400.0,04,5.0,F,Y,N,N,SLI,10
+475,Elkton Middle,2010-2011,SCH,82.0,Rockingham County ,900.0,06,5.0,M,Y,N,N,SLD,10
+476,Ellen W. Chambliss Elementary,2010-2011,SCH,91.0,Sussex County ,50.0,03,3.0,M,Y,N,Y,SLI,11
+477,Elmont Elementary,2010-2011,SCH,42.0,Hanover County ,430.0,04,5.0,M,Y,N,N,SLI,10
+478,Elon Elementary,2010-2011,SCH,5.0,Amherst County ,760.0,,5.0,F,Y,N,N,OHI,12
+479,Elydale Elementary,2010-2011,SCH,52.0,Lee County ,820.0,,5.0,M,Y,N,Y,,11
+480,Emerald Hill Elementary,2010-2011,SCH,24.0,Culpeper County ,450.0,01,5.0,M,Y,N,N,SLI,13
+481,Emerick Elementary,2010-2011,SCH,53.0,Loudoun County ,730.0,03,5.0,F,Y,N,N,SLD,10
+482,Enderly Heights Elementary,2010-2011,SCH,103.0,Buena Vista City ,40.0,PS,5.0,F,Y,N,N,SLI,10
+483,Enon Elementary,2010-2011,SCH,21.0,Chesterfield County ,390.0,03,5.0,M,Y,N,N,SLI,10
+484,Enterprise Elementary,2010-2011,SCH,75.0,Prince William County ,120.0,02,3.0,M,Y,N,Y,SLI,14
+485,Ervinton Elementary,2010-2011,SCH,26.0,Dickenson County ,530.0,,5.0,F,Y,N,Y,SLD,13
+486,Ervinton High,2010-2011,SCH,26.0,Dickenson County ,840.0,,5.0,F,Y,N,Y,SLD,10
+487,Essex High,2010-2011,SCH,28.0,Essex County ,10.0,09,3.0,M,Y,N,Y,SLD,14
+488,Essex Intermediate,2010-2011,SCH,28.0,Essex County ,150.0,05,3.0,M,Y,N,Y,SLD,12
+489,Ethel M. Gildersleeve Middle,2010-2011,SCH,117.0,Newport News City ,1260.0,06,3.0,M,Y,N,N,SLD,11
+490,Ettrick Elementary,2010-2011,SCH,21.0,Chesterfield County ,350.0,01,3.0,M,Y,N,Y,SLI,10
+491,Eureka Elementary,2010-2011,SCH,20.0,Charlotte County ,100.0,05,3.0,M,Y,N,Y,SLI,10
+492,Evendale Elementary,2010-2011,SCH,34.0,Frederick County ,587.0,01,4.0,F,Y,N,N,SLI,10
+493,Evergreen Elementary,2010-2011,SCH,21.0,Chesterfield County ,300.0,01,5.0,M,Y,N,N,SLI,11
+494,Evergreen Mill Elementary,2010-2011,SCH,53.0,Loudoun County ,190.0,02,5.0,M,Y,N,N,SLD,10
+495,Ewing Elementary,2010-2011,SCH,52.0,Lee County ,760.0,,5.0,F,Y,N,Y,SLI,14
+496,F.W. Kling Jr. Elementary,2010-2011,SCH,103.0,Buena Vista City ,70.0,KG,5.0,F,Y,N,Y,SLD,10
+497,Fair Oaks Elementary,2010-2011,SCH,43.0,Henrico County ,200.0,03,3.0,M,Y,N,Y,DD,11
+498,Fairfax High,2010-2011,SCH,29.0,Fairfax County ,20.0,09,2.0,M,Y,N,N,SLD,11
+499,Fairfax Villa Elementary,2010-2011,SCH,29.0,Fairfax County ,1480.0,04,2.0,M,Y,Y,N,OHI,12
+500,Fairfield Court Elementary,2010-2011,SCH,123.0,Richmond City ,710.0,02,3.0,M,Y,N,Y,SLD,11
+501,Fairfield Elementary,2010-2011,SCH,81.0,Rockbridge County ,150.0,03,5.0,F,Y,N,N,SLI,10
+502,Fairfield Middle,2010-2011,SCH,43.0,Henrico County ,510.0,06,3.0,F,Y,N,N,ID,10
+503,Fairhill Elementary,2010-2011,SCH,29.0,Fairfax County ,1630.0,01,2.0,F,Y,N,N,DD,11
+504,Fairlawn Elementary,2010-2011,SCH,118.0,Norfolk City ,750.0,01,3.0,M,Y,N,Y,SLI,11
+505,Fairview Elementary,2010-2011,SCH,29.0,Fairfax County ,290.0,02,5.0,M,Y,N,N,SLI,10
+506,Falling Branch Elementary,2010-2011,SCH,60.0,Montgomery County ,600.0,04,5.0,F,Y,N,Y,SLI,10
+507,Falling Creek Elementary,2010-2011,SCH,21.0,Chesterfield County ,590.0,01,3.0,M,Y,N,Y,OHI,10
+508,Falling Creek Middle,2010-2011,SCH,21.0,Chesterfield County ,670.0,06,3.0,F,Y,N,Y,SLD,14
+509,Falling Spring Elementary,2010-2011,SCH,3.0,Alleghany County ,20.0,,5.0,M,Y,N,N,SLI,12
+510,Fallon Park Elementary,2010-2011,SCH,124.0,Roanoke City ,50.0,01,5.0,M,Y,N,Y,SLI,14
+511,Falls Church High,2010-2011,SCH,29.0,Fairfax County ,1100.0,09,4.0,F,Y,Y,N,SLD,13
+512,Falmouth Elementary,2010-2011,SCH,89.0,Stafford County ,280.0,02,4.0,F,Y,N,N,SLI,11
+513,Fancy Gap Elementary ,2010-2011,SCH,18.0,Carroll County ,1180.0,,5.0,F,Y,N,N,SLI,11
+514,Fannie W. Fitzgerald Elementary,2010-2011,SCH,75.0,Prince William County ,370.0,02,3.0,F,Y,N,Y,SLI,10
+515,Farmington Elementary,2010-2011,SCH,24.0,Culpeper County ,470.0,04,3.0,M,Y,N,Y,SLI,10
+516,Farmwell Station Middle,2010-2011,SCH,53.0,Loudoun County ,210.0,06,3.0,M,Y,N,Y,SLD,11
+517,Fauquier High,2010-2011,SCH,30.0,Fauquier County ,701.0,09,3.0,M,Y,N,N,SLD,11
+518,Featherstone Elementary,2010-2011,SCH,75.0,Prince William County ,450.0,02,4.0,M,Y,Y,Y,SLD,10
+519,Ferrum Elementary,2010-2011,SCH,33.0,Franklin County ,1360.0,01,5.0,F,Y,N,N,SLI,10
+520,Ferry Farm Elementary,2010-2011,SCH,89.0,Stafford County ,230.0,05,5.0,F,Y,N,N,SLI,11
+521,Fieldale-Collinsville Middle ,2010-2011,SCH,44.0,Henry County ,620.0,06,5.0,M,Y,N,Y,SLD,12
+522,First Colonial High,2010-2011,SCH,128.0,Virginia Beach City ,610.0,09,3.0,F,Y,N,Y,SLD,12
+523,Fishburn Park Elementary,2010-2011,SCH,124.0,Roanoke City ,380.0,03,5.0,M,Y,N,Y,DD,10
+524,Flat Rock Elementary,2010-2011,SCH,72.0,Powhatan County ,21.0,01,5.0,M,Y,N,N,SLD,10
+525,Flatwoods Elementary,2010-2011,SCH,52.0,Lee County ,630.0,01,5.0,M,Y,N,N,SLI,10
+526,Flint Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,730.0,02,5.0,M,Y,N,N,SLI,10
+527,Florence Bowser Elementary,2010-2011,SCH,127.0,Suffolk City ,90.0,01,3.0,M,Y,N,N,DD,12
+528,Floris Elementary,2010-2011,SCH,29.0,Fairfax County ,740.0,01,5.0,M,Y,N,N,DD,10
+529,Floyd County High,2010-2011,SCH,31.0,Floyd County ,660.0,08,5.0,M,Y,N,N,SLD,14
+530,Floyd Elementary,2010-2011,SCH,31.0,Floyd County ,360.0,01,5.0,M,Y,N,N,SLI,12
+531,Floyd Kellam High,2010-2011,SCH,128.0,Virginia Beach City ,440.0,09,5.0,F,Y,N,N,SLD,10
+532,Floyd T. Binns Middle,2010-2011,SCH,24.0,Culpeper County ,581.0,06,5.0,M,Y,N,Y,SLD,10
+533,Fluvanna County High,2010-2011,SCH,32.0,Fluvanna County ,260.0,09,3.0,M,Y,N,Y,SLD,10
+534,Fluvanna Middle,2010-2011,SCH,32.0,Fluvanna County ,20.0,06,5.0,F,Y,N,N,SLD,14
+535,Forest Edge Elementary,2010-2011,SCH,29.0,Fairfax County ,70.0,01,5.0,M,Y,N,N,SLD,12
+536,Forest Elementary,2010-2011,SCH,10.0,Bedford County ,500.0,,5.0,M,Y,N,N,SLI,10
+537,Forest Glen Middle,2010-2011,SCH,127.0,Suffolk City ,390.0,06,3.0,M,Y,N,Y,OHI,10
+538,Forest Grove Elementary,2010-2011,SCH,53.0,Loudoun County ,970.0,03,4.0,M,Y,N,Y,SLI,10
+539,Forest Hills Elementary,2010-2011,SCH,108.0,Danville City ,20.0,,3.0,M,Y,N,N,SLI,11
+540,Forest Middle,2010-2011,SCH,10.0,Bedford County ,1211.0,06,5.0,M,Y,N,N,SLD,15
+541,Forest Park High,2010-2011,SCH,75.0,Prince William County ,870.0,09,3.0,M,Y,N,Y,SLD,10
+542,Forestdale Elementary,2010-2011,SCH,29.0,Fairfax County ,1450.0,04,2.0,M,Y,Y,N,SLD,12
+543,Forestville Elementary,2010-2011,SCH,29.0,Fairfax County ,370.0,03,5.0,M,Y,N,N,SLD,11
+544,Fort Belvoir Elementary,2010-2011,SCH,29.0,Fairfax County ,2224.0,01,5.0,M,Y,N,N,SLI,12
+545,Fort Blackmore Primary,2010-2011,SCH,84.0,Scott County ,102.0,,5.0,M,Y,N,Y,SLI,11
+546,Fort Chiswell High,2010-2011,SCH,97.0,Wythe County ,760.0,09,5.0,F,Y,N,N,SLD,11
+547,Fort Chiswell Middle,2010-2011,SCH,97.0,Wythe County ,1073.0,06,5.0,M,Y,N,Y,SLD,10
+548,Fort Defiance High,2010-2011,SCH,8.0,Augusta County ,670.0,09,5.0,M,Y,N,N,SLD,11
+549,Fort Hunt Elementary,2010-2011,SCH,29.0,Fairfax County ,1920.0,,3.0,F,Y,N,Y,DD,11
+550,Fort Lewis Elementary,2010-2011,SCH,80.0,Roanoke County ,40.0,,5.0,F,Y,N,N,OHI,13
+551,Fox Mill Elementary,2010-2011,SCH,29.0,Fairfax County ,390.0,03,5.0,M,Y,N,N,DD,11
+552,Frances Hazel Reid Elementary,2010-2011,SCH,53.0,Loudoun County ,91.0,01,5.0,M,Y,N,N,SLD,10
+553,Francis Asbury Elementary,2010-2011,SCH,112.0,Hampton City ,30.0,03,3.0,M,Y,N,Y,SLD,10
+554,Francis C. Hammond Middle,2010-2011,SCH,101.0,Alexandria City ,170.0,06,3.0,M,Y,N,Y,SLD,11
+555,Francis Hammond 2 Middle,2010-2011,SCH,101.0,Alexandria City ,250.0,06,3.0,M,Y,N,Y,OHI,10
+556,Francis Hammond 3 Middle,2010-2011,SCH,101.0,Alexandria City ,260.0,06,3.0,M,Y,N,Y,SLD,11
+557,Francis Scott Key Elementary,2010-2011,SCH,7.0,Arlington County ,111.0,01,4.0,F,Y,Y,Y,SLD,11
+558,Francis W. Jones Magnet Middle,2010-2011,SCH,112.0,Hampton City ,70.0,06,5.0,M,Y,N,N,SLD,11
+559,Franconia Elementary,2010-2011,SCH,29.0,Fairfax County ,320.0,03,3.0,M,Y,N,N,SLI,10
+560,Frank W. Cox High,2010-2011,SCH,128.0,Virginia Beach City ,30.0,09,3.0,F,Y,N,N,OHI,11
+561,Franklin County High,2010-2011,SCH,33.0,Franklin County ,1311.0,09,3.0,M,Y,N,Y,SLD,10
+562,Franklin High,2010-2011,SCH,135.0,Franklin City ,20.0,09,3.0,M,Y,N,Y,SLD,10
+563,Franklin Middle,2010-2011,SCH,29.0,Fairfax County ,440.0,07,2.0,F,Y,N,N,SLD,10
+564,Franklin Military Academy,2010-2011,SCH,123.0,Richmond City ,621.0,06,3.0,M,Y,N,Y,SLD,10
+565,Fred D. Thompson Middle,2010-2011,SCH,123.0,Richmond City ,1630.0,06,3.0,F,Y,N,Y,SLD,19
+566,Fred M. Lynn Middle,2010-2011,SCH,75.0,Prince William County ,520.0,06,3.0,M,Y,N,Y,SLD,10
+567,Frederick County Middle,2010-2011,SCH,34.0,Frederick County ,460.0,06,5.0,F,Y,N,N,SLD,10
+568,Frederick Douglass Elementary,2010-2011,SCH,132.0,Winchester City ,80.0,01,5.0,M,Y,N,Y,SLI,10
+569,Freedom High ,2010-2011,SCH,53.0,Loudoun County ,120.0,09,5.0,M,Y,N,N,SLD,11
+570,Freedom Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,490.0,02,2.0,M,Y,N,N,DD,12
+571,Freedom Middle,2010-2011,SCH,88.0,Spotsylvania County ,509.0,06,5.0,M,Y,N,Y,SLD,10
+572,Fries School,2010-2011,SCH,38.0,Grayson County ,911.0,02,5.0,F,Y,N,Y,SLI,10
+573,Frost Middle,2010-2011,SCH,29.0,Fairfax County ,1410.0,07,5.0,F,Y,N,N,SLD,13
+574,Fulks Run Elementary,2010-2011,SCH,82.0,Rockingham County ,940.0,,5.0,F,Y,N,Y,SLI,10
+575,G.A. Treakle Elementary,2010-2011,SCH,136.0,Chesapeake City ,720.0,01,3.0,M,Y,N,N,SLD,10
+576,G.H. Reid Elementary,2010-2011,SCH,123.0,Richmond City ,1470.0,01,3.0,M,Y,N,Y,OHI,11
+577,G.L.H. Johnson Elementary,2010-2011,SCH,108.0,Danville City ,190.0,02,3.0,M,Y,N,Y,SLI,10
+578,G.W. Carver Elementary,2010-2011,SCH,139.0,Salem City ,90.0,01,5.0,M,Y,N,Y,SLI,11
+579,Gainesboro Elementary,2010-2011,SCH,34.0,Frederick County ,380.0,02,5.0,M,Y,N,Y,AUT,12
+580,Gainesville Middle,2010-2011,SCH,75.0,Prince William County ,960.0,06,4.0,F,Y,N,N,SLD,10
+581,Galax Elementary,2010-2011,SCH,111.0,Galax City ,10.0,01,5.0,M,Y,N,Y,SLI,11
+582,Galax High,2010-2011,SCH,111.0,Galax City ,31.0,08,4.0,F,Y,N,Y,SLD,11
+583,Galax Middle,2010-2011,SCH,111.0,Galax City ,32.0,06,5.0,M,Y,N,Y,SLD,12
+584,Galbreath-Marshall Building,2010-2011,SCH,24.0,Culpeper County ,582.0,PS,5.0,F,Y,N,N,SLI,10
+585,Galileo Magnet High,2010-2011,SCH,108.0,Danville City ,1374.0,,5.0,M,Y,N,N,,11
+586,Gar-Field High,2010-2011,SCH,75.0,Prince William County ,690.0,09,3.0,F,Y,N,N,SLD,10
+587,Garden City Elementary,2010-2011,SCH,124.0,Roanoke City ,300.0,01,5.0,M,Y,N,Y,AUT,10
+588,Garfield Elementary,2010-2011,SCH,29.0,Fairfax County ,630.0,05,2.0,F,Y,N,N,SLD,11
+589,Garland R. Quarles Elementary,2010-2011,SCH,132.0,Winchester City ,50.0,02,5.0,M,Y,N,Y,SLD,10
+590,Garrisonville Elementary,2010-2011,SCH,89.0,Stafford County ,41.0,05,4.0,M,Y,N,N,SLI,10
+591,Gate City High,2010-2011,SCH,84.0,Scott County ,770.0,10,5.0,F,Y,N,Y,OHI,11
+592,Gate City Middle,2010-2011,SCH,84.0,Scott County ,771.0,07,5.0,F,Y,N,Y,OHI,10
+593,Gayton Elementary,2010-2011,SCH,43.0,Henrico County ,150.0,05,5.0,M,Y,N,N,SLI,10
+594,General Stanford Elementary,2010-2011,SCH,117.0,Newport News City ,1407.0,01,5.0,M,Y,N,Y,SLD,13
+595,George Carr Round Elementary,2010-2011,SCH,143.0,Manassas City ,60.0,01,4.0,M,Y,N,N,SLD,12
+596,George F. Baker Elementary,2010-2011,SCH,43.0,Henrico County ,470.0,03,3.0,M,Y,N,Y,SLD,11
+597,George G. Tyler Elementary,2010-2011,SCH,75.0,Prince William County ,630.0,02,5.0,M,Y,N,N,DD,10
+598,George H. Moody Middle,2010-2011,SCH,43.0,Henrico County ,390.0,06,3.0,M,Y,N,N,SLD,10
+599,George J. McIntosh Elementary ,2010-2011,SCH,117.0,Newport News City ,70.0,01,3.0,M,Y,N,Y,SLD,10
+600,George Mason Elementary,2010-2011,SCH,101.0,Alexandria City ,100.0,01,4.0,M,Y,N,Y,SLI,12
+601,George Mason High,2010-2011,SCH,109.0,Falls Church City ,251.0,08,5.0,M,Y,N,N,OHI,11
+602,George P. Mullen Elementary,2010-2011,SCH,75.0,Prince William County ,770.0,02,4.0,M,Y,N,N,SLD,10
+603,George P. Phenix Elementary,2010-2011,SCH,112.0,Hampton City ,650.0,01,3.0,M,Y,N,N,SLI,10
+604,George W. Carver Elementary,2010-2011,SCH,123.0,Richmond City ,311.0,01,3.0,M,Y,N,Y,SLD,10
+605,George W. Carver Intermediate,2010-2011,SCH,136.0,Chesapeake City ,50.0,03,3.0,M,Y,N,Y,SLD,13
+606,George W. Watkins Elementary,2010-2011,SCH,63.0,New Kent County ,180.0,03,5.0,M,Y,N,N,SLI,10
+607,George Washington 2 Middle,2010-2011,SCH,101.0,Alexandria City ,240.0,06,3.0,M,Y,N,Y,SLD,10
+608,George Washington High,2010-2011,SCH,108.0,Danville City ,210.0,09,3.0,F,Y,N,Y,SLD,12
+609,George Washington Middle,2010-2011,SCH,101.0,Alexandria City ,10.0,06,3.0,M,Y,N,Y,SLD,12
+610,George Wythe High,2010-2011,SCH,97.0,Wythe County ,721.0,10,5.0,F,Y,N,N,SLD,11
+611,Georgetown Primary,2010-2011,SCH,136.0,Chesapeake City ,820.0,01,3.0,M,Y,N,Y,SLI,11
+612,Ghent Elementary,2010-2011,SCH,118.0,Norfolk City ,90.0,02,3.0,M,Y,N,Y,SLD,10
+613,Gilbert Linkous Elementary,2010-2011,SCH,60.0,Montgomery County ,750.0,,5.0,M,Y,N,N,,11
+614,Giles High,2010-2011,SCH,35.0,Giles County ,461.0,08,5.0,M,Y,N,Y,SLD,11
+615,Ginter Park Elementary,2010-2011,SCH,123.0,Richmond City ,230.0,01,3.0,M,Y,N,Y,SLD,10
+616,Givens Elementary,2010-2011,SCH,83.0,Russell County ,800.0,,5.0,M,Y,N,Y,SLI,10
+617,Glade Hill Elementary,2010-2011,SCH,33.0,Franklin County ,690.0,,5.0,M,Y,N,Y,SLI,12
+618,Glade Spring Middle,2010-2011,SCH,94.0,Washington County ,1090.0,06,5.0,M,Y,N,Y,SLD,11
+619,Gladesboro Elementary School,2010-2011,SCH,18.0,Carroll County ,1150.0,,5.0,M,Y,N,N,SLI,10
+620,Gladeville Elementary School,2010-2011,SCH,18.0,Carroll County ,1210.0,,5.0,M,Y,N,N,SLI,17
+621,Glasgow Middle,2010-2011,SCH,29.0,Fairfax County ,1170.0,06,4.0,F,Y,Y,Y,SLD,11
+622,Glebe Elementary,2010-2011,SCH,7.0,Arlington County ,100.0,03,3.0,M,Y,N,N,SLI,10
+623,Glen Allen Elementary,2010-2011,SCH,43.0,Henrico County ,20.0,02,5.0,F,Y,N,N,SLI,11
+624,Glen Allen High,2010-2011,SCH,43.0,Henrico County ,96.0,09,5.0,F,Y,N,N,SLD,12
+625,Glen Cove Elementary,2010-2011,SCH,80.0,Roanoke County ,650.0,04,5.0,M,Y,N,N,OHI,13
+626,Glen Forest Elementary,2010-2011,SCH,29.0,Fairfax County ,970.0,01,4.0,M,Y,Y,Y,SLD,10
+627,Glen Lea Elementary,2010-2011,SCH,43.0,Henrico County ,380.0,03,3.0,M,Y,N,Y,SLD,12
+628,Glenkirk Elementary,2010-2011,SCH,75.0,Prince William County ,340.0,01,5.0,M,Y,N,N,SLI,11
+629,Glenvar Elementary,2010-2011,SCH,80.0,Roanoke County ,490.0,03,5.0,M,Y,N,N,OHI,10
+630,Glenvar High,2010-2011,SCH,80.0,Roanoke County ,610.0,09,5.0,M,Y,N,N,OHI,17
+631,Glenvar Middle,2010-2011,SCH,80.0,Roanoke County ,751.0,06,5.0,M,Y,N,N,SLD,14
+632,Glenwood Elementary,2010-2011,SCH,108.0,Danville City ,1270.0,01,3.0,M,Y,N,Y,SLI,13
+633,Gloucester High,2010-2011,SCH,36.0,Gloucester County ,260.0,09,5.0,F,Y,N,N,SLD,11
+634,Gold Hill Elementary,2010-2011,SCH,15.0,Buckingham County ,730.0,,5.0,M,Y,N,Y,,10
+635,Goochland Elementary,2010-2011,SCH,37.0,Goochland County ,360.0,04,5.0,M,Y,N,N,DD,10
+636,Goochland High,2010-2011,SCH,37.0,Goochland County ,220.0,09,5.0,M,Y,N,N,SLD,13
+637,Goochland Middle,2010-2011,SCH,37.0,Goochland County ,340.0,06,5.0,M,Y,N,N,SLD,12
+638,Goodview Elementary,2010-2011,SCH,10.0,Bedford County ,1214.0,02,5.0,F,Y,N,Y,SLI,10
+639,Gordon Barbour Elementary,2010-2011,SCH,68.0,Orange County ,360.0,,5.0,F,Y,N,Y,SLD,10
+640,Grace E. Metz Middle ,2010-2011,SCH,143.0,Manassas City ,70.0,07,3.0,M,Y,N,Y,SLD,10
+641,Grace Miller Elementary,2010-2011,SCH,30.0,Fauquier County ,450.0,02,5.0,M,Y,N,N,SLI,13
+642,Grafton Bethel Elementary,2010-2011,SCH,98.0,York County ,140.0,02,5.0,M,Y,N,N,SLD,12
+643,Grafton High,2010-2011,SCH,98.0,York County ,332.0,09,5.0,M,Y,N,N,OHI,10
+644,Grafton Middle,2010-2011,SCH,98.0,York County ,333.0,06,5.0,M,Y,N,N,OHI,11
+645,Grafton Village Elementary,2010-2011,SCH,89.0,Stafford County ,270.0,01,5.0,M,Y,N,N,SLI,10
+646,Graham High,2010-2011,SCH,92.0,Tazewell County ,940.0,09,5.0,M,Y,N,Y,ID,15
+647,Graham Intermediate,2010-2011,SCH,92.0,Tazewell County ,960.0,03,5.0,M,Y,N,Y,ID,10
+648,Graham Middle,2010-2011,SCH,92.0,Tazewell County ,10.0,06,5.0,M,Y,N,Y,SLD,10
+649,Graham Park Middle,2010-2011,SCH,75.0,Prince William County ,510.0,06,3.0,F,Y,N,Y,SLD,12
+650,Graham Road Elementary,2010-2011,SCH,29.0,Fairfax County ,530.0,01,2.0,F,Y,N,Y,DD,12
+651,Granby Elementary,2010-2011,SCH,118.0,Norfolk City ,420.0,01,3.0,M,Y,N,Y,SLD,10
+652,Granby High,2010-2011,SCH,118.0,Norfolk City ,390.0,09,3.0,F,Y,N,Y,SLD,20
+653,Grandin Court Elementary,2010-2011,SCH,124.0,Roanoke City ,310.0,02,5.0,M,Y,N,N,SLI,10
+654,Grange Hall Elementary,2010-2011,SCH,21.0,Chesterfield County ,180.0,01,5.0,M,Y,N,N,SLI,10
+655,Grassfield Elementary,2010-2011,SCH,136.0,Chesapeake City ,950.0,01,5.0,M,Y,N,N,SLI,11
+656,Grassfield High,2010-2011,SCH,136.0,Chesapeake City ,960.0,09,3.0,F,Y,N,Y,SLD,10
+657,Grayson County High,2010-2011,SCH,38.0,Grayson County ,421.0,08,5.0,M,Y,N,Y,SLD,13
+658,Grayson Highlands School,2010-2011,SCH,38.0,Grayson County ,430.0,,5.0,F,Y,N,Y,SLI,10
+659,Great Bridge High,2010-2011,SCH,136.0,Chesapeake City ,120.0,09,3.0,M,Y,N,Y,SLD,14
+660,Great Bridge Intermediate,2010-2011,SCH,136.0,Chesapeake City ,850.0,03,5.0,M,Y,N,N,SLI,10
+661,Great Bridge Middle,2010-2011,SCH,136.0,Chesapeake City ,590.0,06,5.0,F,Y,N,N,OHI,10
+662,Great Bridge Primary,2010-2011,SCH,136.0,Chesapeake City ,680.0,01,5.0,M,Y,N,N,SLI,10
+663,Great Falls Elementary,2010-2011,SCH,29.0,Fairfax County ,570.0,04,5.0,M,Y,N,N,SLI,10
+664,Great Neck Middle,2010-2011,SCH,128.0,Virginia Beach City ,430.0,06,5.0,F,Y,N,N,SLD,11
+665,Green Run Elementary,2010-2011,SCH,128.0,Virginia Beach City ,770.0,02,3.0,M,Y,N,Y,DD,10
+666,Green Run High,2010-2011,SCH,128.0,Virginia Beach City ,10.0,09,3.0,F,Y,N,Y,SLD,13
+667,Green Valley Elementary,2010-2011,SCH,80.0,Roanoke County ,600.0,03,5.0,F,Y,N,N,SLI,11
+668,Greenbriar East Elementary,2010-2011,SCH,29.0,Fairfax County ,1840.0,03,2.0,M,Y,N,N,SLD,13
+669,Greenbriar West Elementary,2010-2011,SCH,29.0,Fairfax County ,1500.0,02,2.0,M,Y,N,N,DD,11
+670,Greenbrier Elementary,2010-2011,SCH,104.0,Charlottesville City ,90.0,01,3.0,F,Y,N,Y,SLI,12
+671,Greenbrier Intermediate,2010-2011,SCH,136.0,Chesapeake City ,870.0,03,3.0,M,Y,N,Y,OHI,10
+672,Greenbrier Middle,2010-2011,SCH,136.0,Chesapeake City ,972.0,06,3.0,M,Y,N,N,OHI,11
+673,Greenbrier Primary,2010-2011,SCH,136.0,Chesapeake City ,140.0,01,3.0,M,Y,N,N,SLI,10
+674,Greendale Elementary,2010-2011,SCH,94.0,Washington County ,260.0,02,5.0,M,Y,N,Y,SLI,10
+675,Greene County Primary,2010-2011,SCH,39.0,Greene County ,10.0,01,5.0,M,Y,N,N,SLI,10
+676,Greenfield Elementary,2010-2011,SCH,12.0,Botetourt County ,460.0,02,5.0,F,Y,N,N,OHI,12
+677,Greensville County High,2010-2011,SCH,40.0,Greensville County ,200.0,09,3.0,M,Y,N,Y,SLD,11
+678,Greensville Elementary,2010-2011,SCH,40.0,Greensville County ,50.0,01,3.0,M,Y,N,Y,SLI,11
+679,Greenville Elementary,2010-2011,SCH,30.0,Fauquier County ,511.0,03,5.0,M,Y,N,N,SLI,10
+680,Greenwood Elementary ,2010-2011,SCH,43.0,Henrico County ,260.0,01,3.0,M,Y,N,N,DD,11
+681,Greenwood Mill Elementary,2010-2011,SCH,34.0,Frederick County ,590.0,01,5.0,M,Y,N,N,SLI,10
+682,Gretna Elementary,2010-2011,SCH,71.0,Pittsylvania County ,280.0,01,5.0,M,Y,N,Y,DD,11
+683,Gretna High,2010-2011,SCH,71.0,Pittsylvania County ,1700.0,09,3.0,M,Y,N,Y,SLD,12
+684,Gretna Middle,2010-2011,SCH,71.0,Pittsylvania County ,290.0,06,5.0,M,Y,N,Y,OHI,11
+685,Grove Park Preschool,2010-2011,SCH,108.0,Danville City ,200.0,PS,3.0,F,Y,N,Y,DD,10
+686,Groveton Elementary,2010-2011,SCH,29.0,Fairfax County ,330.0,02,3.0,M,Y,Y,Y,SLD,10
+687,Grundy High,2010-2011,SCH,14.0,Buchanan County ,990.0,09,5.0,M,Y,N,Y,SLD,10
+688,Guilford Elementary,2010-2011,SCH,53.0,Loudoun County ,720.0,02,2.0,M,Y,N,Y,DD,10
+689,Gunston Elementary,2010-2011,SCH,29.0,Fairfax County ,690.0,04,5.0,M,Y,N,N,SLD,10
+690,Gunston Middle,2010-2011,SCH,7.0,Arlington County ,611.0,06,4.0,F,Y,Y,Y,SLD,10
+691,Guy K. Stump Elementary,2010-2011,SCH,8.0,Augusta County ,843.0,,5.0,F,Y,N,N,SLI,10
+692,H.H. Poole Middle,2010-2011,SCH,89.0,Stafford County ,422.0,06,5.0,M,Y,N,N,SLD,10
+693,H.M. Pearson Elementary,2010-2011,SCH,30.0,Fauquier County ,750.0,01,5.0,M,Y,N,N,SLD,12
+694,Halifax County High,2010-2011,SCH,41.0,Halifax County ,10.0,09,3.0,F,Y,N,Y,SLD,13
+695,Halifax County Middle,2010-2011,SCH,41.0,Halifax County ,1480.0,06,3.0,F,Y,N,Y,SLD,18
+696,Halley Elementary,2010-2011,SCH,29.0,Fairfax County ,2210.0,01,5.0,F,Y,N,N,SLD,10
+697,Hamilton Crockford High,2010-2011,SCH,900.0,Department of Correctional Education,45.0,12,3.0,M,Y,N,Y,EMN,17
+698,Hamilton Elementary,2010-2011,SCH,53.0,Loudoun County ,230.0,01,5.0,M,Y,N,N,AUT,10
+699,Hamilton Holmes Middle,2010-2011,SCH,50.0,King William County ,160.0,06,3.0,M,Y,N,N,SLD,10
+700,Hampton High,2010-2011,SCH,112.0,Hampton City ,280.0,09,3.0,F,Y,N,N,SLD,12
+701,Hampton Oaks Elementary,2010-2011,SCH,89.0,Stafford County ,320.0,03,3.0,M,Y,N,Y,SLI,10
+702,Hanover High,2010-2011,SCH,42.0,Hanover County ,554.0,09,5.0,M,Y,N,N,SLD,15
+703,Hardin Reynolds Elementary,2010-2011,SCH,70.0,Patrick County ,350.0,04,5.0,M,Y,N,Y,SLD,11
+704,Harding Avenue Elementary,2010-2011,SCH,60.0,Montgomery County ,10.0,,5.0,M,Y,N,N,,10
+705,Hardy Elementary,2010-2011,SCH,46.0,Isle of Wight County ,320.0,02,5.0,M,Y,N,Y,SLI,14
+706,Harmony Middle,2010-2011,SCH,53.0,Loudoun County ,921.0,06,5.0,F,Y,N,N,SLD,13
+707,Harold Macon Ratcliffe Elementary,2010-2011,SCH,43.0,Henrico County ,420.0,01,3.0,M,Y,N,Y,ID,11
+708,Harper Park Middle,2010-2011,SCH,53.0,Loudoun County ,520.0,06,4.0,M,Y,N,Y,SLD,10
+709,Harrington Waddell Elementary,2010-2011,SCH,137.0,Lexington City ,1390.0,02,5.0,M,Y,N,N,,10
+710,Harrison Road Elementary,2010-2011,SCH,88.0,Spotsylvania County ,507.0,01,5.0,M,Y,N,Y,SLI,10
+711,Harrisonburg High,2010-2011,SCH,113.0,Harrisonburg City ,12.0,09,4.0,M,Y,Y,Y,SLD,10
+712,Harrowgate Elementary,2010-2011,SCH,21.0,Chesterfield County ,460.0,01,5.0,M,Y,N,N,SLI,13
+713,Harry E. James Elementary,2010-2011,SCH,114.0,Hopewell City ,140.0,01,3.0,F,Y,N,Y,SLI,10
+714,Harry F. Byrd Middle,2010-2011,SCH,43.0,Henrico County ,690.0,06,3.0,M,Y,N,N,SLD,14
+715,Hartwood Elementary,2010-2011,SCH,89.0,Stafford County ,250.0,05,3.0,M,Y,N,Y,SLI,10
+716,Harvie Elementary,2010-2011,SCH,43.0,Henrico County ,94.0,01,3.0,M,Y,N,N,SLI,10
+717,Haycock Elementary,2010-2011,SCH,29.0,Fairfax County ,750.0,03,5.0,M,Y,N,N,DD,10
+718,Hayfield Elementary,2010-2011,SCH,29.0,Fairfax County ,1740.0,03,5.0,M,Y,N,N,DD,10
+719,Hayfield Secondary,2010-2011,SCH,29.0,Fairfax County ,1800.0,07,3.0,M,Y,N,N,SLD,14
+720,Haysi High,2010-2011,SCH,26.0,Dickenson County ,120.0,09,5.0,M,Y,N,Y,SLD,12
+721,Henderson Middle,2010-2011,SCH,123.0,Richmond City ,470.0,06,3.0,F,Y,N,Y,SLD,18
+722,Henrico High,2010-2011,SCH,43.0,Henrico County ,610.0,09,3.0,F,Y,N,Y,SLD,14
+723,Henry Clay Elementary,2010-2011,SCH,42.0,Hanover County ,150.0,01,5.0,M,Y,N,Y,SLI,11
+724,Henry D. Ward Elementary,2010-2011,SCH,43.0,Henrico County ,330.0,03,3.0,M,Y,N,Y,ID,12
+725,Henry Elementary,2010-2011,SCH,7.0,Arlington County ,160.0,01,3.0,M,Y,Y,N,SLI,10
+726,Herbert J. Saunders Middle,2010-2011,SCH,75.0,Prince William County ,380.0,06,3.0,M,Y,N,Y,SLD,11
+727,Heritage Elementary,2010-2011,SCH,115.0,Lynchburg City ,1102.0,01,3.0,M,Y,N,Y,DD,10
+728,Heritage High,2010-2011,SCH,53.0,Loudoun County ,900.0,09,5.0,M,Y,N,N,SLD,10
+729,Herman L. Horn Elementary,2010-2011,SCH,80.0,Roanoke County ,540.0,04,5.0,F,Y,N,N,SLI,13
+730,Hermitage Elementary,2010-2011,SCH,128.0,Virginia Beach City ,540.0,04,5.0,M,Y,N,N,DD,14
+731,Hermitage High,2010-2011,SCH,43.0,Henrico County ,670.0,09,3.0,F,Y,N,N,SLD,16
+732,Herndon Elementary,2010-2011,SCH,29.0,Fairfax County ,1250.0,01,5.0,M,Y,N,N,SLD,10
+733,Herndon High,2010-2011,SCH,29.0,Fairfax County ,32.0,09,3.0,M,Y,N,Y,SLD,10
+734,Herndon Middle,2010-2011,SCH,29.0,Fairfax County ,33.0,07,3.0,M,Y,N,N,SLD,10
+735,Hickory Elementary,2010-2011,SCH,136.0,Chesapeake City ,340.0,01,5.0,M,Y,N,N,SLI,11
+736,Hickory High,2010-2011,SCH,136.0,Chesapeake City ,890.0,09,5.0,F,Y,N,N,SLD,22
+737,Hickory Middle,2010-2011,SCH,136.0,Chesapeake City ,280.0,06,5.0,F,Y,N,N,SLD,18
+738,Hidden Valley High,2010-2011,SCH,80.0,Roanoke County ,754.0,09,5.0,M,Y,N,N,SLD,17
+739,Hidden Valley Middle,2010-2011,SCH,80.0,Roanoke County ,10.0,06,5.0,M,Y,N,N,SLD,15
+740,Hidenwood Elementary,2010-2011,SCH,117.0,Newport News City ,1210.0,02,3.0,F,Y,N,Y,SLD,11
+741,High Point Elementary,2010-2011,SCH,94.0,Washington County ,1070.0,01,5.0,M,Y,N,Y,SLI,11
+742,Highland Elementary,2010-2011,SCH,45.0,Highland County ,110.0,,5.0,M,Y,N,,,10
+743,Highland High,2010-2011,SCH,45.0,Highland County ,220.0,,5.0,M,Y,N,Y,SLD,14
+744,Highland Park Elementary,2010-2011,SCH,124.0,Roanoke City ,110.0,02,3.0,M,Y,N,Y,SLD,10
+745,Highland Springs Elementary,2010-2011,SCH,43.0,Henrico County ,640.0,01,3.0,M,Y,N,Y,SLD,10
+746,Highland Springs High,2010-2011,SCH,43.0,Henrico County ,190.0,09,3.0,F,Y,N,N,SLD,10
+747,Highland View Elementary,2010-2011,SCH,102.0,Bristol City ,60.0,,5.0,M,Y,N,Y,SLD,22
+748,Hilda J. Barbour Elementary,2010-2011,SCH,93.0,Warren County ,371.0,,5.0,F,Y,N,N,SLI,11
+749,Hillpoint Elementary,2010-2011,SCH,127.0,Suffolk City ,450.0,01,3.0,F,Y,N,Y,OHI,13
+750,Hillsboro Elementary,2010-2011,SCH,53.0,Loudoun County ,110.0,,,M,Y,N,,,10
+751,Hillside Elementary,2010-2011,SCH,53.0,Loudoun County ,400.0,02,5.0,M,Y,N,N,SLI,11
+752,Hillsville Elementary School,2010-2011,SCH,18.0,Carroll County ,1170.0,01,5.0,M,Y,N,Y,DD,11
+753,Hilton Elementary,2010-2011,SCH,84.0,Scott County ,670.0,,5.0,M,Y,N,Y,SLI,10
+754,Hodges Manor Elementary,2010-2011,SCH,121.0,Portsmouth City ,1630.0,04,3.0,M,Y,N,Y,SLI,12
+755,Hoffman-Boston Elementary,2010-2011,SCH,7.0,Arlington County ,614.0,PS,3.0,M,Y,N,N,DD,15
+756,Holland Elementary,2010-2011,SCH,128.0,Virginia Beach City ,600.0,01,3.0,M,Y,N,Y,SLD,10
+757,Hollin Meadows Elementary,2010-2011,SCH,29.0,Fairfax County ,1330.0,03,3.0,M,Y,N,N,DD,12
+758,Hollymead Elementary,2010-2011,SCH,2.0,Albemarle County ,10.0,04,5.0,M,Y,N,N,AUT,10
+759,Holman Middle ,2010-2011,SCH,43.0,Henrico County ,95.0,06,5.0,M,Y,N,N,SLD,15
+760,Holmes Middle,2010-2011,SCH,29.0,Fairfax County ,1521.0,06,4.0,M,Y,Y,Y,SLD,10
+761,Holston High,2010-2011,SCH,94.0,Washington County ,1060.0,09,5.0,M,Y,N,Y,SLD,13
+762,Homer L. Hines Middle,2010-2011,SCH,117.0,Newport News City ,1270.0,06,3.0,F,Y,N,N,SLD,12
+763,Honaker Elementary,2010-2011,SCH,83.0,Russell County ,890.0,01,5.0,F,Y,N,N,SLI,11
+764,Honaker High,2010-2011,SCH,83.0,Russell County ,540.0,08,5.0,M,Y,N,Y,SLD,10
+765,Hopewell High,2010-2011,SCH,114.0,Hopewell City ,120.0,09,3.0,M,Y,N,Y,SLD,13
+766,Hopkins Road Elementary,2010-2011,SCH,21.0,Chesterfield County ,60.0,01,3.0,M,Y,N,Y,SLI,13
+767,Horace H. Epes Elementary,2010-2011,SCH,117.0,Newport News City ,1240.0,02,3.0,M,Y,N,Y,DD,10
+768,Horizon Elementary,2010-2011,SCH,53.0,Loudoun County ,820.0,02,5.0,M,Y,N,N,SLI,12
+769,Huddleston Elementary,2010-2011,SCH,10.0,Bedford County ,980.0,,5.0,M,Y,N,Y,SLI,11
+770,Hugh Mercer Elementary,2010-2011,SCH,110.0,Fredericksburg City ,50.0,01,3.0,M,Y,N,Y,SLI,10
+771,Hughes Middle,2010-2011,SCH,29.0,Fairfax County ,350.0,07,3.0,M,Y,N,N,SLD,15
+772,Hugo A. Owens Middle,2010-2011,SCH,136.0,Chesapeake City ,920.0,06,3.0,F,Y,N,N,OHI,11
+773,Huguenot High,2010-2011,SCH,123.0,Richmond City ,1510.0,09,3.0,F,Y,N,N,SLD,16
+774,Hungary Creek Middle ,2010-2011,SCH,43.0,Henrico County ,100.0,06,5.0,M,Y,N,N,SLD,11
+775,Hunt Valley Elementary,2010-2011,SCH,29.0,Fairfax County ,1880.0,01,5.0,M,Y,N,N,DD,10
+776,Hunter B. Andrews,2010-2011,SCH,112.0,Hampton City ,640.0,01,3.0,M,Y,N,Y,SLD,11
+777,Hunters Woods Elementary School for the Arts and Sciences,2010-2011,SCH,29.0,Fairfax County ,1950.0,06,5.0,M,Y,N,N,SLD,10
+778,Huntington Middle,2010-2011,SCH,117.0,Newport News City ,91.0,06,3.0,F,Y,N,Y,SLD,13
+779,Hurley Elementary/Middle,2010-2011,SCH,14.0,Buchanan County ,120.0,01,5.0,M,Y,N,Y,SLI,10
+780,Hurley High,2010-2011,SCH,14.0,Buchanan County ,1020.0,08,5.0,M,Y,N,Y,SLD,10
+781,Hurt Park Elementary,2010-2011,SCH,124.0,Roanoke City ,420.0,04,3.0,M,Y,N,Y,DD,10
+782,Hutchison Elementary,2010-2011,SCH,29.0,Fairfax County ,1980.0,02,4.0,M,Y,Y,N,SLD,13
+783,Hutchison Farm Elementary,2010-2011,SCH,53.0,Loudoun County ,960.0,01,5.0,M,Y,N,N,SLD,10
+784,Hybla Valley Elementary,2010-2011,SCH,29.0,Fairfax County ,1420.0,02,4.0,M,Y,Y,Y,SLD,11
+785,I.C. Norcom High,2010-2011,SCH,121.0,Portsmouth City ,240.0,09,3.0,F,Y,N,Y,SLD,17
+786,Independence Elementary,2010-2011,SCH,38.0,Grayson County ,422.0,,5.0,M,Y,N,Y,SLI,17
+787,Independence Middle,2010-2011,SCH,38.0,Grayson County ,11.0,06,5.0,M,Y,N,Y,SLD,11
+788,Indian Hollow Elementary,2010-2011,SCH,34.0,Frederick County ,40.0,PS,5.0,F,Y,N,N,SLI,10
+789,Indian Lakes Elementary,2010-2011,SCH,128.0,Virginia Beach City ,800.0,03,5.0,M,Y,N,N,DD,12
+790,Indian River High,2010-2011,SCH,136.0,Chesapeake City ,830.0,09,3.0,F,Y,N,Y,SLD,13
+791,Indian River Middle,2010-2011,SCH,136.0,Chesapeake City ,710.0,06,3.0,F,Y,N,Y,SLD,11
+792,Indian Valley Elementary,2010-2011,SCH,31.0,Floyd County ,650.0,,5.0,M,Y,N,Y,SLI,17
+793,Ingleside Elementary,2010-2011,SCH,118.0,Norfolk City ,610.0,03,3.0,M,Y,N,Y,SLI,10
+794,Irvin W. Taylor Elementary,2010-2011,SCH,108.0,Danville City ,180.0,03,3.0,M,Y,N,Y,OHI,10
+795,Irving Middle,2010-2011,SCH,29.0,Fairfax County ,1120.0,07,5.0,F,Y,N,N,OHI,15
+796,Island Creek Elementary,2010-2011,SCH,29.0,Fairfax County ,2235.0,02,5.0,M,Y,N,N,DD,11
+797,J. Blaine Blayton Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,190.0,03,5.0,M,Y,N,N,DD,11
+798,J. Frank Hillyard Middle,2010-2011,SCH,82.0,Rockingham County ,960.0,06,5.0,M,Y,N,N,SLD,12
+799,J. Lupton Simpson Middle,2010-2011,SCH,53.0,Loudoun County ,20.0,06,5.0,F,Y,N,N,SLD,11
+800,J. Murray Jeffress Elementary,2010-2011,SCH,20.0,Charlotte County ,450.0,03,5.0,M,Y,N,Y,SLD,11
+801,J.A. Chalkley Elementary,2010-2011,SCH,21.0,Chesterfield County ,550.0,01,3.0,M,Y,N,Y,SLI,10
+802,J.B. Fisher Elementary,2010-2011,SCH,123.0,Richmond City ,1640.0,04,3.0,F,Y,N,N,DD,11
+803,J.B. Watkins Elementary,2010-2011,SCH,21.0,Chesterfield County ,650.0,02,5.0,M,Y,N,N,SLD,12
+804,J.E.B. Stuart Elementary,2010-2011,SCH,120.0,Petersburg City ,180.0,04,3.0,F,Y,N,Y,ID,12
+805,J.E.J. Moore Middle ,2010-2011,SCH,74.0,Prince George County ,320.0,06,3.0,F,Y,N,Y,SLD,11
+806,J.G. Hening Elementary,2010-2011,SCH,21.0,Chesterfield County ,500.0,01,3.0,M,Y,N,Y,SLI,10
+807,J.I. Burton High ,2010-2011,SCH,119.0,Norton City ,20.0,,5.0,M,Y,N,Y,SLD,14
+808,J.J. Kelly High,2010-2011,SCH,96.0,Wise County ,1000.0,09,5.0,M,Y,N,Y,SLD,11
+809,J.L. Francis Elementary,2010-2011,SCH,123.0,Richmond City ,1710.0,03,3.0,M,Y,N,Y,SLD,10
+810,J.M. Bevins Elementary,2010-2011,SCH,14.0,Buchanan County ,20.0,,5.0,M,Y,N,Y,SLI,10
+811,J.M. Dozier Middle ,2010-2011,SCH,117.0,Newport News City ,20.0,06,3.0,M,Y,N,Y,SLD,14
+812,J.W. Adams Combined,2010-2011,SCH,96.0,Wise County ,73.0,01,5.0,F,Y,N,Y,SLD,11
+813,J.W. Alvey Elementary,2010-2011,SCH,75.0,Prince William County ,220.0,01,5.0,M,Y,N,N,SLI,11
+814,JM Langston Focus School,2010-2011,SCH,108.0,Danville City ,139.0,,3.0,M,Y,N,Y,,15
+815,Jack Jouett Middle,2010-2011,SCH,2.0,Albemarle County ,950.0,06,3.0,M,Y,N,Y,SLD,10
+816,Jackson Davis Elementary,2010-2011,SCH,43.0,Henrico County ,620.0,01,5.0,F,Y,N,N,SLI,10
+817,Jackson Memorial Elementary,2010-2011,SCH,97.0,Wythe County ,730.0,04,5.0,M,Y,N,Y,SLI,11
+818,Jackson Middle,2010-2011,SCH,29.0,Fairfax County ,673.0,07,2.0,M,Y,Y,Y,SLD,10
+819,Jackson P. Burley Middle,2010-2011,SCH,2.0,Albemarle County ,69.0,06,5.0,M,Y,N,Y,SLD,12
+820,Jackson-Via Elementary,2010-2011,SCH,104.0,Charlottesville City ,120.0,01,3.0,M,Y,N,Y,SLI,11
+821,Jacob L. Adams Elementary,2010-2011,SCH,43.0,Henrico County ,660.0,03,3.0,M,Y,N,N,SLI,10
+822,Jacobs Road Elementary,2010-2011,SCH,21.0,Chesterfield County ,400.0,01,3.0,M,Y,N,N,SLI,14
+823,Jacox Elementary,2010-2011,SCH,118.0,Norfolk City ,430.0,01,3.0,M,Y,N,Y,SLD,12
+824,James G. Brumfield Elementary,2010-2011,SCH,30.0,Fauquier County ,853.0,01,5.0,M,Y,N,N,SLI,10
+825,James Hurst Elementary,2010-2011,SCH,121.0,Portsmouth City ,1400.0,01,3.0,M,Y,N,Y,SLD,10
+826,James K. Polk Elementary,2010-2011,SCH,101.0,Alexandria City ,220.0,01,3.0,M,Y,N,Y,SLD,10
+827,James Madison Middle,2010-2011,SCH,124.0,Roanoke City ,450.0,06,5.0,M,Y,N,Y,SLD,10
+828,James Monroe Elementary,2010-2011,SCH,118.0,Norfolk City ,131.0,,3.0,F,Y,N,Y,SLD,12
+829,James Monroe High,2010-2011,SCH,110.0,Fredericksburg City ,40.0,09,3.0,F,Y,N,Y,SLD,10
+830,James River Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,201.0,01,3.0,M,Y,N,N,SLI,11
+831,James River High,2010-2011,SCH,12.0,Botetourt County ,430.0,09,5.0,M,Y,N,N,OHI,12
+832,James S. Russell Middle,2010-2011,SCH,13.0,Brunswick County ,660.0,06,3.0,M,Y,N,Y,OHI,12
+833,James Wood High,2010-2011,SCH,34.0,Frederick County ,30.0,09,5.0,M,Y,N,N,SLD,11
+834,James Wood Middle,2010-2011,SCH,34.0,Frederick County ,420.0,06,5.0,M,Y,N,N,SLD,12
+835,Jamestown Elementary,2010-2011,SCH,7.0,Arlington County ,440.0,05,5.0,F,Y,N,N,SLI,10
+836,Jamestown High,2010-2011,SCH,131.0,Williamsburg-James City County ,202.0,09,3.0,M,Y,N,N,SLD,10
+837,Jane H. Bryan Elementary,2010-2011,SCH,112.0,Hampton City ,250.0,03,3.0,M,Y,N,Y,SLD,13
+838,Jefferson Davis Middle,2010-2011,SCH,112.0,Hampton City ,300.0,06,3.0,M,Y,N,Y,SLD,13
+839,Jefferson Elementary,2010-2011,SCH,91.0,Sussex County ,380.0,02,3.0,M,Y,N,Y,SLI,10
+840,Jefferson Forest High,2010-2011,SCH,10.0,Bedford County ,1212.0,09,5.0,M,Y,N,N,SLD,13
+841,Jefferson Middle,2010-2011,SCH,7.0,Arlington County ,180.0,06,4.0,M,Y,Y,Y,SLD,11
+842,Jefferson-Houston Elementary,2010-2011,SCH,101.0,Alexandria City ,90.0,03,5.0,M,Y,N,Y,DD,11
+843,Jennie Dean Elementary,2010-2011,SCH,143.0,Manassas City ,310.0,03,4.0,M,Y,N,Y,DD,11
+844,Jeter-Watson Intermediate,2010-2011,SCH,107.0,Covington City ,360.0,04,5.0,F,Y,N,Y,OHI,10
+845,John Adams Elementary,2010-2011,SCH,101.0,Alexandria City ,230.0,01,3.0,M,Y,N,Y,DD,12
+846,John B. Cary Elementary,2010-2011,SCH,112.0,Hampton City ,270.0,02,3.0,M,Y,N,Y,SLI,11
+847,John B. Dey Elementary,2010-2011,SCH,128.0,Virginia Beach City ,360.0,01,5.0,M,Y,N,N,DD,10
+848,John C. Myers Elementary,2010-2011,SCH,82.0,Rockingham County ,1071.0,02,5.0,F,Y,N,Y,SLI,10
+849,John F. Kennedy Middle,2010-2011,SCH,127.0,Suffolk City ,370.0,06,3.0,M,Y,N,Y,OHI,16
+850,John F. Pattie Sr. Elementary,2010-2011,SCH,75.0,Prince William County ,130.0,02,5.0,M,Y,N,N,SLI,10
+851,John H Smyth Sch @ Hanover Juv,2010-2011,SCH,900.0,Department of Correctional Education,40.0,09,3.0,M,Y,N,Y,EMN,13
+852,John Handley High,2010-2011,SCH,132.0,Winchester City ,40.0,09,3.0,F,Y,N,Y,SLD,10
+853,John Kerr Elementary,2010-2011,SCH,132.0,Winchester City ,60.0,,4.0,M,Y,N,N,SLI,11
+854,John L. Hurt Elementary,2010-2011,SCH,71.0,Pittsylvania County ,30.0,,5.0,M,Y,N,Y,SLD,11
+855,John M. Gandy Elementary,2010-2011,SCH,42.0,Hanover County ,162.0,03,5.0,M,Y,N,Y,OHI,10
+856,John Marshall Elementary,2010-2011,SCH,117.0,Newport News City ,120.0,01,3.0,M,Y,N,Y,DD,11
+857,John Marshall High,2010-2011,SCH,123.0,Richmond City ,730.0,09,3.0,F,Y,N,N,SLD,14
+858,John N. Dalton Intermediate,2010-2011,SCH,122.0,Radford City ,42.0,07,5.0,M,Y,N,Y,OHI,12
+859,John Randolph Tucker High,2010-2011,SCH,43.0,Henrico County ,600.0,09,3.0,M,Y,N,N,SLD,10
+860,John Redd Smith Elementary,2010-2011,SCH,44.0,Henry County ,661.0,04,5.0,M,Y,N,Y,,10
+861,John Rolfe Middle,2010-2011,SCH,43.0,Henrico County ,130.0,06,3.0,F,Y,N,N,OHI,13
+862,John S. Battle High,2010-2011,SCH,94.0,Washington County ,1040.0,09,5.0,M,Y,N,Y,SLD,10
+863,John Tyler Elementary,2010-2011,SCH,112.0,Hampton City ,440.0,02,3.0,M,Y,N,N,SLI,10
+864,John W. Tolbert Jr. Elementary ,2010-2011,SCH,53.0,Loudoun County ,950.0,01,5.0,M,Y,N,N,SLD,10
+865,John W. Wayland Elementary,2010-2011,SCH,82.0,Rockingham County ,970.0,PS,5.0,F,Y,N,N,SLI,10
+866,John Yeates Middle,2010-2011,SCH,127.0,Suffolk City ,380.0,06,3.0,M,Y,N,N,SLD,14
+867,Johnson Elementary,2010-2011,SCH,104.0,Charlottesville City ,10.0,03,3.0,M,Y,N,Y,SLI,10
+868,Johnson-Williams Middle,2010-2011,SCH,22.0,Clarke County ,280.0,06,5.0,M,Y,N,N,SLD,10
+869,Jolliff Middle,2010-2011,SCH,136.0,Chesapeake City ,973.0,06,3.0,M,Y,N,N,SLD,11
+870,Jonesville Middle,2010-2011,SCH,52.0,Lee County ,470.0,06,5.0,M,Y,N,Y,SLD,12
+871,Joseph H. Saunders Elementary,2010-2011,SCH,117.0,Newport News City ,300.0,01,3.0,M,Y,N,Y,SLD,12
+872,Joseph Mastin High Annex,2010-2011,SCH,900.0,Department of Correctional Education,58.0,09,3.0,M,Y,N,Y,EMN,10
+873,Joseph Mastin Sch @ Bon Air,2010-2011,SCH,900.0,Department of Correctional Education,38.0,,3.0,M,Y,N,Y,,10
+874,Joseph P. King Jr. Middle,2010-2011,SCH,135.0,Franklin City ,561.0,06,3.0,M,Y,N,Y,SLD,10
+875,Joseph T. Henley Middle,2010-2011,SCH,2.0,Albemarle County ,942.0,06,5.0,F,Y,N,N,SLD,11
+876,Joseph Van Pelt Elementary,2010-2011,SCH,102.0,Bristol City ,100.0,02,5.0,M,Y,N,Y,SLD,10
+877,Jouett Elementary,2010-2011,SCH,54.0,Louisa County ,660.0,01,5.0,M,Y,N,Y,SLI,11
+878,Kate Collins Middle,2010-2011,SCH,130.0,Waynesboro City ,640.0,06,5.0,F,Y,N,Y,SLD,13
+879,Kate Waller Barrett Elementary,2010-2011,SCH,89.0,Stafford County ,427.0,01,5.0,M,Y,N,N,AUT,10
+880,Kecoughtan High,2010-2011,SCH,112.0,Hampton City ,320.0,09,3.0,F,Y,N,N,SLD,12
+881,Keene Mill Elementary,2010-2011,SCH,29.0,Fairfax County ,1240.0,,4.0,M,Y,Y,N,SLI,12
+882,Kegotank Elementary,2010-2011,SCH,1.0,Accomack County ,600.0,03,3.0,M,Y,N,Y,DD,11
+883,Keister Elementary,2010-2011,SCH,113.0,Harrisonburg City ,50.0,01,4.0,M,Y,Y,Y,SLI,11
+884,Kempsville Elementary,2010-2011,SCH,128.0,Virginia Beach City ,450.0,03,5.0,M,Y,N,N,DD,11
+885,Kempsville High,2010-2011,SCH,128.0,Virginia Beach City ,620.0,09,3.0,M,Y,N,N,SLD,10
+886,Kempsville Meadows Elementary,2010-2011,SCH,128.0,Virginia Beach City ,410.0,04,3.0,M,Y,N,Y,SLD,12
+887,Kempsville Middle,2010-2011,SCH,128.0,Virginia Beach City ,690.0,06,5.0,F,Y,N,N,SLD,12
+888,Kenbridge Elementary,2010-2011,SCH,55.0,Lunenburg County ,240.0,04,3.0,M,Y,N,Y,OHI,10
+889,Kenmore Middle,2010-2011,SCH,7.0,Arlington County ,500.0,06,4.0,F,Y,Y,Y,SLD,10
+890,Kenneth W.Culbert Elementary,2010-2011,SCH,53.0,Loudoun County ,600.0,02,5.0,M,Y,N,N,SLI,13
+891,Kent Gardens Elementary,2010-2011,SCH,29.0,Fairfax County ,980.0,03,5.0,M,Y,N,N,SLI,10
+892,Kentuck Elementary,2010-2011,SCH,71.0,Pittsylvania County ,1690.0,02,5.0,M,Y,N,Y,OHI,15
+893,Keokee Elementary,2010-2011,SCH,52.0,Lee County ,20.0,,5.0,F,Y,N,Y,SLI,16
+894,Kerrydale Elementary,2010-2011,SCH,75.0,Prince William County ,70.0,04,3.0,M,Y,N,N,SLI,10
+895,Kersey Creek Elementary,2010-2011,SCH,42.0,Hanover County ,200.0,03,5.0,M,Y,N,N,AUT,11
+896,Kettle Run High,2010-2011,SCH,30.0,Fauquier County ,510.0,09,5.0,M,Y,N,N,SLD,12
+897,Key Middle,2010-2011,SCH,29.0,Fairfax County ,1900.0,07,4.0,F,Y,Y,N,SLD,10
+898,Kilby Shores Elementary,2010-2011,SCH,127.0,Suffolk City ,230.0,04,3.0,M,Y,N,Y,DD,11
+899,Kilmer Middle,2010-2011,SCH,29.0,Fairfax County ,1760.0,07,4.0,M,Y,N,N,SLD,13
+900,Kiln Creek Elementary,2010-2011,SCH,117.0,Newport News City ,1290.0,01,3.0,M,Y,N,Y,SLD,12
+901,King & Queen Elementary,2010-2011,SCH,49.0,King and Queen County ,200.0,,3.0,M,Y,N,Y,SLI,10
+902,King George Elementary,2010-2011,SCH,48.0,King George County ,100.0,01,5.0,M,Y,N,N,SLI,11
+903,King George High,2010-2011,SCH,48.0,King George County ,120.0,09,5.0,M,Y,N,N,SLD,16
+904,King George Middle,2010-2011,SCH,48.0,King George County ,10.0,07,5.0,F,Y,N,N,SLD,13
+905,King William High,2010-2011,SCH,50.0,King William County ,130.0,09,5.0,M,Y,N,N,SLD,14
+906,King's Grant Elementary,2010-2011,SCH,128.0,Virginia Beach City ,420.0,01,5.0,M,Y,N,N,SLI,10
+907,King`s Fork High,2010-2011,SCH,127.0,Suffolk City ,395.0,09,3.0,F,Y,N,Y,SLD,10
+908,King`s Fork Middle,2010-2011,SCH,127.0,Suffolk City ,393.0,06,3.0,F,Y,N,Y,SLD,10
+909,Kings Glen Elementary,2010-2011,SCH,29.0,Fairfax County ,1890.0,04,5.0,M,Y,N,N,OHI,14
+910,Kings Park Elementary,2010-2011,SCH,29.0,Fairfax County ,1440.0,01,5.0,M,Y,N,N,DD,11
+911,Kingston Elementary,2010-2011,SCH,128.0,Virginia Beach City ,580.0,05,5.0,F,Y,N,N,SLI,10
+912,Kipps Elementary,2010-2011,SCH,60.0,Montgomery County ,901.0,02,5.0,M,Y,N,N,SLI,10
+913,Kiptopeke Elementary,2010-2011,SCH,65.0,Northampton County ,452.0,03,3.0,M,Y,N,Y,DD,10
+914,L. Douglas Wilder Middle,2010-2011,SCH,43.0,Henrico County ,250.0,06,3.0,F,Y,N,N,OHI,16
+915,L.F. Addington Middle,2010-2011,SCH,96.0,Wise County ,320.0,05,5.0,M,Y,N,Y,SLD,12
+916,L.F. Palmer Elementary ,2010-2011,SCH,117.0,Newport News City ,200.0,01,3.0,M,Y,N,Y,SLD,10
+917,L.L. Beazley Elementary,2010-2011,SCH,74.0,Prince George County ,310.0,01,5.0,M,Y,N,N,SLI,10
+918,LaCrosse Elementary ,2010-2011,SCH,58.0,Mecklenburg County ,1020.0,,3.0,M,Y,N,Y,SLD,11
+919,Laburnum Elementary,2010-2011,SCH,43.0,Henrico County ,430.0,01,3.0,M,Y,N,N,SLI,10
+920,Lacey Spring Elementary,2010-2011,SCH,82.0,Rockingham County ,500.0,PS,5.0,M,Y,N,N,SLI,10
+921,Ladd Elementary,2010-2011,SCH,8.0,Augusta County ,700.0,,5.0,M,Y,N,Y,SLI,10
+922,Lafayette High,2010-2011,SCH,131.0,Williamsburg-James City County ,90.0,09,3.0,M,Y,N,N,SLD,11
+923,Lafayette Upper Elementary,2010-2011,SCH,110.0,Fredericksburg City ,272.0,03,3.0,M,Y,N,N,SLD,12
+924,Lafayette-Winona Middle,2010-2011,SCH,118.0,Norfolk City ,180.0,06,3.0,M,Y,N,Y,SLD,24
+925,Lake Anne Elementary,2010-2011,SCH,29.0,Fairfax County ,1570.0,02,3.0,M,Y,N,N,SLD,10
+926,Lake Braddock Secondary,2010-2011,SCH,29.0,Fairfax County ,90.0,07,4.0,M,Y,Y,N,SLD,12
+927,Lake Ridge Elementary,2010-2011,SCH,75.0,Prince William County ,180.0,01,4.0,M,Y,N,N,SLI,11
+928,Lake Ridge Middle,2010-2011,SCH,75.0,Prince William County ,720.0,06,3.0,M,Y,N,Y,SLD,14
+929,Lake Taylor High ,2010-2011,SCH,118.0,Norfolk City ,840.0,09,3.0,F,Y,N,Y,SLD,16
+930,Lake Taylor Middle,2010-2011,SCH,118.0,Norfolk City ,790.0,06,3.0,M,Y,N,Y,SLD,20
+931,Lakeland High,2010-2011,SCH,127.0,Suffolk City ,300.0,09,3.0,F,Y,N,Y,SLD,10
+932,Lakeside Elementary,2010-2011,SCH,43.0,Henrico County ,370.0,02,3.0,M,Y,N,Y,OHI,10
+933,Lakeview Elementary,2010-2011,SCH,106.0,Colonial Heights City ,50.0,01,5.0,F,Y,N,N,SLD,11
+934,Lancaster High,2010-2011,SCH,51.0,Lancaster County ,10.0,09,3.0,M,Y,N,Y,SLD,11
+935,Lancaster Middle,2010-2011,SCH,51.0,Lancaster County ,110.0,04,3.0,M,Y,N,Y,SLD,12
+936,Lancaster Primary,2010-2011,SCH,51.0,Lancaster County ,210.0,01,3.0,M,Y,N,Y,SLI,11
+937,Landstown Elementary,2010-2011,SCH,128.0,Virginia Beach City ,932.0,01,5.0,M,Y,N,N,SLD,13
+938,Landstown High,2010-2011,SCH,128.0,Virginia Beach City ,1030.0,09,3.0,F,Y,N,N,SLD,13
+939,Landstown Middle,2010-2011,SCH,128.0,Virginia Beach City ,931.0,06,3.0,F,Y,N,Y,OHI,12
+940,Lane Elementary,2010-2011,SCH,29.0,Fairfax County ,2209.0,02,5.0,M,Y,N,N,DD,11
+941,Langley High,2010-2011,SCH,29.0,Fairfax County ,1460.0,09,5.0,F,Y,N,N,SLD,21
+942,Lanier Middle,2010-2011,SCH,29.0,Fairfax County ,1110.0,07,2.0,M,Y,N,N,SLD,10
+943,Larchmont Elementary,2010-2011,SCH,118.0,Norfolk City ,210.0,01,3.0,M,Y,N,Y,SLI,10
+944,Larkspur Middle,2010-2011,SCH,128.0,Virginia Beach City ,970.0,06,3.0,F,Y,N,Y,SLD,13
+945,Larrymore Elementary,2010-2011,SCH,118.0,Norfolk City ,670.0,01,3.0,M,Y,N,Y,ID,12
+946,Laurel Elementary School,2010-2011,SCH,18.0,Carroll County ,1160.0,04,5.0,M,Y,N,N,SLD,10
+947,Laurel Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,2348.0,02,2.0,M,Y,N,N,SLD,11
+948,Laurel Meadow Elementary,2010-2011,SCH,42.0,Hanover County ,210.0,01,5.0,M,Y,N,N,SLD,13
+949,Laurel Park Middle ,2010-2011,SCH,44.0,Henry County ,670.0,06,5.0,M,Y,N,Y,SLD,10
+950,Laurel Ridge Elementary,2010-2011,SCH,29.0,Fairfax County ,1970.0,03,5.0,M,Y,N,N,SLD,10
+951,Lawson-Marriott Elementary,2010-2011,SCH,49.0,King and Queen County ,290.0,,3.0,M,Y,N,N,SLI,10
+952,Lebanon Elementary,2010-2011,SCH,83.0,Russell County ,410.0,02,5.0,M,Y,N,Y,OHI,10
+953,Lebanon High,2010-2011,SCH,83.0,Russell County ,140.0,08,5.0,F,Y,N,N,OHI,11
+954,Lebanon Middle,2010-2011,SCH,83.0,Russell County ,902.0,05,5.0,M,Y,N,Y,SLD,14
+955,Lebanon Primary,2010-2011,SCH,83.0,Russell County ,390.0,01,5.0,M,Y,N,N,ID,10
+956,Lee Davis High,2010-2011,SCH,42.0,Hanover County ,370.0,09,3.0,F,Y,N,Y,SLD,10
+957,Lee Hall Elementary,2010-2011,SCH,117.0,Newport News City ,1180.0,01,3.0,M,Y,N,Y,SLD,10
+958,Lee High,2010-2011,SCH,29.0,Fairfax County ,1020.0,09,2.0,M,Y,Y,Y,SLD,10
+959,Lee Hill Elementary,2010-2011,SCH,88.0,Spotsylvania County ,30.0,01,5.0,M,Y,N,Y,SLI,10
+960,Lee M. Waid Elementary,2010-2011,SCH,33.0,Franklin County ,660.0,01,5.0,M,Y,N,Y,SLI,11
+961,Lee-Jackson Elementary,2010-2011,SCH,57.0,Mathews County ,291.0,01,5.0,M,Y,N,Y,SLI,10
+962,Lees Corner Elementary,2010-2011,SCH,29.0,Fairfax County ,1850.0,03,2.0,M,Y,N,N,SLD,12
+963,Leesburg Elementary,2010-2011,SCH,53.0,Loudoun County ,80.0,01,5.0,M,Y,N,N,AUT,12
+964,Leesville Road Elementary,2010-2011,SCH,16.0,Campbell County ,690.0,01,5.0,F,Y,N,N,SLD,10
+965,Leesylvania Elementary,2010-2011,SCH,75.0,Prince William County ,830.0,01,3.0,M,Y,N,N,DD,13
+966,Legacy Elementary ,2010-2011,SCH,53.0,Loudoun County ,430.0,01,5.0,M,Y,N,N,SLI,11
+967,Lemon Road Elementary,2010-2011,SCH,29.0,Fairfax County ,770.0,,4.0,M,Y,N,N,,10
+968,Leslie Fox Keyser Elementary,2010-2011,SCH,93.0,Warren County ,20.0,02,5.0,M,Y,N,N,DD,10
+969,Leslie H. Walton Middle,2010-2011,SCH,2.0,Albemarle County ,20.0,06,5.0,M,Y,N,N,SLD,12
+970,Lewis & Clark Elementary,2010-2011,SCH,17.0,Caroline County ,9020.0,01,5.0,M,Y,N,Y,SLI,11
+971,Liberty Elementary,2010-2011,SCH,53.0,Loudoun County ,560.0,02,5.0,M,Y,N,N,SLI,16
+972,Liberty High,2010-2011,SCH,10.0,Bedford County ,1180.0,09,5.0,F,Y,N,N,SLD,10
+973,Liberty Middle,2010-2011,SCH,29.0,Fairfax County ,2233.0,07,3.0,M,Y,N,N,SLD,10
+974,Lightfoot Elementary,2010-2011,SCH,68.0,Orange County ,70.0,,5.0,M,Y,N,Y,,10
+975,Lincoln Elementary,2010-2011,SCH,53.0,Loudoun County ,290.0,,,M,Y,N,N,,10
+976,Lincoln Terrace Elementary,2010-2011,SCH,124.0,Roanoke City ,340.0,04,3.0,M,Y,N,Y,SLD,10
+977,Lindenwood Elementary,2010-2011,SCH,118.0,Norfolk City ,520.0,05,3.0,F,Y,N,Y,SLD,10
+978,Linkhorn Park Elementary,2010-2011,SCH,128.0,Virginia Beach City ,330.0,01,5.0,M,Y,N,N,SLI,10
+979,Linkhorne Elementary,2010-2011,SCH,115.0,Lynchburg City ,360.0,02,3.0,M,Y,N,Y,SLI,11
+980,Linkhorne Middle,2010-2011,SCH,115.0,Lynchburg City ,350.0,06,3.0,M,Y,N,Y,SLD,15
+981,Linville-Edom Elementary,2010-2011,SCH,82.0,Rockingham County ,360.0,,5.0,M,Y,N,Y,,15
+982,Linwood Holton Elementary,2010-2011,SCH,123.0,Richmond City ,3106.0,01,3.0,M,Y,N,Y,SLI,11
+983,Little Creek Elementary,2010-2011,SCH,118.0,Norfolk City ,682.0,01,3.0,M,Y,N,Y,AUT,14
+984,Little River Elementary,2010-2011,SCH,53.0,Loudoun County ,860.0,03,5.0,M,Y,N,N,SLD,10
+985,Little Run Elementary,2010-2011,SCH,29.0,Fairfax County ,1400.0,05,2.0,M,Y,Y,N,SLD,11
+986,Livingston Elementary,2010-2011,SCH,88.0,Spotsylvania County ,350.0,01,5.0,M,Y,N,Y,SLD,10
+987,Lloyd C. Bird High,2010-2011,SCH,21.0,Chesterfield County ,10.0,09,3.0,F,Y,N,N,SLD,10
+988,Local or Regional Jail,2010-2011,SCH,89.0,Stafford County ,9997.0,12,3.0,M,Y,N,N,,10
+989,Loch Lomond Elementary,2010-2011,SCH,75.0,Prince William County ,460.0,02,4.0,M,Y,Y,Y,SLI,13
+990,Locust Grove Elementary,2010-2011,SCH,68.0,Orange County ,50.0,01,5.0,F,Y,N,N,SLI,11
+991,Locust Grove Middle,2010-2011,SCH,68.0,Orange County ,471.0,06,5.0,M,Y,N,N,SLD,11
+992,Lois Hornsby Middle,2010-2011,SCH,131.0,Williamsburg-James City County ,191.0,06,3.0,M,Y,N,N,SLD,11
+993,London Towne Elementary,2010-2011,SCH,29.0,Fairfax County ,1830.0,01,2.0,M,Y,N,N,SLI,10
+994,Long Branch Elementary,2010-2011,SCH,7.0,Arlington County ,460.0,02,5.0,M,Y,N,N,DD,11
+995,Longdale Elementary,2010-2011,SCH,43.0,Henrico County ,50.0,02,5.0,M,Y,N,N,DD,11
+996,Longfellow Middle,2010-2011,SCH,29.0,Fairfax County ,1150.0,07,4.0,F,Y,Y,N,SLD,10
+997,Longs Fork Elementary,2010-2011,SCH,26.0,Dickenson County ,850.0,,5.0,F,Y,N,N,SLD,10
+998,Lord Botetourt High,2010-2011,SCH,12.0,Botetourt County ,440.0,09,5.0,F,Y,N,N,OHI,10
+999,Lorton Station Elementary,2010-2011,SCH,29.0,Fairfax County ,2236.0,01,2.0,M,Y,Y,N,DD,12
+1000,Loudoun County High,2010-2011,SCH,53.0,Loudoun County ,660.0,09,5.0,M,Y,N,N,SLD,16
+1001,Loudoun Valley High,2010-2011,SCH,53.0,Loudoun County ,680.0,09,5.0,M,Y,N,N,OHI,16
+1002,Louisa County High,2010-2011,SCH,54.0,Louisa County ,602.0,09,3.0,M,Y,N,N,OHI,11
+1003,Louisa County Middle,2010-2011,SCH,54.0,Louisa County ,601.0,06,3.0,M,Y,N,Y,SLD,10
+1004,Louise A. Benton Middle,2010-2011,SCH,75.0,Prince William County ,880.0,06,5.0,F,Y,N,N,SLD,10
+1005,Lovettsville Elementary,2010-2011,SCH,53.0,Loudoun County ,780.0,04,5.0,F,Y,N,N,SLI,11
+1006,Lowes Island Elementary,2010-2011,SCH,53.0,Loudoun County ,500.0,04,5.0,M,Y,N,N,SLI,10
+1007,Lucille M. Brown Middle,2010-2011,SCH,123.0,Richmond City ,3105.0,06,3.0,F,Y,N,Y,SLD,10
+1008,Lucketts Elementary,2010-2011,SCH,53.0,Loudoun County ,130.0,,5.0,M,Y,N,N,SLI,12
+1009,Lunenburg Middle,2010-2011,SCH,55.0,Lunenburg County ,171.0,06,3.0,M,Y,N,Y,OHI,10
+1010,Luray Elementary,2010-2011,SCH,69.0,Page County ,350.0,01,5.0,M,Y,N,Y,SLI,11
+1011,Luray High,2010-2011,SCH,69.0,Page County ,110.0,10,5.0,M,Y,N,Y,SLD,12
+1012,Luray Middle,2010-2011,SCH,69.0,Page County ,400.0,06,5.0,M,Y,N,N,SLD,12
+1013,Luther P. Jackson Middle,2010-2011,SCH,90.0,Surry County ,30.0,05,3.0,M,Y,N,Y,SLD,11
+1014,Luther W. Machen Elementary ,2010-2011,SCH,112.0,Hampton City ,490.0,02,3.0,M,Y,N,N,SLD,11
+1015,Luxford Elementary,2010-2011,SCH,128.0,Virginia Beach City ,460.0,02,5.0,M,Y,N,Y,OHI,12
+1016,Lylburn Downing Middle,2010-2011,SCH,137.0,Lexington City ,1440.0,,5.0,M,Y,N,N,,10
+1017,Lyles-Crouch Elementary,2010-2011,SCH,101.0,Alexandria City ,80.0,,3.0,M,Y,N,Y,SLD,14
+1018,Lynbrook Elementary,2010-2011,SCH,29.0,Fairfax County ,890.0,02,4.0,F,Y,Y,Y,SLD,12
+1019,Lynnhaven Elementary,2010-2011,SCH,128.0,Virginia Beach City ,520.0,02,3.0,M,Y,N,Y,SLI,12
+1020,Lynnhaven Middle,2010-2011,SCH,128.0,Virginia Beach City ,730.0,06,3.0,M,Y,N,N,SLD,12
+1021,Mack Benn Jr. Elementary,2010-2011,SCH,127.0,Suffolk City ,330.0,01,3.0,M,Y,N,Y,SLD,13
+1022,Macy Mcclaugherty Elementary/Middle,2010-2011,SCH,35.0,Giles County ,390.0,02,5.0,M,Y,N,Y,SLI,11
+1023,Madison County High,2010-2011,SCH,56.0,Madison County ,221.0,09,5.0,M,Y,N,N,SLD,10
+1024,Madison Elementary,2010-2011,SCH,17.0,Caroline County ,630.0,02,5.0,M,Y,N,Y,SLI,10
+1025,Madison Heights Elementary,2010-2011,SCH,5.0,Amherst County ,500.0,KG,3.0,M,Y,N,Y,SLD,10
+1026,Madison High,2010-2011,SCH,29.0,Fairfax County ,1060.0,09,4.0,F,Y,N,N,SLD,11
+1027,Madison Primary,2010-2011,SCH,56.0,Madison County ,230.0,01,5.0,M,Y,N,N,SLI,10
+1028,Magna Vista High,2010-2011,SCH,44.0,Henry County ,20.0,09,3.0,M,Y,N,N,SLD,12
+1029,Magruder Early Childhood Center,2010-2011,SCH,117.0,Newport News City ,1401.0,PS,3.0,M,Y,N,Y,,11
+1030,Magruder Elementary,2010-2011,SCH,98.0,York County ,10.0,01,5.0,M,Y,N,N,DD,10
+1031,Malibu Elementary,2010-2011,SCH,128.0,Virginia Beach City ,500.0,01,3.0,M,Y,N,N,SLI,11
+1032,Manassas Park Elementary,2010-2011,SCH,144.0,Manassas Park City ,420.0,03,4.0,M,Y,Y,Y,SLI,13
+1033,Manassas Park High,2010-2011,SCH,144.0,Manassas Park City ,30.0,09,4.0,M,Y,N,N,OHI,11
+1034,Manassas Park Middle,2010-2011,SCH,144.0,Manassas Park City ,31.0,06,4.0,F,Y,N,Y,SLD,12
+1035,Manchester High,2010-2011,SCH,21.0,Chesterfield County ,632.0,09,3.0,M,Y,N,N,SLD,18
+1036,Manchester Middle,2010-2011,SCH,21.0,Chesterfield County ,600.0,06,3.0,F,Y,N,N,SLD,12
+1037,Mantua Elementary,2010-2011,SCH,29.0,Fairfax County ,1210.0,02,5.0,M,Y,N,N,AUT,10
+1038,Margaret Beeks Elementary,2010-2011,SCH,60.0,Montgomery County ,730.0,,5.0,M,Y,N,N,,16
+1039,Margaret Brent Elementary ,2010-2011,SCH,89.0,Stafford County ,429.0,01,5.0,M,Y,N,N,SLI,11
+1040,Margaret M. Pierce Elementary,2010-2011,SCH,30.0,Fauquier County ,530.0,01,5.0,M,Y,N,Y,SLD,10
+1041,Marguerite F. Christian Elementary,2010-2011,SCH,21.0,Chesterfield County ,780.0,01,3.0,M,Y,N,Y,SLI,12
+1042,Marion Intermediate,2010-2011,SCH,86.0,Smyth County ,690.0,03,5.0,M,Y,N,Y,SLD,13
+1043,Marion Middle,2010-2011,SCH,86.0,Smyth County ,680.0,06,5.0,F,Y,N,Y,SLD,13
+1044,Marion Primary,2010-2011,SCH,86.0,Smyth County ,710.0,01,5.0,M,Y,N,Y,SLI,10
+1045,Marion Senior High,2010-2011,SCH,86.0,Smyth County ,700.0,09,5.0,M,Y,N,Y,SLD,12
+1046,Marshall High,2010-2011,SCH,29.0,Fairfax County ,1290.0,09,4.0,F,Y,Y,N,SLD,11
+1047,Marshall Middle,2010-2011,SCH,30.0,Fauquier County ,10.0,06,5.0,M,Y,N,N,SLD,12
+1048,Marshall Road Elementary,2010-2011,SCH,29.0,Fairfax County ,1200.0,02,5.0,M,Y,N,N,DD,10
+1049,Martin Luther King Jr. Elementary,2010-2011,SCH,75.0,Prince William County ,160.0,03,3.0,M,Y,N,N,SLI,14
+1050,Martin Luther King Jr. Middle ,2010-2011,SCH,123.0,Richmond City ,770.0,06,3.0,F,Y,N,Y,SLD,14
+1051,Martinsville High,2010-2011,SCH,116.0,Martinsville City ,110.0,09,3.0,M,Y,N,Y,SLD,10
+1052,Martinsville Middle,2010-2011,SCH,116.0,Martinsville City ,10.0,06,3.0,F,Y,N,Y,SLD,10
+1053,Marumsco Hills Elementary,2010-2011,SCH,75.0,Prince William County ,570.0,01,4.0,M,Y,N,Y,DD,10
+1054,Mary Calcott Elementary,2010-2011,SCH,118.0,Norfolk City ,460.0,03,3.0,M,Y,N,Y,SLI,10
+1055,Mary Carr Greer Elementary,2010-2011,SCH,2.0,Albemarle County ,40.0,02,3.0,F,Y,N,Y,SLI,12
+1056,Mary Ellen Henderson Middle,2010-2011,SCH,109.0,Falls Church City ,252.0,05,5.0,M,Y,N,N,SLD,11
+1057,Mary G. Porter Traditional,2010-2011,SCH,75.0,Prince William County ,231.0,04,3.0,M,Y,N,N,SLI,10
+1058,Mary Munford Elementary,2010-2011,SCH,123.0,Richmond City ,580.0,02,5.0,M,Y,N,N,SLI,12
+1059,Mary Passage Middle,2010-2011,SCH,117.0,Newport News City ,1400.0,06,3.0,F,Y,N,N,SLD,10
+1060,Mary Walter Elementary,2010-2011,SCH,30.0,Fauquier County ,20.0,01,5.0,M,Y,N,N,AUT,10
+1061,Mary Williams Elementary ,2010-2011,SCH,75.0,Prince William County ,240.0,01,3.0,M,Y,N,N,SLI,12
+1062,Mason's Cove Elementary,2010-2011,SCH,80.0,Roanoke County ,530.0,04,5.0,F,Y,N,N,SLI,10
+1063,Massaponax High,2010-2011,SCH,88.0,Spotsylvania County ,506.0,09,3.0,M,Y,N,Y,SLD,12
+1064,Mathews High,2010-2011,SCH,57.0,Mathews County ,190.0,11,5.0,M,Y,N,N,SLD,11
+1065,Matoaca Elementary,2010-2011,SCH,21.0,Chesterfield County ,370.0,03,5.0,M,Y,N,N,SLD,11
+1066,Matoaca High,2010-2011,SCH,21.0,Chesterfield County ,530.0,09,3.0,F,Y,N,N,SLD,12
+1067,Matoaca Middle,2010-2011,SCH,21.0,Chesterfield County ,110.0,06,3.0,M,Y,N,N,SLD,10
+1068,Matoaka Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,205.0,01,5.0,M,Y,N,N,SLI,11
+1069,Matthew Fontaine Maury High,2010-2011,SCH,118.0,Norfolk City ,10.0,09,3.0,F,Y,N,Y,SLD,28
+1070,Matthew Whaley Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,10.0,02,3.0,M,Y,N,N,SLI,10
+1071,Maude Trevvett Elementary,2010-2011,SCH,43.0,Henrico County ,490.0,03,3.0,M,Y,N,N,DD,11
+1072,Maury Elementary,2010-2011,SCH,101.0,Alexandria City ,60.0,01,3.0,F,Y,N,Y,SLD,12
+1073,Maury River Middle,2010-2011,SCH,81.0,Rockbridge County ,678.0,06,5.0,M,Y,N,Y,SLD,15
+1074,Max Meadows Elementary,2010-2011,SCH,97.0,Wythe County ,100.0,,5.0,F,Y,N,Y,SLD,12
+1075,Maybeury Elementary,2010-2011,SCH,43.0,Henrico County ,540.0,03,5.0,F,Y,N,N,SLI,10
+1076,Mayfield Intermediate,2010-2011,SCH,143.0,Manassas City ,80.0,05,3.0,M,Y,N,N,SLD,11
+1077,Maymont Pre-K Center,2010-2011,SCH,123.0,Richmond City ,690.0,PS,3.0,F,Y,N,Y,DD,10
+1078,McCleary Elementary,2010-2011,SCH,23.0,Craig County ,10.0,01,5.0,F,Y,N,Y,SLI,10
+1079,McGaheysville Elementary,2010-2011,SCH,82.0,Rockingham County ,600.0,04,5.0,F,Y,N,N,SLI,10
+1080,McHarg Elementary,2010-2011,SCH,122.0,Radford City ,20.0,01,5.0,M,Y,N,Y,SLI,10
+1081,McKinley Elementary,2010-2011,SCH,7.0,Arlington County ,380.0,01,4.0,M,Y,N,N,SLI,10
+1082,McLean High,2010-2011,SCH,29.0,Fairfax County ,790.0,09,4.0,F,Y,N,N,OHI,12
+1083,McNair Elementary,2010-2011,SCH,29.0,Fairfax County ,2231.0,01,2.0,M,Y,N,N,DD,10
+1084,Meadowbrook High,2010-2011,SCH,21.0,Chesterfield County ,580.0,09,3.0,F,Y,N,N,SLD,10
+1085,Meadowland Elementary,2010-2011,SCH,53.0,Loudoun County ,70.0,05,4.0,M,Y,N,N,SLI,10
+1086,Meadows of Dan Elementary ,2010-2011,SCH,70.0,Patrick County ,150.0,,5.0,F,Y,N,Y,SLI,10
+1087,Meadowview Elementary,2010-2011,SCH,94.0,Washington County ,20.0,01,5.0,M,Y,N,Y,SLI,10
+1088,Meadville Elementary,2010-2011,SCH,41.0,Halifax County ,1550.0,02,3.0,M,Y,N,Y,SLI,11
+1089,Mechanicsville Elementary,2010-2011,SCH,42.0,Hanover County ,420.0,01,5.0,M,Y,N,N,SLI,10
+1090,Meherrin Elementary,2010-2011,SCH,87.0,Southampton County ,20.0,KG,3.0,F,Y,N,Y,SLI,10
+1091,Meherrin Powellton Elementary,2010-2011,SCH,13.0,Brunswick County ,690.0,04,3.0,M,Y,N,Y,SLD,10
+1092,Menchville High,2010-2011,SCH,117.0,Newport News City ,1220.0,09,3.0,F,Y,N,Y,SLD,14
+1093,Mercer Middle ,2010-2011,SCH,53.0,Loudoun County ,320.0,06,5.0,M,Y,N,N,SLD,12
+1094,Meriwether Lewis Elementary,2010-2011,SCH,2.0,Albemarle County ,250.0,,5.0,M,Y,N,N,SLI,19
+1095,Merrimack Elementary,2010-2011,SCH,112.0,Hampton City ,390.0,02,3.0,M,Y,N,Y,DD,13
+1096,Metompkin Elementary,2010-2011,SCH,1.0,Accomack County ,702.0,01,3.0,M,Y,N,Y,SLI,10
+1097,Middlesex Elementary,2010-2011,SCH,59.0,Middlesex County ,291.0,01,5.0,M,Y,N,N,SLI,12
+1098,Middlesex High,2010-2011,SCH,59.0,Middlesex County ,90.0,09,5.0,M,Y,N,Y,OHI,11
+1099,Middletown Elementary,2010-2011,SCH,34.0,Frederick County ,340.0,02,5.0,M,Y,N,Y,SLI,11
+1100,Midlothian High,2010-2011,SCH,21.0,Chesterfield County ,320.0,09,5.0,F,Y,N,N,SLD,12
+1101,Midlothian Middle,2010-2011,SCH,21.0,Chesterfield County ,40.0,06,5.0,F,Y,N,N,SLD,10
+1102,Midway Elementary,2010-2011,SCH,27.0,Dinwiddie County ,250.0,04,5.0,F,Y,N,Y,SLI,11
+1103,Miles Jones Elementary,2010-2011,SCH,123.0,Richmond City ,3107.0,01,3.0,M,Y,N,Y,SLD,12
+1104,Mill Run Elementary,2010-2011,SCH,53.0,Loudoun County ,910.0,02,5.0,M,Y,N,N,SLI,10
+1105,Millboro Elementary,2010-2011,SCH,9.0,Bath County ,120.0,,5.0,M,Y,N,N,,14
+1106,Millbrook High,2010-2011,SCH,34.0,Frederick County ,584.0,09,5.0,M,Y,N,N,SLD,17
+1107,Mills E. Godwin High,2010-2011,SCH,43.0,Henrico County ,140.0,09,5.0,M,Y,N,N,SLD,15
+1108,Mills E. Godwin Middle,2010-2011,SCH,75.0,Prince William County ,640.0,06,3.0,F,Y,N,Y,SLD,14
+1109,Minnieville Elementary,2010-2011,SCH,75.0,Prince William County ,30.0,04,3.0,M,Y,N,Y,SLI,13
+1110,Monacan High,2010-2011,SCH,21.0,Chesterfield County ,280.0,09,3.0,M,Y,N,Y,SLD,16
+1111,Monelison Middle,2010-2011,SCH,5.0,Amherst County ,20.0,06,5.0,M,Y,N,N,OHI,10
+1112,Moneta Elementary,2010-2011,SCH,10.0,Bedford County ,970.0,PS,5.0,M,Y,N,N,SLI,10
+1113,Montclair Elementary,2010-2011,SCH,75.0,Prince William County ,800.0,04,3.0,M,Y,N,N,AUT,10
+1114,Monterey Elementary,2010-2011,SCH,124.0,Roanoke City ,370.0,02,5.0,M,Y,N,Y,SLI,10
+1115,Montevideo Middle,2010-2011,SCH,82.0,Rockingham County ,860.0,06,5.0,M,Y,N,Y,SLD,16
+1116,Monticello High,2010-2011,SCH,2.0,Albemarle County ,1052.0,09,3.0,M,Y,N,N,SLD,12
+1117,Montrose Elementary,2010-2011,SCH,43.0,Henrico County ,210.0,01,3.0,M,Y,N,Y,SLI,10
+1118,Montross Middle,2010-2011,SCH,95.0,Westmoreland County ,300.0,08,3.0,M,Y,N,Y,OHI,10
+1119,Montvale Elementary,2010-2011,SCH,10.0,Bedford County ,180.0,,5.0,F,Y,N,Y,OHI,11
+1120,Morningside Elementary,2010-2011,SCH,124.0,Roanoke City ,60.0,01,5.0,M,Y,N,Y,DD,14
+1121,Mortimer Y. Sutherland Middle,2010-2011,SCH,2.0,Albemarle County ,1051.0,06,5.0,M,Y,N,N,AUT,10
+1122,Mosby Woods Elementary,2010-2011,SCH,29.0,Fairfax County ,1390.0,01,2.0,M,Y,Y,N,DD,10
+1123,Moss-Nuckols Elementary,2010-2011,SCH,54.0,Louisa County ,80.0,02,5.0,M,Y,N,N,SLI,11
+1124,Moton Early Childhood Center,2010-2011,SCH,112.0,Hampton City ,210.0,PS,3.0,M,Y,N,Y,SLI,11
+1125,Mount Airy Elementary,2010-2011,SCH,71.0,Pittsylvania County ,1750.0,,3.0,F,Y,N,Y,SLD,15
+1126,Mount Daniel School,2010-2011,SCH,109.0,Falls Church City ,240.0,01,5.0,M,Y,N,N,DD,10
+1127,Mount Eagle Elementary,2010-2011,SCH,29.0,Fairfax County ,510.0,02,4.0,M,Y,N,N,DD,11
+1128,Mount Olivet Elementary ,2010-2011,SCH,44.0,Henry County ,872.0,,3.0,M,Y,N,Y,SLI,11
+1129,Mount Pleasant Elementary,2010-2011,SCH,80.0,Roanoke County ,290.0,03,5.0,M,Y,N,N,OHI,10
+1130,Mount Vernon Elementary,2010-2011,SCH,101.0,Alexandria City ,30.0,01,4.0,M,Y,N,Y,SLD,14
+1131,Mount Vernon Elementary ,2010-2011,SCH,98.0,York County ,80.0,03,5.0,M,Y,N,N,AUT,11
+1132,Mount Vernon High,2010-2011,SCH,29.0,Fairfax County ,420.0,09,3.0,F,Y,N,Y,SLD,11
+1133,Mount Vernon Woods Elementary,2010-2011,SCH,29.0,Fairfax County ,1640.0,02,3.0,M,Y,N,Y,DD,11
+1134,Mount Zion Elementary,2010-2011,SCH,127.0,Suffolk City ,360.0,,,,Y,N,,,12
+1135,Mountain View Elementary,2010-2011,SCH,3.0,Alleghany County ,1041.0,02,5.0,M,Y,N,Y,SLD,10
+1136,Mountain View High ,2010-2011,SCH,89.0,Stafford County ,430.0,09,5.0,M,Y,N,N,SLD,13
+1137,Murray High,2010-2011,SCH,2.0,Albemarle County ,890.0,09,5.0,M,Y,N,N,OHI,10
+1138,N.B. Clements Junior High ,2010-2011,SCH,74.0,Prince George County ,270.0,08,3.0,M,Y,N,N,OHI,10
+1139,Nandua High,2010-2011,SCH,1.0,Accomack County ,70.0,09,3.0,M,Y,N,Y,SLD,10
+1140,Nandua Middle,2010-2011,SCH,1.0,Accomack County ,703.0,06,3.0,M,Y,N,Y,SLD,11
+1141,Nansemond Parkway Elementary,2010-2011,SCH,127.0,Suffolk City ,220.0,03,3.0,F,Y,N,Y,SLD,10
+1142,Nansemond River High,2010-2011,SCH,127.0,Suffolk City ,240.0,09,3.0,F,Y,N,N,SLD,13
+1143,Narrows Elementary/Middle ,2010-2011,SCH,35.0,Giles County ,400.0,02,5.0,F,Y,N,Y,SLI,11
+1144,Narrows High,2010-2011,SCH,35.0,Giles County ,470.0,08,5.0,M,Y,N,Y,OHI,11
+1145,Nathanael Greene Elementary,2010-2011,SCH,39.0,Greene County ,20.0,03,5.0,M,Y,N,Y,SLD,13
+1146,Natural Bridge Elementary,2010-2011,SCH,81.0,Rockbridge County ,641.0,,5.0,F,Y,N,Y,OHI,10
+1147,Navy Elementary,2010-2011,SCH,29.0,Fairfax County ,800.0,01,5.0,M,Y,N,N,SLD,12
+1148,Neabsco Elementary,2010-2011,SCH,75.0,Prince William County ,700.0,01,4.0,M,Y,N,Y,SLI,10
+1149,Nelson County High,2010-2011,SCH,62.0,Nelson County ,710.0,09,5.0,M,Y,N,Y,SLD,13
+1150,Nelson Middle,2010-2011,SCH,62.0,Nelson County ,730.0,06,5.0,M,Y,N,Y,SLD,12
+1151,New Castle Elementary,2010-2011,SCH,128.0,Virginia Beach City ,1020.0,03,3.0,F,Y,N,N,SLI,12
+1152,New Kent Elementary ,2010-2011,SCH,63.0,New Kent County ,10.0,01,5.0,M,Y,N,N,DD,10
+1153,New Kent High ,2010-2011,SCH,63.0,New Kent County ,20.0,09,5.0,M,Y,N,N,OHI,15
+1154,New Kent Middle ,2010-2011,SCH,63.0,New Kent County ,100.0,06,5.0,M,Y,N,N,SLD,13
+1155,New London Academy Elementary,2010-2011,SCH,10.0,Bedford County ,610.0,PS,5.0,F,Y,N,N,SLI,10
+1156,Newington Forest Elementary,2010-2011,SCH,29.0,Fairfax County ,470.0,02,5.0,M,Y,N,N,SLD,10
+1157,Newsome Park Elementary,2010-2011,SCH,117.0,Newport News City ,1120.0,,3.0,F,Y,N,Y,SLD,10
+1158,Newton-Lee Elementary ,2010-2011,SCH,53.0,Loudoun County ,270.0,01,5.0,M,Y,N,N,SLD,11
+1159,Newtown Elementary,2010-2011,SCH,128.0,Virginia Beach City ,710.0,02,3.0,M,Y,N,Y,SLI,16
+1160,Ni River Middle,2010-2011,SCH,88.0,Spotsylvania County ,505.0,06,5.0,M,Y,N,N,SLD,14
+1161,Nickelsville Elementary,2010-2011,SCH,84.0,Scott County ,220.0,,5.0,F,Y,N,Y,OHI,16
+1162,Nokesville Elementary,2010-2011,SCH,75.0,Prince William County ,150.0,02,5.0,M,Y,N,N,SLI,11
+1163,Norfolk Highlands Primary,2010-2011,SCH,136.0,Chesapeake City ,160.0,01,5.0,M,Y,N,Y,DD,11
+1164,Norge Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,70.0,01,3.0,M,Y,N,N,DD,11
+1165,North Elementary,2010-2011,SCH,74.0,Prince George County ,290.0,01,3.0,M,Y,N,N,SLI,12
+1166,North Fork Middle,2010-2011,SCH,85.0,Shenandoah County ,40.0,06,5.0,M,Y,N,Y,SLD,10
+1167,North Landing Elementary,2010-2011,SCH,128.0,Virginia Beach City ,760.0,03,3.0,F,Y,N,N,SLI,11
+1168,North River Elementary,2010-2011,SCH,8.0,Augusta County ,40.0,,5.0,F,Y,N,N,SLI,10
+1169,North Springfield Elementary,2010-2011,SCH,29.0,Fairfax County ,930.0,01,2.0,M,Y,N,N,SLD,13
+1170,North Stafford High,2010-2011,SCH,89.0,Stafford County ,30.0,09,3.0,M,Y,N,N,OHI,11
+1171,North Tazewell Elementary,2010-2011,SCH,92.0,Tazewell County ,450.0,02,5.0,F,Y,N,Y,SLI,10
+1172,Northampton High,2010-2011,SCH,65.0,Northampton County ,350.0,08,3.0,M,Y,N,Y,SLD,12
+1173,Northern Shores Elementary,2010-2011,SCH,127.0,Suffolk City ,391.0,01,3.0,M,Y,N,N,DD,11
+1174,Northside High,2010-2011,SCH,80.0,Roanoke County ,520.0,09,5.0,M,Y,N,N,OHI,17
+1175,Northside Middle,2010-2011,SCH,80.0,Roanoke County ,640.0,06,5.0,F,Y,N,N,OHI,13
+1176,Northumberland Elementary,2010-2011,SCH,66.0,Northumberland County ,331.0,01,3.0,M,Y,N,Y,SLD,11
+1177,Northumberland High,2010-2011,SCH,66.0,Northumberland County ,40.0,09,3.0,M,Y,N,Y,EMN,10
+1178,Northumberland Middle,2010-2011,SCH,66.0,Northumberland County ,210.0,06,5.0,M,Y,N,Y,SLD,12
+1179,Northwood High,2010-2011,SCH,86.0,Smyth County ,250.0,09,5.0,M,Y,N,Y,SLD,10
+1180,Northwood Middle,2010-2011,SCH,86.0,Smyth County ,120.0,06,5.0,M,Y,N,Y,SLD,11
+1181,Norton Elementary,2010-2011,SCH,119.0,Norton City ,40.0,04,5.0,F,Y,N,Y,SLD,10
+1182,Norview Elementary,2010-2011,SCH,118.0,Norfolk City ,620.0,01,3.0,M,Y,N,Y,SLD,10
+1183,Norview High,2010-2011,SCH,118.0,Norfolk City ,580.0,09,3.0,F,Y,N,Y,SLD,15
+1184,Norview Middle,2010-2011,SCH,118.0,Norfolk City ,570.0,06,3.0,F,Y,N,Y,SLD,12
+1185,Nottingham Elementary,2010-2011,SCH,7.0,Arlington County ,410.0,02,5.0,M,Y,N,N,SLI,10
+1186,Nottoway Elementary,2010-2011,SCH,87.0,Southampton County ,10.0,,3.0,M,Y,N,Y,SLI,11
+1187,Nottoway High,2010-2011,SCH,67.0,Nottoway County ,301.0,09,3.0,M,Y,N,Y,SLD,12
+1188,Nottoway Intermediate,2010-2011,SCH,67.0,Nottoway County ,300.0,05,3.0,M,Y,N,Y,SLD,11
+1189,Nottoway Middle,2010-2011,SCH,67.0,Nottoway County ,302.0,07,3.0,M,Y,N,N,SLD,12
+1190,Nuckols Farm Elementary,2010-2011,SCH,43.0,Henrico County ,270.0,04,5.0,M,Y,N,N,AUT,10
+1191,O. Trent Bonner Middle,2010-2011,SCH,108.0,Danville City ,260.0,06,3.0,M,Y,N,Y,OHI,10
+1192,O.B. Gates Elementary,2010-2011,SCH,21.0,Chesterfield County ,360.0,01,5.0,M,Y,N,N,DD,10
+1193,Oak Grove Elementary,2010-2011,SCH,80.0,Roanoke County ,480.0,02,5.0,M,Y,N,N,SLI,10
+1194,Oak Grove/Bellemeade Elementary,2010-2011,SCH,123.0,Richmond City ,330.0,01,3.0,M,Y,N,Y,SLD,12
+1195,Oak Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,430.0,01,5.0,M,Y,N,N,DD,10
+1196,Oak Knoll Middle,2010-2011,SCH,42.0,Hanover County ,553.0,06,5.0,F,Y,N,N,OHI,10
+1197,Oak View Elementary,2010-2011,SCH,29.0,Fairfax County ,1860.0,01,5.0,M,Y,N,N,SLD,10
+1198,Oakland Elementary,2010-2011,SCH,18.0,Carroll County ,1130.0,03,5.0,F,Y,N,Y,SLI,11
+1199,Oakridge Elementary,2010-2011,SCH,7.0,Arlington County ,360.0,01,3.0,M,Y,N,N,OHI,10
+1200,Oakton Elementary,2010-2011,SCH,29.0,Fairfax County ,140.0,01,5.0,M,Y,N,N,SLD,10
+1201,Oakton High,2010-2011,SCH,29.0,Fairfax County ,1710.0,09,4.0,F,Y,N,N,SLD,10
+1202,Oakwood Elementary,2010-2011,SCH,118.0,Norfolk City ,540.0,,3.0,M,Y,N,Y,SLD,12
+1203,Occohannock Elementary,2010-2011,SCH,65.0,Northampton County ,451.0,03,3.0,M,Y,N,Y,SLD,11
+1204,Occoquan Elementary,2010-2011,SCH,75.0,Prince William County ,260.0,01,3.0,M,Y,N,N,SLD,12
+1205,Ocean Lakes Elementary,2010-2011,SCH,128.0,Virginia Beach City ,880.0,01,5.0,M,Y,N,N,SLD,10
+1206,Ocean Lakes High,2010-2011,SCH,128.0,Virginia Beach City ,960.0,09,3.0,M,Y,N,N,SLD,10
+1207,Ocean View Elementary,2010-2011,SCH,118.0,Norfolk City ,190.0,01,3.0,M,Y,N,Y,SLI,12
+1208,Oceanair Elementary,2010-2011,SCH,118.0,Norfolk City ,630.0,04,3.0,M,Y,N,Y,SLD,11
+1209,Old Bridge Elementary,2010-2011,SCH,75.0,Prince William County ,820.0,01,4.0,M,Y,N,N,SLI,12
+1210,Old Donation Center,2010-2011,SCH,128.0,Virginia Beach City ,570.0,,,,Y,N,,,11
+1211,Olde Creek Elementary,2010-2011,SCH,29.0,Fairfax County ,1650.0,04,4.0,M,Y,N,N,DD,12
+1212,Olive Branch Elementary,2010-2011,SCH,121.0,Portsmouth City ,290.0,02,5.0,F,Y,N,N,SLI,10
+1213,Oliver C. Greenwood Elementary,2010-2011,SCH,117.0,Newport News City ,150.0,01,3.0,M,Y,N,N,SLI,16
+1214,Orange County High ,2010-2011,SCH,68.0,Orange County ,330.0,09,5.0,F,Y,N,N,SLD,10
+1215,Orange Elementary,2010-2011,SCH,68.0,Orange County ,370.0,01,3.0,M,Y,N,Y,SLI,10
+1216,Orange Hunt Elementary,2010-2011,SCH,29.0,Fairfax County ,150.0,01,5.0,M,Y,N,N,SLD,13
+1217,Orchard View Elementary,2010-2011,SCH,34.0,Frederick County ,583.0,03,5.0,F,Y,N,N,SLI,10
+1218,Original Walker-Grant,2010-2011,SCH,110.0,Fredericksburg City ,30.0,PS,3.0,M,Y,N,Y,DD,15
+1219,Osbourn High,2010-2011,SCH,143.0,Manassas City ,370.0,09,3.0,M,Y,N,N,SLD,15
+1220,Osbourn Park High,2010-2011,SCH,75.0,Prince William County ,80.0,09,3.0,M,Y,N,N,SLD,10
+1221,Oscar F. Smith High,2010-2011,SCH,136.0,Chesapeake City ,80.0,09,3.0,F,Y,N,Y,SLD,34
+1222,Oscar Smith Middle,2010-2011,SCH,136.0,Chesapeake City ,10.0,06,3.0,F,Y,N,Y,SLD,13
+1223,Otter River Elementary,2010-2011,SCH,10.0,Bedford County ,1170.0,,5.0,M,Y,N,N,SLI,10
+1224,Ottobine Elementary,2010-2011,SCH,82.0,Rockingham County ,920.0,,5.0,M,Y,N,Y,SLI,11
+1225,Overby-Sheppard Elementary,2010-2011,SCH,123.0,Richmond City ,130.0,01,3.0,M,Y,N,Y,SLD,10
+1226,P.B. Smith Elementary,2010-2011,SCH,30.0,Fauquier County ,720.0,03,5.0,M,Y,N,N,DD,10
+1227,P.B. Young Sr. Elementary ,2010-2011,SCH,118.0,Norfolk City ,530.0,KG,3.0,M,Y,N,Y,SLI,11
+1228,Page County High,2010-2011,SCH,69.0,Page County ,380.0,09,5.0,M,Y,N,Y,SLD,10
+1229,Page County Middle,2010-2011,SCH,69.0,Page County ,390.0,06,5.0,M,Y,N,Y,SLD,10
+1230,Page Middle,2010-2011,SCH,36.0,Gloucester County ,90.0,06,5.0,M,Y,N,N,SLD,11
+1231,Park Avenue Elementary,2010-2011,SCH,108.0,Danville City ,250.0,01,3.0,M,Y,N,Y,SLI,10
+1232,Park Ridge Elementary,2010-2011,SCH,89.0,Stafford County ,300.0,02,3.0,M,Y,N,N,SLI,11
+1233,Park View Elementary,2010-2011,SCH,121.0,Portsmouth City ,60.0,02,3.0,M,Y,N,Y,SLD,12
+1234,Park View High,2010-2011,SCH,53.0,Loudoun County ,60.0,09,3.0,M,Y,N,Y,SLD,10
+1235,Park View Middle,2010-2011,SCH,58.0,Mecklenburg County ,950.0,06,3.0,M,Y,N,Y,SLD,11
+1236,Parklawn Elementary,2010-2011,SCH,29.0,Fairfax County ,1030.0,01,4.0,F,Y,Y,Y,DD,11
+1237,Parkside Elementary,2010-2011,SCH,88.0,Spotsylvania County ,508.0,01,5.0,M,Y,N,N,SLI,11
+1238,Parkside Middle,2010-2011,SCH,75.0,Prince William County ,501.0,06,4.0,F,Y,Y,Y,SLD,10
+1239,Parkway Elementary,2010-2011,SCH,128.0,Virginia Beach City ,820.0,01,3.0,M,Y,N,Y,SLI,12
+1240,Parry McCluer High,2010-2011,SCH,103.0,Buena Vista City ,62.0,09,5.0,F,Y,N,N,SLD,10
+1241,Parry McCluer Middle,2010-2011,SCH,103.0,Buena Vista City ,61.0,05,5.0,M,Y,N,Y,SLD,13
+1242,Patrick Copeland Elementary,2010-2011,SCH,114.0,Hopewell City ,70.0,01,5.0,M,Y,N,Y,SLD,10
+1243,Patrick County High,2010-2011,SCH,70.0,Patrick County ,700.0,08,5.0,M,Y,N,Y,SLD,11
+1244,Patrick Henry Elementary,2010-2011,SCH,101.0,Alexandria City ,50.0,03,3.0,F,Y,N,Y,SLD,12
+1245,Patrick Henry High,2010-2011,SCH,42.0,Hanover County ,400.0,09,3.0,M,Y,N,N,SLD,10
+1246,Patrick Henry School Of Science And Arts,2010-2011,SCH,123.0,Richmond City ,3119.0,,3.0,,Y,N,N,,11
+1247,Patrick Springs Elementary,2010-2011,SCH,70.0,Patrick County ,680.0,01,5.0,F,Y,N,Y,SLI,11
+1248,Paul Burbank Elementary,2010-2011,SCH,112.0,Hampton City ,410.0,03,3.0,M,Y,N,Y,EMN,16
+1249,Paul H. Cale Elementary,2010-2011,SCH,2.0,Albemarle County ,150.0,01,3.0,M,Y,N,Y,SLI,10
+1250,Paul L. Dunbar Middle for Innovation ,2010-2011,SCH,115.0,Lynchburg City ,170.0,06,3.0,M,Y,N,Y,SLD,10
+1251,Paul Munro Elementary,2010-2011,SCH,115.0,Lynchburg City ,330.0,,3.0,M,Y,N,Y,SLI,14
+1252,Paul S Blandford Sch @ Beau,2010-2011,SCH,900.0,Department of Correctional Education,36.0,12,3.0,M,Y,N,Y,SLD,12
+1253,Paul S. Blandford High Annex,2010-2011,SCH,900.0,Department of Correctional Education,60.0,,3.0,M,Y,N,Y,EMN,15
+1254,Peabody Middle,2010-2011,SCH,120.0,Petersburg City ,121.0,06,3.0,M,Y,N,N,SLD,11
+1255,Peak View Elementary,2010-2011,SCH,82.0,Rockingham County ,1073.0,,5.0,M,Y,N,N,SLI,11
+1256,Pearl Sample Elementary,2010-2011,SCH,24.0,Culpeper County ,10.0,01,5.0,M,Y,N,Y,SLI,10
+1257,Pearson's Corner Elementary,2010-2011,SCH,42.0,Hanover County ,410.0,03,5.0,M,Y,N,N,SLI,10
+1258,Peasley Middle,2010-2011,SCH,36.0,Gloucester County ,280.0,06,5.0,M,Y,N,N,SLD,11
+1259,Pemberton Elementary,2010-2011,SCH,43.0,Henrico County ,440.0,PS,5.0,M,Y,N,N,DD,10
+1260,Pembroke Elementary,2010-2011,SCH,128.0,Virginia Beach City ,490.0,01,5.0,F,Y,N,N,ID,11
+1261,Pembroke Meadows Elementary,2010-2011,SCH,128.0,Virginia Beach City ,660.0,04,3.0,M,Y,N,Y,SLD,10
+1262,Penn Forest Elementary,2010-2011,SCH,80.0,Roanoke County ,50.0,01,5.0,M,Y,N,N,SLI,10
+1263,Pennington Middle,2010-2011,SCH,52.0,Lee County ,290.0,06,5.0,M,Y,N,Y,SLD,10
+1264,Pennington School,2010-2011,SCH,75.0,Prince William County ,945.0,,5.0,F,Y,N,N,SLI,15
+1265,Perrymont Elementary,2010-2011,SCH,115.0,Lynchburg City ,270.0,01,3.0,M,Y,N,Y,SLI,11
+1266,Peter Muhlenberg Middle,2010-2011,SCH,85.0,Shenandoah County ,30.0,06,5.0,M,Y,N,Y,SLD,11
+1267,Petersburg High,2010-2011,SCH,120.0,Petersburg City ,200.0,10,3.0,F,Y,N,Y,SLD,12
+1268,Petsworth Elementary,2010-2011,SCH,36.0,Gloucester County ,270.0,02,5.0,M,Y,N,N,SLI,10
+1269,Phenix Elementary,2010-2011,SCH,20.0,Charlotte County ,110.0,01,3.0,M,Y,N,Y,SLI,10
+1270,Phillips Elementary,2010-2011,SCH,112.0,Hampton City ,370.0,01,3.0,M,Y,N,Y,SLD,12
+1271,Phoebus High,2010-2011,SCH,112.0,Hampton City ,50.0,09,3.0,F,Y,N,Y,SLD,14
+1272,Pinchbeck Elementary,2010-2011,SCH,43.0,Henrico County ,570.0,05,3.0,M,Y,N,N,SLI,10
+1273,Pine Spring Elementary,2010-2011,SCH,29.0,Fairfax County ,820.0,01,4.0,M,Y,Y,Y,SLD,11
+1274,Pinebrook Elementary,2010-2011,SCH,53.0,Loudoun County ,340.0,01,5.0,M,Y,N,N,SLI,10
+1275,Plains Elementary,2010-2011,SCH,82.0,Rockingham County ,10.0,04,5.0,M,Y,N,N,SLI,10
+1276,Plaza Middle,2010-2011,SCH,128.0,Virginia Beach City ,640.0,06,3.0,F,Y,N,Y,SLD,10
+1277,Pleasant Valley Elementary,2010-2011,SCH,82.0,Rockingham County ,950.0,,5.0,M,Y,N,N,,11
+1278,Pleasant View Elementary,2010-2011,SCH,5.0,Amherst County ,240.0,,,,Y,N,,,10
+1279,Pocahontas Elementary,2010-2011,SCH,72.0,Powhatan County ,231.0,02,5.0,M,Y,N,N,SLI,11
+1280,Pocahontas Middle,2010-2011,SCH,43.0,Henrico County ,280.0,06,5.0,F,Y,N,N,SLD,10
+1281,Poe Middle,2010-2011,SCH,29.0,Fairfax County ,1130.0,06,4.0,F,Y,Y,N,SLD,10
+1282,Point O' View Elementary,2010-2011,SCH,128.0,Virginia Beach City ,680.0,01,3.0,M,Y,N,Y,SLI,13
+1283,Pole Green Elementary,2010-2011,SCH,42.0,Hanover County ,552.0,01,5.0,M,Y,N,N,SLI,11
+1284,Poplar Halls Elementary,2010-2011,SCH,118.0,Norfolk City ,710.0,03,3.0,M,Y,N,Y,SLD,10
+1285,Poplar Tree Elementary,2010-2011,SCH,29.0,Fairfax County ,2080.0,02,5.0,M,Y,N,N,DD,10
+1286,Poquoson Elementary,2010-2011,SCH,142.0,Poquoson City ,150.0,03,5.0,M,Y,N,N,SLI,12
+1287,Poquoson High,2010-2011,SCH,142.0,Poquoson City ,10.0,09,5.0,F,Y,N,N,SLD,10
+1288,Poquoson Middle,2010-2011,SCH,142.0,Poquoson City ,130.0,06,5.0,M,Y,N,N,OHI,11
+1289,Poquoson Primary,2010-2011,SCH,142.0,Poquoson City ,160.0,01,5.0,M,Y,N,N,SLI,11
+1290,Portlock Primary,2010-2011,SCH,136.0,Chesapeake City ,730.0,01,3.0,M,Y,N,Y,SLD,11
+1291,Post Oak Middle,2010-2011,SCH,88.0,Spotsylvania County ,220.0,06,5.0,F,Y,N,Y,OHI,10
+1292,Potomac Elementary,2010-2011,SCH,48.0,King George County ,50.0,01,5.0,M,Y,N,N,SLI,10
+1293,Potomac Falls High,2010-2011,SCH,53.0,Loudoun County ,140.0,09,5.0,M,Y,N,N,OHI,16
+1294,Potomac High,2010-2011,SCH,75.0,Prince William County ,140.0,09,3.0,F,Y,N,Y,SLD,12
+1295,Potomac Middle,2010-2011,SCH,75.0,Prince William County ,170.0,06,3.0,M,Y,N,Y,SLD,10
+1296,Potomac View Elementary,2010-2011,SCH,75.0,Prince William County ,550.0,02,4.0,M,Y,Y,Y,SLD,10
+1297,Potowmack Elementary,2010-2011,SCH,53.0,Loudoun County ,250.0,03,5.0,M,Y,N,N,DD,11
+1298,Pound High,2010-2011,SCH,96.0,Wise County ,71.0,11,5.0,M,Y,N,Y,SLD,10
+1299,Powell Elementary,2010-2011,SCH,29.0,Fairfax County ,2237.0,01,5.0,M,Y,N,N,SLD,11
+1300,Powell Valley High,2010-2011,SCH,96.0,Wise County ,1010.0,09,5.0,M,Y,N,Y,SLD,10
+1301,Powell Valley Middle,2010-2011,SCH,96.0,Wise County ,1013.0,05,5.0,M,Y,N,Y,SLD,10
+1302,Powell Valley Primary,2010-2011,SCH,96.0,Wise County ,1012.0,01,5.0,M,Y,N,Y,SLD,11
+1303,Powhatan Elementary,2010-2011,SCH,72.0,Powhatan County ,13.0,01,5.0,M,Y,N,N,SLI,11
+1304,Powhatan High,2010-2011,SCH,72.0,Powhatan County ,11.0,09,5.0,M,Y,N,N,SLD,17
+1305,Powhatan Junior High,2010-2011,SCH,72.0,Powhatan County ,130.0,07,5.0,F,Y,N,N,SLD,14
+1306,Preston Park Elementary,2010-2011,SCH,124.0,Roanoke City ,240.0,,5.0,M,Y,N,Y,SLI,10
+1307,Prices Fork Elementary,2010-2011,SCH,60.0,Montgomery County ,210.0,,5.0,M,Y,N,N,SLI,10
+1308,Prince Edward County High,2010-2011,SCH,73.0,Prince Edward County ,400.0,09,3.0,M,Y,N,Y,SLD,10
+1309,Prince Edward Elementary,2010-2011,SCH,73.0,Prince Edward County ,10.0,01,3.0,M,Y,N,Y,SLI,10
+1310,Prince Edward Middle,2010-2011,SCH,73.0,Prince Edward County ,20.0,05,3.0,M,Y,N,Y,SLI,12
+1311,Prince George High,2010-2011,SCH,74.0,Prince George County ,20.0,10,3.0,M,Y,N,N,SLD,11
+1312,Princess Anne Elementary,2010-2011,SCH,128.0,Virginia Beach City ,340.0,04,3.0,M,Y,N,N,SLI,11
+1313,Princess Anne High,2010-2011,SCH,128.0,Virginia Beach City ,321.0,09,3.0,M,Y,N,N,SLD,12
+1314,Princess Anne Middle,2010-2011,SCH,128.0,Virginia Beach City ,750.0,06,5.0,F,Y,N,N,SLD,20
+1315,Prospect Heights Middle,2010-2011,SCH,68.0,Orange County ,340.0,06,5.0,M,Y,N,Y,SLD,12
+1316,Providence Elementary,2010-2011,SCH,21.0,Chesterfield County ,380.0,02,3.0,M,Y,N,N,SLI,10
+1317,Providence Middle,2010-2011,SCH,21.0,Chesterfield County ,690.0,06,3.0,M,Y,N,Y,OHI,14
+1318,Pulaski County Senior High,2010-2011,SCH,77.0,Pulaski County ,10.0,09,3.0,F,Y,N,N,SLD,11
+1319,Pulaski Elementary ,2010-2011,SCH,77.0,Pulaski County ,230.0,01,5.0,M,Y,N,Y,SLD,10
+1320,Pulaski Middle,2010-2011,SCH,77.0,Pulaski County ,460.0,06,5.0,M,Y,N,Y,SLD,15
+1321,Pungoteague Elementary,2010-2011,SCH,1.0,Accomack County ,590.0,02,3.0,M,Y,N,Y,SLI,10
+1322,Queens Lake Middle,2010-2011,SCH,98.0,York County ,200.0,06,5.0,M,Y,N,N,OHI,14
+1323,R. Dean Kilby Elementary,2010-2011,SCH,75.0,Prince William County ,440.0,02,3.0,M,Y,N,N,DD,10
+1324,R.C. Longan Elementary,2010-2011,SCH,43.0,Henrico County ,630.0,01,5.0,M,Y,N,N,SLI,10
+1325,R.O. Nelson Elementary ,2010-2011,SCH,117.0,Newport News City ,310.0,01,5.0,M,Y,N,N,SLI,10
+1326,Radford High,2010-2011,SCH,122.0,Radford City ,41.0,09,5.0,F,Y,N,Y,SLD,12
+1327,Randolph Elementary,2010-2011,SCH,7.0,Arlington County ,510.0,01,4.0,M,Y,Y,Y,DD,11
+1328,Randolph Henry High,2010-2011,SCH,20.0,Charlotte County ,460.0,09,3.0,F,Y,N,Y,SLD,10
+1329,Rappahannock County Elementary,2010-2011,SCH,78.0,Rappahannock County ,240.0,01,5.0,M,Y,N,N,SLI,10
+1330,Rappahannock County High,2010-2011,SCH,78.0,Rappahannock County ,230.0,08,5.0,M,Y,N,N,SLD,10
+1331,Rappahannock High,2010-2011,SCH,79.0,Richmond County ,210.0,09,3.0,M,Y,N,Y,SLD,10
+1332,Raven Elementary,2010-2011,SCH,92.0,Tazewell County ,920.0,04,5.0,F,Y,N,Y,SLI,10
+1333,Ravensworth Elementary,2010-2011,SCH,29.0,Fairfax County ,1310.0,02,5.0,M,Y,N,N,AUT,11
+1334,Rawls Byrd Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,50.0,01,5.0,M,Y,N,N,DD,10
+1335,Read Mountain Middle,2010-2011,SCH,12.0,Botetourt County ,450.0,06,5.0,M,Y,N,N,OHI,14
+1336,Reams Road Elementary,2010-2011,SCH,21.0,Chesterfield County ,700.0,02,5.0,M,Y,N,N,SLD,10
+1337,Red Hill Elementary,2010-2011,SCH,2.0,Albemarle County ,540.0,,5.0,M,Y,N,Y,,10
+1338,Red Mill Elementary,2010-2011,SCH,128.0,Virginia Beach City ,900.0,03,5.0,F,Y,N,N,SLD,12
+1339,Red Oak-Sturgeon Elementary,2010-2011,SCH,13.0,Brunswick County ,700.0,,3.0,F,Y,N,Y,,11
+1340,Redbud Run Elementary,2010-2011,SCH,34.0,Frederick County ,582.0,01,5.0,F,Y,N,N,OHI,10
+1341,Rena B. Wright Primary,2010-2011,SCH,136.0,Chesapeake City ,200.0,01,3.0,M,Y,N,Y,DD,12
+1342,Ressie Jeffries Elementary,2010-2011,SCH,93.0,Warren County ,240.0,01,5.0,F,Y,N,N,SLI,12
+1343,Rhea Valley Elementary,2010-2011,SCH,94.0,Washington County ,50.0,01,5.0,M,Y,N,Y,SLI,10
+1344,Rich Acres Elementary,2010-2011,SCH,44.0,Henry County ,740.0,PS,5.0,M,Y,N,Y,DD,10
+1345,Rich Valley Elementary,2010-2011,SCH,86.0,Smyth County ,720.0,,5.0,,Y,N,Y,,11
+1346,Richard Bowling Elementary,2010-2011,SCH,118.0,Norfolk City ,480.0,04,3.0,F,Y,N,Y,SLI,10
+1347,Richard C. Haydon Elementary,2010-2011,SCH,143.0,Manassas City ,20.0,02,3.0,M,Y,N,Y,SLD,10
+1348,Richard T. Yates Elementary,2010-2011,SCH,117.0,Newport News City ,270.0,03,5.0,M,Y,N,N,SLD,10
+1349,Richlands Elementary,2010-2011,SCH,92.0,Tazewell County ,822.0,01,5.0,M,Y,N,Y,SLI,10
+1350,Richlands High,2010-2011,SCH,92.0,Tazewell County ,821.0,09,5.0,F,Y,N,N,SLD,10
+1351,Richlands Middle,2010-2011,SCH,92.0,Tazewell County ,823.0,06,5.0,F,Y,N,Y,SLD,10
+1352,Richmond Alternative ,2010-2011,SCH,123.0,Richmond City ,3110.0,,3.0,,Y,N,Y,,10
+1353,Richmond County Elementary,2010-2011,SCH,79.0,Richmond County ,20.0,01,5.0,M,Y,N,Y,SLD,14
+1354,Richmond County Intermediate,2010-2011,SCH,79.0,Richmond County ,190.0,06,3.0,F,Y,N,Y,SLD,11
+1355,Richneck Elementary,2010-2011,SCH,117.0,Newport News City ,1230.0,01,3.0,M,Y,N,N,SLI,10
+1356,Ridge Elementary,2010-2011,SCH,43.0,Henrico County ,90.0,PS,3.0,M,Y,N,N,SLI,11
+1357,Rippon Middle,2010-2011,SCH,75.0,Prince William County ,591.0,06,3.0,M,Y,N,Y,SLD,10
+1358,River Bend Elementary,2010-2011,SCH,82.0,Rockingham County ,390.0,KG,5.0,M,Y,N,N,SLI,10
+1359,River Bend Middle,2010-2011,SCH,53.0,Loudoun County ,930.0,06,5.0,M,Y,N,N,OHI,19
+1360,River Oaks Elementary,2010-2011,SCH,75.0,Prince William County ,750.0,01,3.0,M,Y,N,Y,SLI,11
+1361,Riverbend High ,2010-2011,SCH,88.0,Spotsylvania County ,510.0,09,5.0,M,Y,N,N,OHI,21
+1362,Riverdale Elementary,2010-2011,SCH,87.0,Southampton County ,780.0,01,5.0,M,Y,N,Y,SLI,13
+1363,Riverheads Elementary,2010-2011,SCH,8.0,Augusta County ,740.0,,5.0,M,Y,N,N,SLI,17
+1364,Riverheads High,2010-2011,SCH,8.0,Augusta County ,680.0,09,5.0,M,Y,N,N,SLD,12
+1365,Riverlawn Elementary,2010-2011,SCH,77.0,Pulaski County ,500.0,01,5.0,M,Y,N,Y,SLD,11
+1366,Rivers Edge Elementary,2010-2011,SCH,43.0,Henrico County ,240.0,,5.0,M,Y,N,N,SLI,23
+1367,Riverside Elementary,2010-2011,SCH,29.0,Fairfax County ,1820.0,01,3.0,M,Y,N,N,SLD,10
+1368,Riverview Elementary,2010-2011,SCH,88.0,Spotsylvania County ,503.0,02,5.0,M,Y,N,N,SLI,10
+1369,Riverview Elementary/Middle,2010-2011,SCH,14.0,Buchanan County ,1040.0,01,5.0,M,Y,N,Y,SLI,11
+1370,Roanoke Academy For Mathematics & Science Elementary,2010-2011,SCH,124.0,Roanoke City ,220.0,01,3.0,M,Y,N,Y,DD,10
+1371,Robert E. Aylor Middle,2010-2011,SCH,34.0,Frederick County ,480.0,06,5.0,M,Y,N,N,SLD,10
+1372,Robert E. Lee Elementary,2010-2011,SCH,88.0,Spotsylvania County ,130.0,03,5.0,M,Y,N,N,SLI,10
+1373,Robert E. Lee High,2010-2011,SCH,126.0,Staunton City ,30.0,09,3.0,F,Y,N,Y,SLD,10
+1374,Robert S. Payne Elementary,2010-2011,SCH,115.0,Lynchburg City ,190.0,01,3.0,M,Y,N,Y,ID,13
+1375,Robertson Elementary,2010-2011,SCH,127.0,Suffolk City ,340.0,,,M,Y,N,,,12
+1376,Robinson Secondary,2010-2011,SCH,29.0,Fairfax County ,1960.0,07,4.0,M,Y,N,N,SLD,10
+1377,Robious Elementary,2010-2011,SCH,21.0,Chesterfield County ,730.0,01,5.0,M,Y,N,N,SLI,10
+1378,Robious Middle,2010-2011,SCH,21.0,Chesterfield County ,760.0,06,5.0,F,Y,N,N,SLD,14
+1379,Rockbridge County High ,2010-2011,SCH,81.0,Rockbridge County ,22.0,09,5.0,M,Y,N,N,OHI,14
+1380,Rockbridge Middle,2010-2011,SCH,81.0,Rockbridge County ,680.0,06,5.0,M,Y,N,Y,,10
+1381,Rockfish River Elementary,2010-2011,SCH,62.0,Nelson County ,10.0,03,5.0,M,Y,N,Y,SLD,10
+1382,Rockhill Elementary,2010-2011,SCH,89.0,Stafford County ,60.0,01,4.0,M,Y,N,N,SLI,11
+1383,Rockledge Elementary,2010-2011,SCH,75.0,Prince William County ,40.0,03,3.0,M,Y,N,Y,SLI,11
+1384,Rocky Gap Elementary,2010-2011,SCH,11.0,Bland County ,62.0,,5.0,F,Y,N,N,SLD,17
+1385,Rocky Gap High,2010-2011,SCH,11.0,Bland County ,61.0,,5.0,M,Y,N,Y,OHI,13
+1386,Rocky Mount Elementary,2010-2011,SCH,33.0,Franklin County ,1380.0,01,5.0,M,Y,N,Y,AUT,11
+1387,Rocky Run Elementary,2010-2011,SCH,89.0,Stafford County ,425.0,01,5.0,M,Y,N,N,SLI,12
+1388,Rocky Run Middle,2010-2011,SCH,29.0,Fairfax County ,300.0,07,5.0,M,Y,N,N,SLD,15
+1389,Rodney E. Thompson Middle,2010-2011,SCH,89.0,Stafford County ,426.0,06,5.0,M,Y,N,N,SLD,10
+1390,Rolling Ridge Elementary,2010-2011,SCH,53.0,Loudoun County ,40.0,03,4.0,M,Y,N,Y,AUT,11
+1391,Rolling Valley Elementary,2010-2011,SCH,29.0,Fairfax County ,1770.0,04,2.0,M,Y,N,N,AUT,11
+1392,Rosa Lee Carter Elementary,2010-2011,SCH,53.0,Loudoun County ,550.0,01,2.0,M,Y,N,N,AUT,10
+1393,Rosa Parks Elementary,2010-2011,SCH,75.0,Prince William County ,941.0,01,3.0,M,Y,N,N,SLI,10
+1394,Rose Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,950.0,01,4.0,M,Y,N,Y,SLD,10
+1395,Rosemont Elementary,2010-2011,SCH,128.0,Virginia Beach City ,810.0,04,3.0,M,Y,N,N,DD,12
+1396,Rosemont Forest Elementary,2010-2011,SCH,128.0,Virginia Beach City ,840.0,03,3.0,M,Y,N,N,SLI,10
+1397,Rosemont Middle ,2010-2011,SCH,118.0,Norfolk City ,730.0,08,,M,Y,N,Y,,10
+1398,Round Hill Elementary,2010-2011,SCH,53.0,Loudoun County ,180.0,01,5.0,M,Y,N,N,DD,10
+1399,Ruby F. Carver Elementary,2010-2011,SCH,43.0,Henrico County ,650.0,02,5.0,M,Y,N,N,SLI,11
+1400,Ruckersville Elementary,2010-2011,SCH,39.0,Greene County ,30.0,01,5.0,M,Y,N,Y,SLI,11
+1401,Rural Point Elementary,2010-2011,SCH,42.0,Hanover County ,30.0,01,5.0,M,Y,N,N,SLI,11
+1402,Rural Retreat Elementary,2010-2011,SCH,97.0,Wythe County ,201.0,,5.0,M,Y,N,N,SLD,12
+1403,Rural Retreat High,2010-2011,SCH,97.0,Wythe County ,202.0,10,5.0,M,Y,N,Y,SLD,12
+1404,Rural Retreat Middle,2010-2011,SCH,97.0,Wythe County ,1074.0,08,5.0,M,Y,N,Y,SLD,10
+1405,Russell Prater Elementary,2010-2011,SCH,14.0,Buchanan County ,10.0,,5.0,M,Y,N,Y,,10
+1406,Rustburg Elementary,2010-2011,SCH,16.0,Campbell County ,821.0,02,5.0,M,Y,N,Y,SLD,16
+1407,Rustburg High,2010-2011,SCH,16.0,Campbell County ,222.0,09,5.0,F,Y,N,N,SLD,11
+1408,Rustburg Middle,2010-2011,SCH,16.0,Campbell County ,211.0,06,5.0,M,Y,N,N,SLD,11
+1409,Rye Cove High,2010-2011,SCH,84.0,Scott County ,260.0,08,5.0,M,Y,N,Y,OHI,12
+1410,Rye Cove Intermediate,2010-2011,SCH,84.0,Scott County ,20.0,06,5.0,M,Y,N,Y,SLD,10
+1411,S. Gordon Stewart Middle,2010-2011,SCH,8.0,Augusta County ,90.0,06,5.0,M,Y,N,N,SLD,12
+1412,S.P. Morton Elementary,2010-2011,SCH,135.0,Franklin City ,10.0,01,3.0,M,Y,N,Y,SLD,10
+1413,Salem Church Elementary,2010-2011,SCH,21.0,Chesterfield County ,720.0,01,5.0,M,Y,N,N,SLI,10
+1414,Salem Church Middle,2010-2011,SCH,21.0,Chesterfield County ,722.0,06,3.0,M,Y,N,N,OHI,12
+1415,Salem Elementary,2010-2011,SCH,88.0,Spotsylvania County ,60.0,KG,5.0,M,Y,N,N,SLI,10
+1416,Salem High,2010-2011,SCH,128.0,Virginia Beach City ,850.0,09,3.0,M,Y,N,Y,SLD,11
+1417,Salem Middle,2010-2011,SCH,128.0,Virginia Beach City ,50.0,06,3.0,M,Y,N,N,SLD,11
+1418,Saltville Elementary,2010-2011,SCH,86.0,Smyth County ,740.0,02,5.0,F,Y,N,Y,SLI,10
+1419,Samuel L. Gravely Jr. Elementary,2010-2011,SCH,75.0,Prince William County ,360.0,02,5.0,M,Y,N,N,SLI,12
+1420,Samuel P. Langley Elementary,2010-2011,SCH,112.0,Hampton City ,180.0,02,5.0,M,Y,N,N,SLD,12
+1421,Samuel W. Tucker Elementary,2010-2011,SCH,101.0,Alexandria City ,333.0,02,3.0,M,Y,N,Y,SLD,10
+1422,Sandburg Middle,2010-2011,SCH,29.0,Fairfax County ,1300.0,07,3.0,F,Y,N,Y,SLD,10
+1423,Sanders Corner Elementary,2010-2011,SCH,53.0,Loudoun County ,240.0,01,5.0,M,Y,N,N,SLI,12
+1424,Sandlick Elementary,2010-2011,SCH,26.0,Dickenson County ,860.0,04,5.0,F,Y,N,Y,SLD,10
+1425,Sandston Elementary,2010-2011,SCH,43.0,Henrico County ,220.0,02,3.0,M,Y,N,Y,SLI,10
+1426,Sandusky Elementary,2010-2011,SCH,115.0,Lynchburg City ,370.0,,3.0,M,Y,N,Y,SLI,10
+1427,Sandusky Middle,2010-2011,SCH,115.0,Lynchburg City ,340.0,06,3.0,M,Y,N,Y,SLD,10
+1428,Sandy Hook Elementary,2010-2011,SCH,85.0,Shenandoah County ,810.0,01,5.0,M,Y,N,Y,SLI,10
+1429,Sangster Elementary,2010-2011,SCH,29.0,Fairfax County ,2030.0,01,5.0,M,Y,N,N,SLD,10
+1430,Sanville Elementary,2010-2011,SCH,44.0,Henry County ,220.0,02,5.0,M,Y,N,Y,SLI,11
+1431,Saratoga Elementary,2010-2011,SCH,29.0,Fairfax County ,2040.0,01,5.0,M,Y,N,N,SLD,12
+1432,Schoolfield Elementary,2010-2011,SCH,108.0,Danville City ,40.0,KG,3.0,M,Y,N,Y,SLI,10
+1433,Scott Memorial Middle,2010-2011,SCH,97.0,Wythe County ,1075.0,06,5.0,M,Y,N,Y,SLD,10
+1434,Scottsburg Elementary,2010-2011,SCH,41.0,Halifax County ,1510.0,02,5.0,M,Y,N,Y,SLI,12
+1435,Scottsville Elementary,2010-2011,SCH,2.0,Albemarle County ,30.0,,5.0,M,Y,N,Y,SLI,16
+1436,Seaford Elementary,2010-2011,SCH,98.0,York County ,170.0,03,5.0,M,Y,N,N,SLI,10
+1437,Sealston Elementary ,2010-2011,SCH,48.0,King George County ,221.0,01,5.0,M,Y,N,N,SLI,12
+1438,Seatack Elementary,2010-2011,SCH,128.0,Virginia Beach City ,290.0,04,3.0,M,Y,N,Y,OHI,10
+1439,Sedgefield Elementary,2010-2011,SCH,117.0,Newport News City ,250.0,01,3.0,M,Y,N,Y,SLI,15
+1440,Seldens Landing Elementary,2010-2011,SCH,53.0,Loudoun County ,870.0,01,5.0,M,Y,N,N,SLI,10
+1441,Seneca Ridge Middle,2010-2011,SCH,53.0,Loudoun County ,30.0,06,4.0,F,Y,N,N,SLD,10
+1442,Seven Pines Elementary,2010-2011,SCH,43.0,Henrico County ,550.0,,3.0,M,Y,N,Y,SLI,10
+1443,Sewells Point Elementary,2010-2011,SCH,118.0,Norfolk City ,850.0,01,5.0,M,Y,N,Y,AUT,11
+1444,Shady Grove Elementary,2010-2011,SCH,43.0,Henrico County ,710.0,01,5.0,F,Y,N,N,SLI,10
+1445,Sharon C. McAuliffe Elementary,2010-2011,SCH,75.0,Prince William County ,730.0,01,3.0,M,Y,N,Y,SLI,11
+1446,Sharon Elementary,2010-2011,SCH,3.0,Alleghany County ,90.0,,5.0,F,Y,N,N,DD,10
+1447,Shawsville Middle,2010-2011,SCH,60.0,Montgomery County ,290.0,06,5.0,M,Y,N,Y,SLD,11
+1448,Sheffey Elementary,2010-2011,SCH,97.0,Wythe County ,740.0,,5.0,M,Y,N,Y,SLI,13
+1449,Sheffield Elementary,2010-2011,SCH,115.0,Lynchburg City ,300.0,01,3.0,M,Y,N,Y,,10
+1450,Shelburne Middle,2010-2011,SCH,126.0,Staunton City ,110.0,06,5.0,F,Y,N,Y,SLD,10
+1451,Shelton Park Elementary,2010-2011,SCH,128.0,Virginia Beach City ,300.0,01,3.0,M,Y,N,Y,SLI,11
+1452,Shenandoah Elementary,2010-2011,SCH,69.0,Page County ,310.0,01,5.0,F,Y,N,N,SLI,10
+1453,Sherando High,2010-2011,SCH,34.0,Frederick County ,581.0,09,5.0,F,Y,N,N,SLD,10
+1454,Sherman Elementary,2010-2011,SCH,29.0,Fairfax County ,80.0,06,5.0,M,Y,N,N,SLI,11
+1455,Sherwood Forest Elementary,2010-2011,SCH,118.0,Norfolk City ,650.0,04,3.0,M,Y,N,Y,SLD,10
+1456,Shirley C. Heim Middle,2010-2011,SCH,89.0,Stafford County ,440.0,06,5.0,M,Y,N,N,SLD,11
+1457,Shoemaker Elementary,2010-2011,SCH,84.0,Scott County ,641.0,02,5.0,M,Y,N,Y,SLI,14
+1458,Short Pump Elementary,2010-2011,SCH,43.0,Henrico County ,60.0,05,5.0,M,Y,N,N,SLI,11
+1459,Short Pump Middle,2010-2011,SCH,43.0,Henrico County ,80.0,06,5.0,M,Y,N,N,OHI,15
+1460,Shrevewood Elementary,2010-2011,SCH,29.0,Fairfax County ,1660.0,02,4.0,M,Y,Y,Y,SLD,10
+1461,Signal Hill Elementary,2010-2011,SCH,75.0,Prince William County ,500.0,03,5.0,M,Y,N,N,SLI,10
+1462,Signal Knob Middle,2010-2011,SCH,85.0,Shenandoah County ,50.0,06,5.0,M,Y,N,N,SLD,12
+1463,Silverbrook Elementary,2010-2011,SCH,29.0,Fairfax County ,1680.0,01,5.0,M,Y,N,N,DD,10
+1464,Simonsdale Elementary,2010-2011,SCH,121.0,Portsmouth City ,1480.0,03,3.0,F,Y,N,Y,SLI,11
+1465,Sinai Elementary,2010-2011,SCH,41.0,Halifax County ,1521.0,03,3.0,M,Y,N,Y,SLD,10
+1466,Skipwith Elementary,2010-2011,SCH,43.0,Henrico County ,480.0,02,3.0,M,Y,N,Y,SLI,10
+1467,Skyline High,2010-2011,SCH,93.0,Warren County ,250.0,08,5.0,M,Y,N,N,SLD,13
+1468,Skyline Middle,2010-2011,SCH,113.0,Harrisonburg City ,111.0,05,5.0,M,Y,N,Y,SLD,10
+1469,Sleepy Hollow Elementary,2010-2011,SCH,29.0,Fairfax County ,710.0,03,4.0,M,Y,N,N,OHI,13
+1470,Smart's Mill Middle ,2010-2011,SCH,53.0,Loudoun County ,90.0,06,5.0,F,Y,N,N,SLD,12
+1471,Smith Station Elementary,2010-2011,SCH,88.0,Spotsylvania County ,390.0,01,5.0,M,Y,N,N,SLD,12
+1472,Smithfield High,2010-2011,SCH,46.0,Isle of Wight County ,40.0,09,3.0,F,Y,N,N,SLD,12
+1473,Smithfield Middle,2010-2011,SCH,46.0,Isle of Wight County ,50.0,07,3.0,M,Y,N,N,SLD,13
+1474,Smithland Elementary,2010-2011,SCH,113.0,Harrisonburg City ,110.0,,4.0,M,Y,Y,Y,SLI,13
+1475,Snow Creek Elementary,2010-2011,SCH,33.0,Franklin County ,1170.0,,5.0,M,Y,N,Y,SLD,12
+1476,Snowville Elementary,2010-2011,SCH,77.0,Pulaski County ,430.0,,5.0,M,Y,N,N,SLI,15
+1477,Sonnie Penn Elementary,2010-2011,SCH,75.0,Prince William County ,850.0,02,3.0,M,Y,N,N,SLI,16
+1478,Sontag Elementary,2010-2011,SCH,33.0,Franklin County ,960.0,05,5.0,F,Y,N,Y,SLI,10
+1479,South Anna Elementary,2010-2011,SCH,42.0,Hanover County ,40.0,03,5.0,M,Y,N,N,SLI,11
+1480,South Boston Elementary,2010-2011,SCH,41.0,Halifax County ,30.0,01,3.0,F,Y,N,Y,SLI,14
+1481,South Boston/Halifax Early Learning Center,2010-2011,SCH,41.0,Halifax County ,950.0,PS,3.0,M,Y,N,Y,DD,14
+1482,South County Secondary,2010-2011,SCH,29.0,Fairfax County ,2241.0,07,3.0,M,Y,N,N,SLD,10
+1483,South Elementary,2010-2011,SCH,74.0,Prince George County ,300.0,02,5.0,M,Y,N,Y,SLI,10
+1484,South Hill Elementary,2010-2011,SCH,58.0,Mecklenburg County ,190.0,02,3.0,M,Y,N,Y,DD,10
+1485,South Lakes High,2010-2011,SCH,29.0,Fairfax County ,1990.0,09,3.0,F,Y,N,Y,SLD,12
+1486,South River Elementary,2010-2011,SCH,82.0,Rockingham County ,830.0,PS,5.0,F,Y,N,N,SLI,10
+1487,South Salem Elementary,2010-2011,SCH,139.0,Salem City ,580.0,02,5.0,M,Y,N,N,SLI,10
+1488,Southampton Elementary,2010-2011,SCH,123.0,Richmond City ,1480.0,01,3.0,M,Y,N,Y,SLI,10
+1489,Southampton High,2010-2011,SCH,87.0,Southampton County ,690.0,09,3.0,M,Y,N,Y,SLD,13
+1490,Southampton Middle,2010-2011,SCH,87.0,Southampton County ,700.0,06,3.0,M,Y,N,Y,SLD,10
+1491,Southeastern Elementary,2010-2011,SCH,136.0,Chesapeake City ,620.0,01,5.0,M,Y,N,N,SLI,12
+1492,Southside Elementary,2010-2011,SCH,27.0,Dinwiddie County ,10.0,03,5.0,M,Y,N,N,SLD,12
+1493,Southwestern Elementary,2010-2011,SCH,127.0,Suffolk City ,280.0,01,3.0,M,Y,N,Y,OHI,11
+1494,Sparrow Road Intermediate,2010-2011,SCH,136.0,Chesapeake City ,750.0,04,3.0,M,Y,N,Y,SLD,15
+1495,Speedwell Elementary,2010-2011,SCH,97.0,Wythe County ,440.0,,5.0,M,Y,N,Y,,12
+1496,Spiller Elementary,2010-2011,SCH,97.0,Wythe County ,190.0,01,5.0,M,Y,N,N,SLI,10
+1497,Spotswood Elementary,2010-2011,SCH,88.0,Spotsylvania County ,360.0,01,3.0,M,Y,N,Y,SLI,11
+1498,Spotswood High,2010-2011,SCH,82.0,Rockingham County ,20.0,09,5.0,M,Y,N,N,SLD,13
+1499,Spotsylvania High,2010-2011,SCH,88.0,Spotsylvania County ,370.0,09,3.0,F,Y,N,N,SLD,10
+1500,Spotsylvania Middle,2010-2011,SCH,88.0,Spotsylvania County ,330.0,06,5.0,F,Y,N,N,SLD,10
+1501,Spring Hill Elementary,2010-2011,SCH,29.0,Fairfax County ,1620.0,02,5.0,M,Y,N,N,SLI,10
+1502,Spring Run Elementary,2010-2011,SCH,21.0,Chesterfield County ,800.0,01,5.0,M,Y,N,N,SLI,12
+1503,Springfield Elementary,2010-2011,SCH,69.0,Page County ,50.0,PS,5.0,F,Y,N,Y,SLI,10
+1504,Springfield Estates Elementary,2010-2011,SCH,29.0,Fairfax County ,960.0,05,2.0,M,Y,Y,N,SLI,10
+1505,Springfield Park Elementary,2010-2011,SCH,43.0,Henrico County ,230.0,KG,5.0,M,Y,N,N,SLI,10
+1506,Springville Elementary,2010-2011,SCH,92.0,Tazewell County ,980.0,,5.0,M,Y,N,Y,SLI,10
+1507,Springwoods Elementary,2010-2011,SCH,75.0,Prince William County ,320.0,02,3.0,M,Y,N,N,SLI,10
+1508,St. Charles Elementary,2010-2011,SCH,52.0,Lee County ,200.0,02,5.0,F,Y,N,Y,SLI,10
+1509,St. Clare Walker Middle,2010-2011,SCH,59.0,Middlesex County ,140.0,06,3.0,M,Y,N,Y,SLD,10
+1510,St. Helena Elementary,2010-2011,SCH,118.0,Norfolk City ,820.0,,3.0,M,Y,N,Y,SLD,23
+1511,St. Paul Elementary,2010-2011,SCH,96.0,Wise County ,871.0,,5.0,F,Y,N,Y,SLD,13
+1512,St. Paul High,2010-2011,SCH,96.0,Wise County ,872.0,,5.0,,Y,N,Y,,11
+1513,St. Paul School,2010-2011,SCH,18.0,Carroll County ,1110.0,05,5.0,F,Y,N,Y,SLD,10
+1514,Stafford Elementary,2010-2011,SCH,89.0,Stafford County ,111.0,,3.0,M,Y,N,N,SLI,10
+1515,Stafford Middle,2010-2011,SCH,89.0,Stafford County ,112.0,06,5.0,M,Y,N,N,OHI,10
+1516,Stafford Senior High,2010-2011,SCH,89.0,Stafford County ,20.0,09,3.0,F,Y,N,N,SLD,16
+1517,Stanley Elementary,2010-2011,SCH,69.0,Page County ,210.0,01,5.0,F,Y,N,Y,SLI,10
+1518,Stanleytown Elementary,2010-2011,SCH,44.0,Henry County ,760.0,01,5.0,M,Y,N,Y,SLI,11
+1519,Staunton City School PreSchool Programs,2010-2011,SCH,126.0,Staunton City ,41.0,PS,,,Y,N,Y,,10
+1520,Staunton River High,2010-2011,SCH,10.0,Bedford County ,1190.0,09,5.0,M,Y,N,N,SLD,13
+1521,Staunton River Middle,2010-2011,SCH,10.0,Bedford County ,1191.0,06,5.0,M,Y,N,Y,SLD,10
+1522,Stenwood Elementary,2010-2011,SCH,29.0,Fairfax County ,1380.0,03,2.0,M,Y,N,N,DD,11
+1523,Sterling Elementary,2010-2011,SCH,53.0,Loudoun County ,690.0,,4.0,M,Y,Y,Y,SLI,10
+1524,Sterling Middle,2010-2011,SCH,53.0,Loudoun County ,760.0,06,4.0,M,Y,N,Y,SLD,10
+1525,Steuart W. Weller Elementary,2010-2011,SCH,53.0,Loudoun County ,350.0,02,5.0,M,Y,N,N,DD,10
+1526,Stewartsville Elementary,2010-2011,SCH,10.0,Bedford County ,640.0,,5.0,F,Y,N,Y,SLI,13
+1527,Stickleyville Elementary,2010-2011,SCH,52.0,Lee County ,340.0,,5.0,M,Y,N,N,,13
+1528,Stone Bridge High,2010-2011,SCH,53.0,Loudoun County ,850.0,09,5.0,F,Y,N,N,SLD,14
+1529,Stone Hill Middle,2010-2011,SCH,53.0,Loudoun County ,570.0,06,5.0,M,Y,N,N,SLD,17
+1530,Stone Middle,2010-2011,SCH,29.0,Fairfax County ,2070.0,07,3.0,M,Y,N,N,SLD,11
+1531,Stone Robinson Elementary,2010-2011,SCH,2.0,Albemarle County ,920.0,PS,5.0,F,Y,N,N,SLI,13
+1532,Stone Spring Elementary,2010-2011,SCH,113.0,Harrisonburg City ,191.0,01,4.0,M,Y,N,Y,MD,10
+1533,Stonehouse Elementary,2010-2011,SCH,131.0,Williamsburg-James City County ,203.0,01,5.0,M,Y,N,N,SLI,10
+1534,Stonewall Elementary,2010-2011,SCH,34.0,Frederick County ,410.0,,5.0,F,Y,N,N,SLI,13
+1535,Stonewall Jackson Elementary,2010-2011,SCH,102.0,Bristol City ,70.0,,5.0,F,Y,N,Y,SLI,13
+1536,Stonewall Jackson High,2010-2011,SCH,75.0,Prince William County ,680.0,09,3.0,M,Y,N,N,SLD,11
+1537,Stonewall Jackson Middle,2010-2011,SCH,42.0,Hanover County ,440.0,06,5.0,F,Y,N,N,SLD,12
+1538,Stonewall Middle,2010-2011,SCH,75.0,Prince William County ,480.0,06,3.0,M,Y,N,Y,SLD,12
+1539,Stony Mill Elementary,2010-2011,SCH,71.0,Pittsylvania County ,1710.0,01,5.0,M,Y,N,Y,DD,10
+1540,Stony Point Elementary,2010-2011,SCH,2.0,Albemarle County ,240.0,,5.0,F,Y,N,N,OHI,11
+1541,Strasburg High,2010-2011,SCH,85.0,Shenandoah County ,770.0,09,5.0,F,Y,N,N,SLD,10
+1542,Stratford Landing Elementary,2010-2011,SCH,29.0,Fairfax County ,1350.0,04,3.0,M,Y,N,N,SLD,12
+1543,Strawbridge Elementary,2010-2011,SCH,128.0,Virginia Beach City ,940.0,02,5.0,M,Y,N,N,SLD,11
+1544,Stuart Elementary,2010-2011,SCH,70.0,Patrick County ,320.0,01,5.0,M,Y,N,N,SLI,10
+1545,Stuart High,2010-2011,SCH,29.0,Fairfax County ,1070.0,09,3.0,M,Y,Y,Y,SLD,11
+1546,Stuart M. Beville Middle,2010-2011,SCH,75.0,Prince William County ,780.0,06,3.0,F,Y,N,Y,SLD,10
+1547,Stuarts Draft Elementary,2010-2011,SCH,8.0,Augusta County ,440.0,01,5.0,M,Y,N,N,SLI,11
+1548,Stuarts Draft High,2010-2011,SCH,8.0,Augusta County ,730.0,09,5.0,M,Y,N,Y,SLD,11
+1549,Stuarts Draft Middle,2010-2011,SCH,8.0,Augusta County ,60.0,06,5.0,F,Y,N,N,SLD,15
+1550,Suburban Park Elementary,2010-2011,SCH,118.0,Norfolk City ,500.0,01,3.0,M,Y,N,Y,ID,11
+1551,Sudley Elementary,2010-2011,SCH,75.0,Prince William County ,20.0,01,5.0,M,Y,N,N,SLI,11
+1552,Suella G. Ellis Elementary,2010-2011,SCH,75.0,Prince William County ,270.0,02,4.0,M,Y,N,N,SLI,10
+1553,Sugar Grove Combined,2010-2011,SCH,86.0,Smyth County ,530.0,,5.0,M,Y,N,Y,SLI,19
+1554,Sugarland Elementary,2010-2011,SCH,53.0,Loudoun County ,10.0,02,4.0,M,Y,N,Y,DD,10
+1555,Sully Elementary,2010-2011,SCH,53.0,Loudoun County ,750.0,05,4.0,F,Y,N,N,SLI,11
+1556,Summer Hill/Ruffin Road Elementary,2010-2011,SCH,123.0,Richmond City ,510.0,01,3.0,M,Y,N,Y,SLI,13
+1557,Sunnyside Elementary,2010-2011,SCH,27.0,Dinwiddie County ,180.0,,5.0,M,Y,N,Y,,10
+1558,Sunrise Valley Elementary,2010-2011,SCH,29.0,Fairfax County ,280.0,04,5.0,M,Y,N,N,SLI,10
+1559,Surry County High,2010-2011,SCH,90.0,Surry County ,10.0,09,3.0,F,Y,N,Y,SLD,10
+1560,Surry Elementary,2010-2011,SCH,90.0,Surry County ,20.0,04,3.0,M,Y,N,Y,SLI,10
+1561,Sussex Central High,2010-2011,SCH,91.0,Sussex County ,340.0,08,3.0,M,Y,N,Y,ID,11
+1562,Sussex Central Middle,2010-2011,SCH,91.0,Sussex County ,20.0,04,3.0,M,Y,N,Y,SLD,10
+1563,Sutherland Elementary,2010-2011,SCH,27.0,Dinwiddie County ,520.0,03,3.0,M,Y,N,N,SLI,11
+1564,Swans Creek Elementary,2010-2011,SCH,75.0,Prince William County ,890.0,03,3.0,M,Y,N,N,SLI,12
+1565,Swansboro Elementary,2010-2011,SCH,123.0,Richmond City ,210.0,03,3.0,M,Y,N,Y,SLD,10
+1566,Swanson Middle,2010-2011,SCH,7.0,Arlington County ,240.0,06,5.0,M,Y,N,N,OHI,19
+1567,Swift Creek Elementary,2010-2011,SCH,21.0,Chesterfield County ,340.0,02,5.0,M,Y,N,N,SLI,11
+1568,Swift Creek Middle,2010-2011,SCH,21.0,Chesterfield County ,270.0,06,3.0,M,Y,N,N,OHI,10
+1569,Swords Creek Elementary,2010-2011,SCH,83.0,Russell County ,710.0,,5.0,,Y,N,,,10
+1570,Sycamore Park Elementary,2010-2011,SCH,24.0,Culpeper County ,460.0,04,3.0,M,Y,N,Y,SLI,10
+1571,Sycolin Creek Elementary,2010-2011,SCH,53.0,Loudoun County ,280.0,01,5.0,F,Y,N,N,DD,10
+1572,Sydnor Jennings Elementary,2010-2011,SCH,41.0,Halifax County ,1490.0,05,3.0,M,Y,N,Y,SLD,12
+1573,T. Benton Gayle Middle,2010-2011,SCH,89.0,Stafford County ,162.0,06,5.0,F,Y,N,N,SLD,12
+1574,T. Ryland Sanford Elementary,2010-2011,SCH,117.0,Newport News City ,290.0,02,3.0,M,Y,N,Y,SLD,10
+1575,T.C. Miller Elementary for Innovation,2010-2011,SCH,115.0,Lynchburg City ,90.0,,3.0,F,Y,N,Y,SLI,17
+1576,T.C. Williams High,2010-2011,SCH,101.0,Alexandria City ,210.0,09,3.0,F,Y,N,Y,SLD,10
+1577,Tabb Elementary,2010-2011,SCH,98.0,York County ,50.0,01,5.0,M,Y,N,N,SLI,11
+1578,Tabb High,2010-2011,SCH,98.0,York County ,230.0,09,5.0,M,Y,N,N,SLD,10
+1579,Tabb Middle,2010-2011,SCH,98.0,York County ,190.0,06,5.0,M,Y,N,N,OHI,10
+1580,Tallwood Elementary,2010-2011,SCH,128.0,Virginia Beach City ,910.0,02,5.0,M,Y,N,N,DD,11
+1581,Tallwood High,2010-2011,SCH,128.0,Virginia Beach City ,920.0,09,3.0,F,Y,N,Y,SLD,11
+1582,Tangier Combined,2010-2011,SCH,1.0,Accomack County ,530.0,,5.0,,Y,N,,,12
+1583,Tanners Creek Elementary,2010-2011,SCH,118.0,Norfolk City ,100.0,02,3.0,M,Y,N,Y,SLD,10
+1584,Tappahannock Elementary,2010-2011,SCH,28.0,Essex County ,160.0,01,3.0,M,Y,N,Y,SLI,10
+1585,Tarrallton Elementary,2010-2011,SCH,118.0,Norfolk City ,800.0,01,3.0,M,Y,N,Y,SLI,10
+1586,Taylor Elementary,2010-2011,SCH,7.0,Arlington County ,420.0,PS,5.0,M,Y,N,N,SLI,16
+1587,Tazewell Elementary,2010-2011,SCH,92.0,Tazewell County ,1030.0,01,5.0,M,Y,N,Y,SLI,14
+1588,Tazewell High,2010-2011,SCH,92.0,Tazewell County ,890.0,09,5.0,M,Y,N,Y,OHI,14
+1589,Tazewell Middle,2010-2011,SCH,92.0,Tazewell County ,100.0,06,5.0,M,Y,N,Y,SLD,11
+1590,Terra Centre Elementary,2010-2011,SCH,29.0,Fairfax County ,170.0,01,5.0,M,Y,N,N,SLI,10
+1591,Terraset Elementary,2010-2011,SCH,29.0,Fairfax County ,250.0,03,5.0,M,Y,N,N,SLD,12
+1592,Thalia Elementary,2010-2011,SCH,128.0,Virginia Beach City ,350.0,01,5.0,M,Y,N,N,SLI,10
+1593,Thaxton Elementary,2010-2011,SCH,10.0,Bedford County ,450.0,,5.0,F,Y,N,N,,10
+1594,Thelma Crenshaw Elementary,2010-2011,SCH,21.0,Chesterfield County ,410.0,01,5.0,M,Y,N,N,SLD,10
+1595,Thomas C. Boushall Middle,2010-2011,SCH,123.0,Richmond City ,480.0,06,3.0,F,Y,N,Y,SLD,12
+1596,Thomas C. McSwain Elementary,2010-2011,SCH,126.0,Staunton City ,90.0,02,5.0,M,Y,N,Y,SLI,11
+1597,Thomas C. Walker Elementary,2010-2011,SCH,36.0,Gloucester County ,140.0,,5.0,F,Y,N,N,SLI,11
+1598,Thomas Dale High,2010-2011,SCH,21.0,Chesterfield County ,610.0,09,3.0,M,Y,N,N,OHI,12
+1599,Thomas Eaton Middle,2010-2011,SCH,112.0,Hampton City ,380.0,06,3.0,M,Y,N,N,SLD,13
+1600,Thomas Harrison Middle,2010-2011,SCH,113.0,Harrisonburg City ,80.0,05,4.0,M,Y,Y,Y,SLD,11
+1601,Thomas Hunter Middle,2010-2011,SCH,57.0,Mathews County ,100.0,05,5.0,M,Y,N,Y,SLD,10
+1602,Thomas Jefferson Elementary,2010-2011,SCH,10.0,Bedford County ,1213.0,KG,5.0,F,Y,N,N,SLI,10
+1603,Thomas Jefferson High,2010-2011,SCH,123.0,Richmond City ,20.0,09,3.0,F,Y,N,Y,SLD,11
+1604,Thomas Walker High,2010-2011,SCH,52.0,Lee County ,880.0,09,5.0,M,Y,N,Y,SLD,10
+1605,Thoreau Middle,2010-2011,SCH,29.0,Fairfax County ,1140.0,07,5.0,M,Y,N,N,SLD,33
+1606,Thornburg Middle,2010-2011,SCH,88.0,Spotsylvania County ,502.0,06,5.0,M,Y,N,N,SLD,13
+1607,Thoroughgood Elementary,2010-2011,SCH,128.0,Virginia Beach City ,400.0,01,5.0,M,Y,N,N,SLD,10
+1608,Three Chopt Elementary,2010-2011,SCH,43.0,Henrico County ,10.0,05,5.0,F,Y,N,N,SLI,10
+1609,Three Oaks Elementary,2010-2011,SCH,128.0,Virginia Beach City ,100.0,01,5.0,M,Y,N,N,DD,11
+1610,Thurgood Marshall Elementary,2010-2011,SCH,75.0,Prince William County ,790.0,02,5.0,M,Y,N,N,SLI,10
+1611,Tidewater Park Elementary,2010-2011,SCH,118.0,Norfolk City ,780.0,04,3.0,M,Y,N,Y,SLD,11
+1612,Timber Lane Elementary,2010-2011,SCH,29.0,Fairfax County ,830.0,03,4.0,M,Y,N,N,DD,11
+1613,Toano Middle,2010-2011,SCH,131.0,Williamsburg-James City County ,100.0,06,5.0,F,Y,N,N,SLD,10
+1614,Tomahawk Creek Middle,2010-2011,SCH,21.0,Chesterfield County ,880.0,06,5.0,M,Y,N,N,SLD,15
+1615,Tomahawk Elementary,2010-2011,SCH,16.0,Campbell County ,60.0,01,5.0,M,Y,N,N,SLI,10
+1616,Totaro Elementary,2010-2011,SCH,13.0,Brunswick County ,720.0,,3.0,M,Y,N,N,SLI,17
+1617,Trantwood Elementary,2010-2011,SCH,128.0,Virginia Beach City ,510.0,01,5.0,M,Y,N,N,SLD,10
+1618,Trevilians Elementary,2010-2011,SCH,54.0,Louisa County ,641.0,05,5.0,F,Y,N,N,SLI,10
+1619,Triangle Elementary,2010-2011,SCH,75.0,Prince William County ,430.0,01,3.0,M,Y,N,Y,SLI,10
+1620,Troutville Elementary,2010-2011,SCH,12.0,Botetourt County ,40.0,03,5.0,M,Y,N,N,SLI,13
+1621,Truitt Intermediate,2010-2011,SCH,136.0,Chesapeake City ,971.0,03,3.0,M,Y,N,Y,SLD,13
+1622,Tuckahoe Elementary,2010-2011,SCH,7.0,Arlington County ,211.0,01,5.0,M,Y,N,N,SLI,12
+1623,Tuckahoe Middle,2010-2011,SCH,43.0,Henrico County ,520.0,06,5.0,F,Y,N,N,SLD,10
+1624,Tucker-Capps Elementary,2010-2011,SCH,112.0,Hampton City ,360.0,02,3.0,M,Y,N,N,SLD,11
+1625,Tunstall High,2010-2011,SCH,71.0,Pittsylvania County ,1730.0,09,5.0,M,Y,N,N,OHI,18
+1626,Tunstall Middle,2010-2011,SCH,71.0,Pittsylvania County ,1130.0,06,5.0,M,Y,N,Y,OHI,11
+1627,Turner Ashby High,2010-2011,SCH,82.0,Rockingham County ,850.0,09,5.0,M,Y,N,N,SLD,17
+1628,Tuscarora High,2010-2011,SCH,53.0,Loudoun County ,200.0,09,5.0,M,Y,N,N,SLD,20
+1629,Tussing Elementary,2010-2011,SCH,106.0,Colonial Heights City ,60.0,01,5.0,M,Y,N,N,SLD,13
+1630,Twain Middle,2010-2011,SCH,29.0,Fairfax County ,1160.0,07,4.0,M,Y,Y,Y,SLD,14
+1631,Twin Hickory Elementary,2010-2011,SCH,43.0,Henrico County ,310.0,KG,5.0,M,Y,N,N,SLI,10
+1632,Twin Springs Elementary,2010-2011,SCH,71.0,Pittsylvania County ,1851.0,01,5.0,M,Y,N,N,SLI,10
+1633,Twin Springs High,2010-2011,SCH,84.0,Scott County ,780.0,10,5.0,F,Y,N,Y,SLD,11
+1634,Twin Valley Elementary/Middle,2010-2011,SCH,14.0,Buchanan County ,1041.0,03,5.0,F,Y,N,Y,SLI,10
+1635,Twin Valley High,2010-2011,SCH,14.0,Buchanan County ,1042.0,08,5.0,F,Y,N,Y,SLD,10
+1636,Tye River Elementary,2010-2011,SCH,62.0,Nelson County ,20.0,02,3.0,M,Y,N,Y,SLI,12
+1637,Union Hall Elementary,2010-2011,SCH,71.0,Pittsylvania County ,1740.0,,3.0,F,Y,N,Y,,10
+1638,Union Mill Elementary,2010-2011,SCH,29.0,Fairfax County ,1540.0,01,5.0,M,Y,N,N,SLD,11
+1639,Unionville Elementary,2010-2011,SCH,68.0,Orange County ,350.0,01,5.0,M,Y,N,Y,SLI,11
+1640,Valley Elementary,2010-2011,SCH,9.0,Bath County ,150.0,,5.0,M,Y,N,Y,,15
+1641,Valley Institute Elementary,2010-2011,SCH,94.0,Washington County ,1020.0,01,5.0,M,Y,N,Y,SLI,11
+1642,Varina Elementary,2010-2011,SCH,43.0,Henrico County ,290.0,03,3.0,F,Y,N,N,OHI,10
+1643,Varina High,2010-2011,SCH,43.0,Henrico County ,580.0,09,3.0,F,Y,N,Y,OHI,13
+1644,Venable Elementary,2010-2011,SCH,104.0,Charlottesville City ,40.0,PS,3.0,M,Y,N,Y,SLI,10
+1645,Vernon Johns Junior High,2010-2011,SCH,120.0,Petersburg City ,211.0,08,3.0,F,Y,N,N,ID,13
+1646,Verona Elementary,2010-2011,SCH,8.0,Augusta County ,710.0,04,5.0,F,Y,N,Y,SLI,10
+1647,Victoria Elementary,2010-2011,SCH,55.0,Lunenburg County ,140.0,01,3.0,M,Y,N,Y,SLI,12
+1648,Victory Elementary,2010-2011,SCH,75.0,Prince William County ,390.0,01,5.0,M,Y,N,N,SLI,11
+1649,Vienna Elementary,2010-2011,SCH,29.0,Fairfax County ,120.0,04,5.0,M,Y,N,N,SLI,11
+1650,Virginia Avenue Charlotte Dehart Elementary ,2010-2011,SCH,132.0,Winchester City ,20.0,01,3.0,M,Y,N,N,SLI,10
+1651,Virginia Beach Middle,2010-2011,SCH,128.0,Virginia Beach City ,140.0,06,5.0,M,Y,N,N,SLD,10
+1652,Virginia Heights Elementary,2010-2011,SCH,124.0,Roanoke City ,70.0,02,5.0,M,Y,N,Y,SLI,10
+1653,Virginia High,2010-2011,SCH,102.0,Bristol City ,80.0,09,5.0,M,Y,N,Y,SLD,11
+1654,Virginia L. Murray Elementary,2010-2011,SCH,2.0,Albemarle County ,910.0,,5.0,M,Y,N,N,,11
+1655,Virginia Middle,2010-2011,SCH,102.0,Bristol City ,10.0,06,5.0,M,Y,N,Y,SLD,15
+1656,Virginia Run Elementary,2010-2011,SCH,29.0,Fairfax County ,2050.0,02,5.0,F,Y,N,N,SLD,10
+1657,W. Townes Lea Elementary,2010-2011,SCH,108.0,Danville City ,170.0,05,3.0,F,Y,N,Y,SLI,10
+1658,W.C. Taylor Middle,2010-2011,SCH,30.0,Fauquier County ,670.0,06,5.0,M,Y,N,N,SLD,12
+1659,W.E. Cundiff Elementary,2010-2011,SCH,80.0,Roanoke County ,60.0,01,5.0,M,Y,N,N,DD,11
+1660,W.G. Coleman Elementary,2010-2011,SCH,30.0,Fauquier County ,740.0,04,5.0,F,Y,N,N,SLD,10
+1661,W.T. Cooke Elementary,2010-2011,SCH,128.0,Virginia Beach City ,130.0,01,5.0,M,Y,N,N,SLD,10
+1662,W.W. Gordon Elementary,2010-2011,SCH,21.0,Chesterfield County ,290.0,01,5.0,M,Y,N,N,SLI,10
+1663,W.W. Robinson Elementary,2010-2011,SCH,85.0,Shenandoah County ,20.0,01,5.0,M,Y,N,Y,SLD,10
+1664,Wakefield Forest Elementary,2010-2011,SCH,29.0,Fairfax County ,850.0,03,5.0,M,Y,N,N,OHI,11
+1665,Wakefield High,2010-2011,SCH,7.0,Arlington County ,450.0,09,3.0,M,Y,N,N,SLD,14
+1666,Walker Upper Elementary,2010-2011,SCH,104.0,Charlottesville City ,110.0,05,3.0,F,Y,N,Y,SLD,10
+1667,Walker-Grant Middle,2010-2011,SCH,110.0,Fredericksburg City ,273.0,06,3.0,M,Y,N,Y,SLD,10
+1668,Wallace Middle,2010-2011,SCH,94.0,Washington County ,620.0,06,5.0,M,Y,N,Y,SLD,11
+1669,Waller Mill Elementary,2010-2011,SCH,98.0,York County ,220.0,,5.0,M,Y,N,N,,11
+1670,Walnut Hill Elementary,2010-2011,SCH,120.0,Petersburg City ,130.0,02,3.0,M,Y,N,N,OHI,10
+1671,Walter Herron Taylor Elementary,2010-2011,SCH,118.0,Norfolk City ,150.0,05,3.0,M,Y,N,Y,SLI,10
+1672,Waples Mill Elementary,2010-2011,SCH,29.0,Fairfax County ,2100.0,03,5.0,M,Y,N,N,DD,11
+1673,Warhill High,2010-2011,SCH,131.0,Williamsburg-James City County ,204.0,09,3.0,M,Y,N,N,SLD,11
+1674,Warren County High,2010-2011,SCH,93.0,Warren County ,230.0,08,5.0,M,Y,N,N,EMN,11
+1675,Warren County Middle,2010-2011,SCH,93.0,Warren County ,270.0,06,5.0,F,Y,N,Y,SLD,12
+1676,Warrenton Middle,2010-2011,SCH,30.0,Fauquier County ,660.0,07,5.0,F,Y,N,N,SLD,10
+1677,Warwick High,2010-2011,SCH,117.0,Newport News City ,1070.0,09,3.0,F,Y,N,Y,SLD,16
+1678,Wasena Elementary,2010-2011,SCH,124.0,Roanoke City ,90.0,04,3.0,M,Y,N,N,SLI,10
+1679,Washington & Lee High,2010-2011,SCH,95.0,Westmoreland County ,120.0,09,3.0,M,Y,N,Y,SLD,12
+1680,Washington District Elementary,2010-2011,SCH,95.0,Westmoreland County ,310.0,01,3.0,M,Y,N,Y,SLI,10
+1681,Washington Mill Elementary,2010-2011,SCH,29.0,Fairfax County ,1320.0,01,3.0,M,Y,N,N,SLD,10
+1682,Washington-Henry Elementary ,2010-2011,SCH,42.0,Hanover County ,290.0,02,5.0,M,Y,N,N,SLI,10
+1683,Washington-Lee Elementary,2010-2011,SCH,102.0,Bristol City ,90.0,02,5.0,M,Y,N,Y,SLD,10
+1684,Washington-Lee High,2010-2011,SCH,7.0,Arlington County ,80.0,09,3.0,F,Y,Y,Y,SLD,13
+1685,Watauga Elementary,2010-2011,SCH,94.0,Washington County ,70.0,01,5.0,M,Y,N,Y,SLI,10
+1686,Waterford Elementary,2010-2011,SCH,53.0,Loudoun County ,700.0,,5.0,M,Y,N,N,,13
+1687,Waterman Elementary,2010-2011,SCH,113.0,Harrisonburg City ,30.0,01,3.0,M,Y,N,Y,SLI,12
+1688,Watkins Early Childhood Center,2010-2011,SCH,117.0,Newport News City ,1410.0,PS,5.0,M,Y,N,N,DD,10
+1689,Waverly Yowell Elementary,2010-2011,SCH,56.0,Madison County ,200.0,03,5.0,M,Y,N,Y,SLD,11
+1690,Waynesboro High,2010-2011,SCH,130.0,Waynesboro City ,600.0,09,5.0,M,Y,N,Y,SLD,10
+1691,Waynewood Elementary,2010-2011,SCH,29.0,Fairfax County ,1080.0,01,5.0,M,Y,N,N,DD,11
+1692,Weber City Elementary,2010-2011,SCH,84.0,Scott County ,740.0,,5.0,M,Y,N,N,SLI,10
+1693,Weems Elementary,2010-2011,SCH,143.0,Manassas City ,10.0,02,4.0,F,Y,Y,Y,SLI,10
+1694,Wenonah Elementary,2010-2011,SCH,130.0,Waynesboro City ,580.0,04,5.0,M,Y,N,Y,SLI,11
+1695,West Gate Elementary,2010-2011,SCH,75.0,Prince William County ,540.0,02,4.0,M,Y,Y,Y,DD,10
+1696,West Point Elementary,2010-2011,SCH,207.0,West Point ,280.0,PS,5.0,M,Y,N,N,DD,10
+1697,West Point High,2010-2011,SCH,207.0,West Point ,290.0,,5.0,M,Y,N,N,,11
+1698,West Point Middle,2010-2011,SCH,207.0,West Point ,391.0,,5.0,M,Y,N,,,11
+1699,West Potomac High,2010-2011,SCH,29.0,Fairfax County ,900.0,09,3.0,M,Y,N,Y,SLD,13
+1700,West Salem Elementary,2010-2011,SCH,139.0,Salem City ,460.0,03,5.0,M,Y,N,N,SLI,14
+1701,West Springfield Elementary,2010-2011,SCH,29.0,Fairfax County ,1430.0,01,5.0,M,Y,N,N,SLI,10
+1702,West Springfield High,2010-2011,SCH,29.0,Fairfax County ,1610.0,09,4.0,M,Y,Y,N,OHI,10
+1703,Westbriar Elementary,2010-2011,SCH,29.0,Fairfax County ,1580.0,02,5.0,M,Y,N,N,SLD,10
+1704,Western Albemarle High,2010-2011,SCH,2.0,Albemarle County ,140.0,09,5.0,M,Y,N,N,SLD,14
+1705,Western Branch High,2010-2011,SCH,136.0,Chesapeake City ,840.0,09,3.0,F,Y,N,Y,SLD,11
+1706,Western Branch Intermediate,2010-2011,SCH,136.0,Chesapeake City ,810.0,03,3.0,M,Y,N,Y,SLD,11
+1707,Western Branch Middle,2010-2011,SCH,136.0,Chesapeake City ,740.0,06,3.0,M,Y,N,Y,OHI,13
+1708,Western Branch Primary,2010-2011,SCH,136.0,Chesapeake City ,110.0,01,3.0,M,Y,N,N,SLI,10
+1709,Westfield High,2010-2011,SCH,29.0,Fairfax County ,2228.0,09,2.0,M,Y,N,Y,SLD,11
+1710,Westgate Elementary,2010-2011,SCH,29.0,Fairfax County ,1670.0,03,2.0,F,Y,N,N,SLI,11
+1711,Westhaven Elementary,2010-2011,SCH,121.0,Portsmouth City ,210.0,01,3.0,M,Y,N,Y,AUT,10
+1712,Westlawn Elementary,2010-2011,SCH,29.0,Fairfax County ,580.0,02,4.0,M,Y,Y,Y,SLD,11
+1713,Westover Hills Elementary,2010-2011,SCH,123.0,Richmond City ,660.0,04,3.0,M,Y,N,Y,OHI,11
+1714,Westridge Elementary,2010-2011,SCH,75.0,Prince William County ,740.0,02,3.0,M,Y,N,N,SLI,10
+1715,Westside Elementary,2010-2011,SCH,46.0,Isle of Wight County ,424.0,04,3.0,M,Y,N,Y,SLD,12
+1716,Westview Early Childhood Education Center,2010-2011,SCH,120.0,Petersburg City ,160.0,PS,3.0,M,Y,N,Y,,11
+1717,Westwood Hills Elementary,2010-2011,SCH,130.0,Waynesboro City ,630.0,01,3.0,M,Y,N,Y,SLI,10
+1718,Westwood Middle,2010-2011,SCH,108.0,Danville City ,1372.0,06,3.0,F,Y,N,Y,SLD,10
+1719,Weyanoke Elementary,2010-2011,SCH,29.0,Fairfax County ,520.0,02,2.0,M,Y,Y,Y,SLD,11
+1720,White Oaks Elementary,2010-2011,SCH,29.0,Fairfax County ,400.0,04,2.0,M,Y,N,N,SLD,13
+1721,Whitman Middle,2010-2011,SCH,29.0,Fairfax County ,1550.0,07,3.0,F,Y,N,Y,SLD,11
+1722,Widewater Elementary,2010-2011,SCH,89.0,Stafford County ,50.0,01,3.0,M,Y,N,Y,SLI,10
+1723,Wilbur S. Pence Middle,2010-2011,SCH,82.0,Rockingham County ,890.0,06,5.0,M,Y,N,N,SLD,13
+1724,Wilderness Elementary,2010-2011,SCH,88.0,Spotsylvania County ,504.0,01,5.0,M,Y,N,N,SLI,10
+1725,Willard Model Elementary,2010-2011,SCH,118.0,Norfolk City ,471.0,01,3.0,M,Y,N,Y,DD,14
+1726,William A. Walton Elementary,2010-2011,SCH,74.0,Prince George County ,280.0,01,3.0,M,Y,N,N,SLI,10
+1727,William Byrd High,2010-2011,SCH,80.0,Roanoke County ,630.0,09,5.0,F,Y,N,N,SLD,10
+1728,William Byrd Middle,2010-2011,SCH,80.0,Roanoke County ,232.0,06,5.0,F,Y,N,N,OHI,12
+1729,William Campbell High,2010-2011,SCH,16.0,Campbell County ,542.0,07,5.0,F,Y,N,Y,SLD,10
+1730,William E. Waters Middle,2010-2011,SCH,121.0,Portsmouth City ,310.0,07,3.0,M,Y,N,Y,SLD,12
+1731,William Fleming High,2010-2011,SCH,124.0,Roanoke City ,400.0,09,3.0,F,Y,N,Y,SLD,11
+1732,William Fox Elementary,2010-2011,SCH,123.0,Richmond City ,200.0,02,3.0,M,Y,N,N,SLI,11
+1733,William H. Ruffner Middle,2010-2011,SCH,118.0,Norfolk City ,30.0,06,3.0,F,Y,N,Y,SLD,10
+1734,William H. Wetsel Middle,2010-2011,SCH,56.0,Madison County ,222.0,07,5.0,M,Y,N,N,SLD,12
+1735,William M. Bass Elementary,2010-2011,SCH,115.0,Lynchburg City ,250.0,05,3.0,M,Y,N,Y,SLD,10
+1736,William Mason Cooper Elementary,2010-2011,SCH,112.0,Hampton City ,80.0,01,3.0,M,Y,N,Y,SLD,10
+1737,William Monroe High,2010-2011,SCH,39.0,Greene County ,72.0,09,5.0,M,Y,N,N,SLD,17
+1738,William Monroe Middle,2010-2011,SCH,39.0,Greene County ,71.0,06,5.0,M,Y,N,N,SLD,16
+1739,William Perry Elementary,2010-2011,SCH,130.0,Waynesboro City ,751.0,01,5.0,M,Y,N,Y,SLI,12
+1740,William Ramsay Elementary,2010-2011,SCH,101.0,Alexandria City ,190.0,03,3.0,M,Y,N,Y,SLI,11
+1741,Williams Elementary,2010-2011,SCH,128.0,Virginia Beach City ,470.0,04,3.0,F,Y,N,Y,SLD,10
+1742,Williamsburg Middle,2010-2011,SCH,7.0,Arlington County ,480.0,06,5.0,M,Y,N,N,SLD,13
+1743,Willis A. Jenkins Elementary,2010-2011,SCH,117.0,Newport News City ,320.0,01,3.0,M,Y,N,N,DD,11
+1744,Willis Elementary,2010-2011,SCH,31.0,Floyd County ,500.0,,5.0,F,Y,N,Y,SLI,10
+1745,Willoughby Elementary,2010-2011,SCH,118.0,Norfolk City ,860.0,PS,5.0,M,Y,N,Y,DD,12
+1746,Willow Springs Elementary,2010-2011,SCH,29.0,Fairfax County ,2060.0,03,5.0,F,Y,N,N,SLD,10
+1747,Wilson Elementary,2010-2011,SCH,8.0,Augusta County ,640.0,,5.0,F,Y,N,N,SLI,10
+1748,Wilson Memorial High,2010-2011,SCH,8.0,Augusta County ,720.0,09,5.0,M,Y,N,N,OHI,10
+1749,Wilson Middle,2010-2011,SCH,8.0,Augusta County ,844.0,06,5.0,M,Y,N,N,OHI,14
+1750,Winding Creek Elementary,2010-2011,SCH,89.0,Stafford County ,423.0,01,5.0,F,Y,N,N,AUT,10
+1751,Windsor Elementary,2010-2011,SCH,46.0,Isle of Wight County ,240.0,02,5.0,M,Y,N,Y,SLD,10
+1752,Windsor High,2010-2011,SCH,46.0,Isle of Wight County ,250.0,09,5.0,M,Y,N,Y,SLD,12
+1753,Windsor Middle,2010-2011,SCH,46.0,Isle of Wight County ,422.0,06,5.0,M,Y,N,N,SLD,10
+1754,Windsor Oaks Elementary,2010-2011,SCH,128.0,Virginia Beach City ,670.0,01,3.0,M,Y,N,Y,SLD,15
+1755,Windsor Woods Elementary,2010-2011,SCH,128.0,Virginia Beach City ,560.0,03,5.0,M,Y,N,N,DD,11
+1756,Windy Gap Elementary,2010-2011,SCH,33.0,Franklin County ,980.0,04,5.0,F,Y,N,Y,SLD,10
+1757,Winterpock Elementary,2010-2011,SCH,21.0,Chesterfield County ,860.0,02,5.0,M,Y,N,N,SLI,10
+1758,Wise Primary,2010-2011,SCH,96.0,Wise County ,1020.0,01,5.0,M,Y,N,Y,SLD,10
+1759,Wolftrap Elementary,2010-2011,SCH,29.0,Fairfax County ,1810.0,03,5.0,M,Y,N,N,OHI,10
+1760,Woodberry Hills Elementary,2010-2011,SCH,108.0,Danville City ,220.0,01,3.0,M,Y,N,Y,AUT,11
+1761,Woodbine Pre-School Center,2010-2011,SCH,75.0,Prince William County ,190.0,PS,3.0,M,Y,N,N,DD,14
+1762,Woodbridge High,2010-2011,SCH,75.0,Prince William County ,60.0,09,3.0,M,Y,N,Y,OHI,14
+1763,Woodbridge Middle,2010-2011,SCH,75.0,Prince William County ,560.0,06,3.0,M,Y,N,Y,SLD,14
+1764,Woodbrook Elementary,2010-2011,SCH,2.0,Albemarle County ,930.0,PS,5.0,M,Y,N,N,SLI,10
+1765,Woodburn Elementary,2010-2011,SCH,29.0,Fairfax County ,650.0,02,4.0,M,Y,N,N,SLD,10
+1766,Woodgrove High,2010-2011,SCH,53.0,Loudoun County ,590.0,09,5.0,M,Y,N,N,SLD,17
+1767,Woodlawn Elementary,2010-2011,SCH,29.0,Fairfax County ,380.0,03,3.0,M,Y,N,Y,SLD,11
+1768,Woodlawn Pre-School Learning Center,2010-2011,SCH,114.0,Hopewell City ,151.0,PS,3.0,M,Y,N,Y,SLI,10
+1769,Woodlawn School,2010-2011,SCH,18.0,Carroll County ,450.0,06,5.0,F,Y,N,Y,SLD,10
+1770,Woodley Hills Elementary,2010-2011,SCH,29.0,Fairfax County ,590.0,01,4.0,M,Y,N,N,DD,10
+1771,Woodrow Wilson Elementary,2010-2011,SCH,108.0,Danville City ,1373.0,,3.0,M,Y,N,Y,SLI,13
+1772,Woodrow Wilson High,2010-2011,SCH,121.0,Portsmouth City ,1660.0,09,3.0,F,Y,N,N,SLD,10
+1773,Woodrow Wilson Middle,2010-2011,SCH,124.0,Roanoke City ,150.0,06,5.0,M,Y,N,Y,SLD,11
+1774,Woodside High,2010-2011,SCH,117.0,Newport News City ,1396.0,09,3.0,M,Y,N,N,SLD,13
+1775,Woodson High,2010-2011,SCH,29.0,Fairfax County ,1260.0,09,5.0,F,Y,N,N,SLD,10
+1776,Woodstock Elementary,2010-2011,SCH,128.0,Virginia Beach City ,390.0,01,3.0,M,Y,N,N,SLI,10
+1777,Woodville Elementary,2010-2011,SCH,123.0,Richmond City ,650.0,01,3.0,M,Y,N,Y,SLD,12
+1778,Woolridge Elementary,2010-2011,SCH,21.0,Chesterfield County ,440.0,02,5.0,M,Y,N,N,SLI,11
+1779,Woolwine Elementary,2010-2011,SCH,70.0,Patrick County ,80.0,04,5.0,F,Y,N,Y,SLI,10
+1780,Yellow Branch Elementary,2010-2011,SCH,16.0,Campbell County ,710.0,01,5.0,M,Y,N,Y,SLD,13
+1781,York High,2010-2011,SCH,98.0,York County ,30.0,09,5.0,M,Y,N,N,OHI,12
+1782,York River Academy,2010-2011,SCH,98.0,York County ,335.0,,5.0,M,Y,N,N,,10
+1783,Yorkshire Elementary,2010-2011,SCH,75.0,Prince William County ,350.0,01,4.0,M,Y,N,Y,SLI,10
+1784,Yorktown Elementary,2010-2011,SCH,98.0,York County ,210.0,01,3.0,M,Y,N,N,SLI,12
+1785,Yorktown High,2010-2011,SCH,7.0,Arlington County ,330.0,09,4.0,F,Y,N,N,SLD,11
+1786,Yorktown Middle,2010-2011,SCH,98.0,York County ,60.0,06,5.0,M,Y,N,N,SLD,13
+1787,Yowell Elementary,2010-2011,SCH,24.0,Culpeper County ,40.0,03,5.0,F,Y,N,N,SLI,11
+1788,Yuma Elementary,2010-2011,SCH,84.0,Scott County ,790.0,,5.0,M,Y,N,N,,11
